@@ -5,14 +5,14 @@
 		"name": "Afghanistan",
 		"info": "officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central Asia and South Asia.",
 		"link": "https://www.worldometers.info/img/flags/af-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Afghanistan_%28orthographic_projection%29.svg/800px-Afghanistan_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Afghanistan_%28orthographic_projection%29.svg/830px-Afghanistan_%28orthographic_projection%29.svg.png"
     },
     {
 		"id": "0002",
 		"name": "Albania",
 		"info": "officially the Republic of Albania, is a country in Southeastern Europe.",
 		"link": "https://www.worldometers.info/img/flags/al-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/225px-Location_Albania_Europe.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Location_Albania_Europe.png/1028px-Location_Albania_Europe.png"
     },
     {
 		"id": "0003",
@@ -26,266 +26,378 @@
 		"name": "Andorra",
 		"info": "officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south.",
 		"link": "https://www.worldometers.info/img/flags/an-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/800px-Location_Andorra_Europe.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/1028px-Location_Andorra_Europe.png"
     },
 	{
 		"id": "0005",
 		"name": "Angola",
 		"info": "officially the Republic of Angola, is a country located on the west coast of central-southern Africa.",
 		"link": "https://www.worldometers.info/img/flags/ao-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/375px-Angola_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Angola_%28orthographic_projection%29.svg/825px-Angola_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0006",
 		"name": "Antigua and Barbuda",
 		"info": "is a sovereign country in the West Indies. It lies at the juncture of the Caribbean Sea and the Atlantic Ocean in the Leeward Islands part of the Lesser Antilles, at 17°N latitude.",
 		"link": "https://www.worldometers.info/img/flags/ac-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/375px-ATG_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/900px-ATG_orthographic.svg.png"
     },
 	{
 		"id": "0007",
 		"name": "Argentina",
 		"info": "officially the Argentine Republic, is a country in the southern half of South America.",
 		"link": "https://www.worldometers.info/img/flags/ar-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ARG_orthographic_%28%2Ball_claims%29.svg/330px-ARG_orthographic_%28%2Ball_claims%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ARG_orthographic_%28%2Ball_claims%29.svg/827px-ARG_orthographic_%28%2Ball_claims%29.svg.png"
     },
 	{
 		"id": "0008",
 		"name": "Armenia",
 		"info": "officially the Republic of Armenia, is a landlocked country in the Armenian Highlands of Western Asia.",
 		"link": "https://www.worldometers.info/img/flags/am-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/375px-Armenia_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Armenia_%28orthographic_projection%29.svg/830px-Armenia_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0009",
 		"name": "Australia",
 		"info": "officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands.",
 		"link": "https://www.worldometers.info/img/flags/as-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/375px-Australia_with_AAT_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/900px-Australia_with_AAT_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0010",
 		"name": "Austria",
 		"info": "The Republic of Austria, commonly just Austria, is a country in the southern part of Central Europe, lying in the Eastern Alps.",
 		"link": "https://www.worldometers.info/img/flags/au-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU-Austria.svg/375px-EU-Austria.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU-Austria.svg/1070px-EU-Austria.svg.png"
     },
 	{
 		"id": "0011",
 		"name": "Azerbaijan",
 		"info": "officially the Republic of Azerbaijan, is a transcontinental country located at the boundary of Eastern Europe and Western Asia.",
 		"link": "https://www.worldometers.info/img/flags/aj-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/375px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/900px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
     },
 	{
 		"id": "0012",
 		"name": "Bahamas",
 		"info": "officially the Commonwealth of The Bahamas, is an island country within the Lucayan Archipelago of the West Indies in the North Atlantic.",
 		"link": "https://www.worldometers.info/img/flags/bf-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Bahamas_on_the_globe_%28Americas_centered%29.svg/375px-The_Bahamas_on_the_globe_%28Americas_centered%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/The_Bahamas_on_the_globe_%28Americas_centered%29.svg/900px-The_Bahamas_on_the_globe_%28Americas_centered%29.svg.png"
     },
 	{
 		"id": "0013",
 		"name": "Bahrain",
 		"info": "officially the Kingdom of Bahrain, is an island country in Western Asia.",
 		"link": "https://www.worldometers.info/img/flags/ba-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Map_of_Bahrain.svg/375px-Map_of_Bahrain.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Map_of_Bahrain.svg/1200px-Map_of_Bahrain.svg.png"
     },
 	{
 		"id": "0014",
 		"name": "Bangladesh",
 		"info": "officially the People's Republic of Bangladesh, is a country in South Asia.",
 		"link": "https://www.worldometers.info/img/flags/bg-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bangladesh_%28orthographic_projection%29.svg/330px-Bangladesh_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bangladesh_%28orthographic_projection%29.svg/830px-Bangladesh_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0015",
 		"name": "Barbados",
 		"info": "is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of the Americas, and the most easterly of the Caribbean Islands.",
 		"link": "https://www.worldometers.info/img/flags/bb-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BRB_orthographic.svg/375px-BRB_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/BRB_orthographic.svg/900px-BRB_orthographic.svg.png"
     },
 	{
 		"id": "0016",
 		"name": "Belarus",
 		"info": "officially the Republic of Belarus, is a landlocked country in Eastern Europe.",
 		"link": "https://www.worldometers.info/img/flags/bo-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Europe-Belarus_%28orthographic_projection%29.svg/330px-Europe-Belarus_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Europe-Belarus_%28orthographic_projection%29.svg/900px-Europe-Belarus_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0017",
 		"name": "Belgium",
 		"info": "officially the Kingdom of Belgium, is a country in Northwestern Europe.",
 		"link": "https://www.worldometers.info/img/flags/be-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/EU-Belgium.svg/375px-EU-Belgium.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/EU-Belgium.svg/1070px-EU-Belgium.svg.png"
     },
 	{
 		"id": "0018",
 		"name": "Belize",
 		"info": "is a Caribbean and Central American country on the northeastern coast of Central America.",
 		"link": "https://www.worldometers.info/img/flags/bh-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BLZ_orthographic.svg/375px-BLZ_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BLZ_orthographic.svg/900px-BLZ_orthographic.svg.png"
     },
 	{
 		"id": "0019",
 		"name": "Benin",
 		"info": "officially the Republic of Benin , and formerly Dahomey, is a country in West Africa.",
 		"link": "https://www.worldometers.info/img/flags/bn-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Benin_%28orthographic_projection_with_inset%29.svg/375px-Benin_%28orthographic_projection_with_inset%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Benin_%28orthographic_projection_with_inset%29.svg/830px-Benin_%28orthographic_projection_with_inset%29.svg.png"
     },
 	{
 		"id": "0020",
 		"name": "Bhutan",
 		"info": "officially the Kingdom of Bhutan, is a landlocked country in South Asia. It is situated in the Eastern Himalayas, between China in the north and India in the south.",
 		"link": "https://www.worldometers.info/img/flags/bt-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bhutan_%28orthographic_projection%29.svg/375px-Bhutan_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bhutan_%28orthographic_projection%29.svg/830px-Bhutan_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0021",
 		"name": "Bolivia",
 		"info": "officially the Plurinational State of Bolivia, is a landlocked country located in western-central South America.",
 		"link": "https://www.worldometers.info/img/flags/bl-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BOL_orthographic.svg/330px-BOL_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BOL_orthographic.svg/825px-BOL_orthographic.svg.png"
     },
 	{
 		"id": "0022",
 		"name": "Bosnia and Herzegovina",
 		"info": "sometimes called Bosnia–Herzegovina and often known informally as Bosnia, is a country at the crossroads of south and southeast Europe, located in the Balkans.",
 		"link": "https://www.worldometers.info/img/flags/bk-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Europe-Bosnia_and_Herzegovina.svg/375px-Europe-Bosnia_and_Herzegovina.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Europe-Bosnia_and_Herzegovina.svg/1070px-Europe-Bosnia_and_Herzegovina.svg.png"
     },
 	{
 		"id": "0023",
 		"name": "Botswana",
 		"info": "is a landlocked country in Southern Africa. Botswana is topographically flat, with approximately 70 percent of its territory being the Kalahari Desert.",
 		"link": "https://www.worldometers.info/img/flags/bc-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Botswana_%28centered_orthographic_projection%29.svg/330px-Botswana_%28centered_orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Botswana_%28centered_orthographic_projection%29.svg/825px-Botswana_%28centered_orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0024",
 		"name": "Brazil",
 		"info": "officially the Federative Republic of Brazil, is the largest country in both South America and Latin America.",
 		"link": "https://www.worldometers.info/img/flags/br-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BRA_orthographic.svg/375px-BRA_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BRA_orthographic.svg/827px-BRA_orthographic.svg.png"
     },
 	{
 		"id": "0025",
 		"name": "Brunei",
 		"info": "is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak.",
 		"link": "https://www.worldometers.info/img/flags/bx-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Brunei_%28orthographic_projection%29.svg/330px-Brunei_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Brunei_%28orthographic_projection%29.svg/825px-Brunei_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0026",
 		"name": "Bulgaria",
 		"info": "is a country located on the north coast of the island of Borneo in Southeast Asia. Apart from its South China Sea coast, it is completely surrounded by the Malaysian state of Sarawak.",
 		"link": "https://www.worldometers.info/img/flags/bu-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EU-Bulgaria.svg/375px-EU-Bulgaria.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EU-Bulgaria.svg/1070px-EU-Bulgaria.svg.png"
     },
 	{
 		"id": "0027",
 		"name": "Burkina Faso",
 		"info": "is a landlocked country in West Africa with an area of 274,200 km2 (105,900 sq mi), bordered by Mali to the northwest, Niger to the northeast, Benin to the southeast, Togo and Ghana to the south, and the Ivory Coast to the southwest.",
 		"link": "https://www.worldometers.info/img/flags/uv-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/330px-Burkina_Faso_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Burkina_Faso_%28orthographic_projection%29.svg/830px-Burkina_Faso_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0028",
 		"name": "Burundi",
 		"info": "is a landlocked country in the Great Rift Valley at the junction between the African Great Lakes region and East Africa.",
 		"link": "https://www.worldometers.info/img/flags/by-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burundi_%28orthographic_projection%29.svg/330px-Burundi_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Burundi_%28orthographic_projection%29.svg/825px-Burundi_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0029",
 		"name": "Ivory Coast",
 		"info": "also known as Côte d'Ivoire, officially the Republic of Côte d'Ivoire, is a country on the southern coast of West Africa.",
 		"link": "https://www.worldometers.info/img/flags/iv-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg/375px-C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg/825px-C%C3%B4te_d%27Ivoire_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0030",
 		"name": "Cabo Verde",
 		"info": "officially the Republic of Cabo Verde, is an archipelago and island country in the central Atlantic Ocean, consisting of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi).",
 		"link": "https://www.worldometers.info/img/flags/cv-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/330px-Cape_Verde_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/830px-Cape_Verde_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0031",
 		"name": "Cambodia",
 		"info": "officially the Kingdom of Cambodia, is a country located in the southern portion of the Indochinese Peninsula in Southeast Asia.",
 		"link": "https://www.worldometers.info/img/flags/cb-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cambodia_on_the_globe_%28Cambodia_centered%29.svg/330px-Cambodia_on_the_globe_%28Cambodia_centered%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cambodia_on_the_globe_%28Cambodia_centered%29.svg/900px-Cambodia_on_the_globe_%28Cambodia_centered%29.svg.png"
     },
 	{
 		"id": "0032",
 		"name": "Cameroon",
 		"info": "officially the Republic of Cameroon (French: République du Cameroun), is a country in west-central Africa.",
 		"link": "https://www.worldometers.info/img/flags/cm-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cameroon_%28orthographic_projection%29.svg/375px-Cameroon_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cameroon_%28orthographic_projection%29.svg/825px-Cameroon_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0033",
 		"name": "Canada",
 		"info": "is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean.",
 		"link": "https://www.worldometers.info/img/flags/ca-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CAN_orthographic.svg/330px-CAN_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CAN_orthographic.svg/827px-CAN_orthographic.svg.png"
     },
 	{
 		"id": "0034",
 		"name": "CAR",
 		"info": "The Central African Republic (CAR) is a landlocked country in Central Africa. It is bordered by Chad to the north, Sudan to the northeast, South Sudan to the southeast, the DR Congo to the south, the Republic of the Congo to the southwest, and Cameroon to the west.",
 		"link": "https://www.worldometers.info/img/flags/ct-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Central_African_Republic_%28centered_orthographic_projection%29.svg/330px-Central_African_Republic_%28centered_orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Central_African_Republic_%28centered_orthographic_projection%29.svg/825px-Central_African_Republic_%28centered_orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0035",
 		"name": "Chile",
 		"info": "officially the Republic of Chile, is a country in the western part of South America.",
 		"link": "https://www.worldometers.info/img/flags/ci-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg/390px-CHL_orthographic_%28%2Ball_claims%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg/827px-CHL_orthographic_%28%2Ball_claims%29.svg.png"
     },
 	{
 		"id": "0036",
 		"name": "China",
 		"info": "officially the People's Republic of China (PRC), is a country in East Asia. It is the world's most populous country, with a population exceeding 1.4 billion, slightly ahead of India.",
 		"link": "https://www.worldometers.info/img/flags/ch-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CHN_orthographic.svg/375px-CHN_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CHN_orthographic.svg/825px-CHN_orthographic.svg.png"
     },
 	{
 		"id": "0037",
 		"name": "Colombia",
 		"info": "officially the Republic of Colombia, is a country in South America with insular regions in North America—near Nicaragua's Caribbean coast—as well as in the Pacific Ocean.",
 		"link": "https://www.worldometers.info/img/flags/co-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg/375px-COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg/825px-COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg.png"
     },
 	{
 		"id": "0038",
 		"name": "Comoros",
 		"info": "officially the Union of the Comoros, is an independent country made up of three islands in southeastern Africa, located at the northern end of the Mozambique Channel in the Indian Ocean.",
 		"link": "https://www.worldometers.info/img/flags/cn-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Comoros_%28orthographic_projection%29.svg/375px-Comoros_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Comoros_%28orthographic_projection%29.svg/825px-Comoros_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0039",
 		"name": "Congo",
-		"info": "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also colloquially Zaire, is a country in Central Africa.",
+		"info": "The Republic of the Congo, also known as Congo-Brazzaville, the Congo Republic or simply either Congo or the Congo, is a country located in the western coast of Central Africa to the west of the Congo river.",
 		"link": "https://www.worldometers.info/img/flags/cg-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg/330px-Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg/825px-Republic_of_the_Congo_%28orthographic_projection%29.svg.png"
     },
 	{
 		"id": "0040",
 		"name": "Costa Rica",
 		"info": "officially the Republic of Costa Rica, is a country in the Central American region of North America, bordered by Nicaragua to the north, the Caribbean Sea to the northeast, Panama to the southeast, the Pacific Ocean to the southwest, and maritime border with Ecuador to the south of Cocos Island.",
 		"link": "https://www.worldometers.info/img/flags/cs-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CRI_orthographic.svg/375px-CRI_orthographic.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CRI_orthographic.svg/825px-CRI_orthographic.svg.png"
     },
 	{
 		"id": "0041",
 		"name": "Croatia",
 		"info": "officially the Republic of Croatia, is a country at the crossroads of Central and Southeast Europe.",
 		"link": "https://www.worldometers.info/img/flags/hr-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/EU-Croatia.svg/375px-EU-Croatia.svg.png"
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/EU-Croatia_%28orthographic_projection%29.png/900px-EU-Croatia_%28orthographic_projection%29.png"
+    },
+	{
+		"id": "0042",
+		"name": "Cuba",
+		"info": "officially the Republic of Cuba, is an island country comprising the island of Cuba, as well as Isla de la Juventud and several minor archipelagos.",
+		"link": "https://www.worldometers.info/img/flags/cu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CUB_orthographic.svg/825px-CUB_orthographic.svg.png"
+    },
+	{
+		"id": "0043",
+		"name": "Cyprus",
+		"info": "officially the Republic of Cyprus, is an island country located south of the Anatolian Peninsula in the eastern Mediterranean Sea.",
+		"link": "https://www.worldometers.info/img/flags/cy-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EU-Cyprus.svg/1070px-EU-Cyprus.svg.png"
+    },
+	{
+		"id": "0044",
+		"name": "Czechia",
+		"info": "The Czech Republic, or simply Czechia, is a landlocked country in Central Europe.",
+		"link": "https://www.worldometers.info/img/flags/ez-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/1070px-EU-Czech_Republic.svg.png"
+    },
+	{
+		"id": "0045",
+		"name": "Denmark",
+		"info": "is a Nordic country in Northern Europe. It is the most populous and politically central constituent of the Kingdom of Denmark.",
+		"link": "https://www.worldometers.info/img/flags/da-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EU-Denmark.svg/1070px-EU-Denmark.svg.png"
+    },
+	{
+		"id": "0046",
+		"name": "Djibouti",
+		"info": "officially the Republic of Djibouti, is a country in the Horn of Africa, bordered by Somalia to the south, Ethiopia to the southwest, Eritrea in the north, and the Red Sea and the Gulf of Aden to the east.",
+		"link": "https://www.worldometers.info/img/flags/dj-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Djibouti_%28orthographic_projection%29.svg/825px-Djibouti_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0047",
+		"name": "Dominica",
+		"info": "officially the Commonwealth of Dominica, is an island country in the Caribbean.",
+		"link": "https://www.worldometers.info/img/flags/do-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dominica_on_the_globe_%28Americas_centered%29.svg/900px-Dominica_on_the_globe_%28Americas_centered%29.svg.png"
+    },
+	{
+		"id": "0048",
+		"name": "Dominican Republic",
+		"info": "The Dominican Republic is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean region.",
+		"link": "https://www.worldometers.info/img/flags/dr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dominican_Republic_%28orthographic_projection%29.svg/825px-Dominican_Republic_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0049",
+		"name": "North Korea",
+		"info": "officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia.",
+		"link": "https://www.worldometers.info/img/flags/kn-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg/812px-Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0050",
+		"name": "Democratic Republic of the Congo",
+		"info": "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also colloquially Zaire, is a country in Central Africa.",
+		"link": "https://www.worldometers.info/img/flags/congo-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg/825px-Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0051",
+		"name": "Ecuador",
+		"info": "officially the Republic of Ecuador, is a country in northwestern South America",
+		"link": "https://www.worldometers.info/img/flags/ec-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ECU_orthographic.svg/825px-ECU_orthographic.svg.png"
+    },
+	{
+		"id": "0052",
+		"name": "Egypt",
+		"info": "officially the Arab Republic of Egypt, is a transcontinental country spanning the northeast corner of Africa and southwest corner of Asia via a land bridge formed by the Sinai Peninsula.",
+		"link": "https://www.worldometers.info/img/flags/eg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/EGY_orthographic.svg/825px-EGY_orthographic.svg.png"
+    },
+	{
+		"id": "0053",
+		"name": "El Salvador",
+		"info": "officially the Republic of El Salvador, is a country in Central America.",
+		"link": "https://www.worldometers.info/img/flags/es-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/El_Salvador_%28orthographic_projection%29.svg/825px-El_Salvador_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0054",
+		"name": "Equatorial Guinea",
+		"info": "officially the Republic of Equatorial Guinea, is a country on the west coast of Central Africa, with an area of 28,000 square kilometres.",
+		"link": "https://www.worldometers.info/img/flags/ek-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GNQ_orthographic.svg/900px-GNQ_orthographic.svg.png"
+    },
+	{
+		"id": "0055",
+		"name": "Eritrea",
+		"info": "officially the State of Eritrea, is a country in the Horn of Africa region of Eastern Africa, with its capital and largest city at Asmara.",
+		"link": "https://www.worldometers.info/img/flags/er-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Eritrea_%28Africa_orthographic_projection%29.svg/825px-Eritrea_%28Africa_orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0056",
+		"name": "Estonia",
+		"info": "formally the Republic of Estonia, is a country by the Baltic Sea in Northern Europe.",
+		"link": "https://www.worldometers.info/img/flags/en-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Estonia_on_the_globe_%28Europe_centered%29.svg/900px-Estonia_on_the_globe_%28Europe_centered%29.svg.png"
+    },
+	{
+		"id": "0057",
+		"name": "Eswatini",
+		"info": "officially the Kingdom of Eswatini and formerly named Swaziland, is a landlocked country in Southern Africa.",
+		"link": "https://www.worldometers.info/img/flags/wz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_Eswatini_AU_Africa.svg/969px-Location_Eswatini_AU_Africa.svg.png"
     }
   ]
 }
