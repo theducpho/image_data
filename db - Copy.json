@@ -398,6 +398,370 @@
 		"info": "officially the Kingdom of Eswatini and formerly named Swaziland, is a landlocked country in Southern Africa.",
 		"link": "https://www.worldometers.info/img/flags/wz-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_Eswatini_AU_Africa.svg/969px-Location_Eswatini_AU_Africa.svg.png"
-    }
+    },
+	{
+		"id": "0058",
+		"name": "Ethiopia",
+		"info": "officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the Horn of Africa.",
+		"link": "https://www.worldometers.info/img/flags/et-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ethiopia_%28Africa_orthographic_projection%29.svg/825px-Ethiopia_%28Africa_orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0059",
+		"name": "Fiji",
+		"info": "officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the South Pacific Ocean.",
+		"link": "https://www.worldometers.info/img/flags/fj-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fiji_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg/900px-Fiji_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg.png"
+    },
+	{
+		"id": "0060",
+		"name": "Finland",
+		"info": "officially the Republic of Finland, is a Nordic country in Northern Europe.",
+		"link": "https://www.worldometers.info/img/flags/fi-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/1070px-EU-Finland.svg.png"
+    },
+	{
+		"id": "0061",
+		"name": "France",
+		"info": "is a country primarily located in Western Europe. It also comprises overseas regions and territories in the Americas and the Atlantic, Pacific and Indian Oceans.",
+		"link": "https://www.worldometers.info/img/flags/fr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EU-France_%28orthographic_projection%29.svg/900px-EU-France_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0062",
+		"name": "Gabon",
+		"info": "is a country on the west coast of Central Africa.",
+		"link": "https://www.worldometers.info/img/flags/gb-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gabon_%28orthographic_projection%29.svg/825px-Gabon_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0063",
+		"name": "Gambia",
+		"info": "The Gambia, officially the Republic of The Gambia, is a country in West Africa. It is the smallest country within mainland Africa and is surrounded by Senegal.",
+		"link": "https://www.worldometers.info/img/flags/ga-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Gambia_%28orthographic_projection_with_inset%29.svg/830px-Gambia_%28orthographic_projection_with_inset%29.svg.png"
+    },
+	{
+		"id": "0064",
+		"name": "Georgia",
+		"info": "is a transcontinental country at the intersection of Eastern Europe and Western Asia.",
+		"link": "https://www.worldometers.info/img/flags/gg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Georgia_%28orthographic_projection_with_inset%29.svg/825px-Georgia_%28orthographic_projection_with_inset%29.svg.png"
+    },
+	{
+		"id": "0065",
+		"name": "Germany",
+		"info": "officially the Federal Republic of Germany, is a country in Central Europe. It is the second most populous country in Europe after Russia, and the most populous member state of the European Union.",
+		"link": "https://www.worldometers.info/img/flags/gm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EU-Germany_%28orthographic_projection%29.svg/900px-EU-Germany_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0066",
+		"name": "Ghana",
+		"info": "officially the Republic of Ghana, is a country in West Africa. It abuts the Gulf of Guinea and the Atlantic Ocean to the south.",
+		"link": "https://www.worldometers.info/img/flags/gh-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ghana_%28orthographic_projection%29.svg/825px-Ghana_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0067",
+		"name": "Greece",
+		"info": "officially the Hellenic Republic, is a country in Southeast Europe. It is situated on the southern tip of the Balkans, and is located at the crossroads of Europe, Asia, and Africa.",
+		"link": "https://www.worldometers.info/img/flags/gr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/EU-Greece_%28orthographic_projection%29.svg/900px-EU-Greece_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0068",
+		"name": "Grenada",
+		"info": "is an island country in the West Indies in the Caribbean Sea at the southern end of the Grenadines island chain.",
+		"link": "https://www.worldometers.info/img/flags/gj-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg/900px-Grenada_on_the_globe_%28Americas_centered%29.svg.png"
+    },
+	{
+		"id": "0069",
+		"name": "Guatemala",
+		"info": "officially the Republic of Guatemala, is a country in Central America. It is bordered to the north and west by Mexico.",
+		"link": "https://www.worldometers.info/img/flags/gt-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Guatemala_%28orthographic_projection%29.svg/825px-Guatemala_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0070",
+		"name": "Guinea",
+		"info": "officially the Republic of Guinea, is a coastal country in West Africa.",
+		"link": "https://www.worldometers.info/img/flags/gv-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Guinea_%28orthographic_projection%29.svg/825px-Guinea_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0071",
+		"name": "Guinea-Bissau",
+		"info": "officially the Republic of Guinea-Bissau, is a country in West Africa that covers 36,125 square kilometres (13,948 sq mi) with an estimated population of 1,726,000.",
+		"link": "https://www.worldometers.info/img/flags/pu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Guinea_Bissau_AU_Africa.svg/969px-Location_Guinea_Bissau_AU_Africa.svg.png"
+    },
+	{
+		"id": "0072",
+		"name": "Guyana",
+		"info": "officially the Co‑operative Republic of Guyana, is a country on the northern mainland of South America.",
+		"link": "https://www.worldometers.info/img/flags/gy-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Guyana_%28orthographic_projection%29.svg/812px-Guyana_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0073",
+		"name": "Haiti",
+		"info": "officially the Republic of Haiti and formerly known as Hayti, is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean Sea, east of Cuba and Jamaica.",
+		"link": "https://www.worldometers.info/img/flags/ha-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Haiti_%28orthographic_projection%29.svg/825px-Haiti_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0074",
+		"name": "Holy See",
+		"info": "The Holy See, also called the See of Rome, Petrine See or Apostolic See, is the jurisdiction of the Pope in his role as the bishop of Rome.",
+		"link": "https://www.worldometers.info/img/flags/vt-flag.gif",
+		"location": "https://www.indexmundi.com/maps/locator/eur/vt_large_locator.gif"
+    },
+	{
+		"id": "0075",
+		"name": "Honduras",
+		"info": "officially the Republic of Honduras, is a country in Central America.",
+		"link": "https://www.worldometers.info/img/flags/ho-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/HND_orthographic.svg/825px-HND_orthographic.svg.png"
+    },
+	{
+		"id": "0076",
+		"name": "Hungary",
+		"info": "is a landlocked country in Central Europe.",
+		"link": "https://www.worldometers.info/img/flags/hu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/1070px-EU-Hungary.svg.png"
+    },
+	{
+		"id": "0077",
+		"name": "Iceland",
+		"info": "is a Nordic island country in the North Atlantic Ocean and in the Arctic Ocean. Iceland is the most sparsely populated country in Europe.",
+		"link": "https://www.worldometers.info/img/flags/ic-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Iceland_%28orthographic_projection%29.svg/812px-Iceland_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0078",
+		"name": "India",
+		"info": "officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.",
+		"link": "https://www.worldometers.info/img/flags/in-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/768px-India_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0079",
+		"name": "Indonesia",
+		"info": "officially the Republic of Indonesia, is a country in Southeast Asia and Oceania between the Indian and Pacific oceans. It consists of over 17,000 islands, including Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea.",
+		"link": "https://www.worldometers.info/img/flags/id-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Indonesia_%28orthographic_projection%29.svg/825px-Indonesia_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0080",
+		"name": "Iran",
+		"info": "officially the Islamic Republic of Iran, and also called Persia, is a country located in Western Asia.",
+		"link": "https://www.worldometers.info/img/flags/ir-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Iran_%28orthographic_projection%29.svg/830px-Iran_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0081",
+		"name": "Iraq",
+		"info": "officially the Republic of Iraq, is a country in Western Asia. It is bordered by Turkey to the north, Iran to the east, the Persian Gulf and Kuwait to the southeast, Saudi Arabia to the south, Jordan to the southwest and Syria to the west.",
+		"link": "https://www.worldometers.info/img/flags/iz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Iraq_%28orthographic%29.svg/830px-Iraq_%28orthographic%29.svg.png"
+    },
+	{
+		"id": "0082",
+		"name": "Ireland",
+		"info": "is an island in the North Atlantic Ocean, in north-western Europe. It is separated from Great Britain to its east by the North Channel, the Irish Sea, and St George's Channel.",
+		"link": "https://www.worldometers.info/img/flags/ei-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Map_of_Ireland_in_Europe.svg/1070px-Map_of_Ireland_in_Europe.svg.png"
+    },
+	{
+		"id": "0083",
+		"name": "Israel",
+		"info": "officially the State of Israel, is a country in Western Asia.",
+		"link": "https://www.worldometers.info/img/flags/is-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Israel_%28orthographic_projection%29_with_occupied_territories.svg/768px-Israel_%28orthographic_projection%29_with_occupied_territories.svg.png"
+    },
+	{
+		"id": "0084",
+		"name": "Italy",
+		"info": "officially the Italian Republic, or the Republic of Italy, is a country in Southern Europe.",
+		"link": "https://www.worldometers.info/img/flags/it-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EU-Italy_%28orthographic_projection%29.svg/900px-EU-Italy_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0085",
+		"name": "Jamaica",
+		"info": "is an island country situated in the Caribbean Sea. Spanning 10,990 square kilometres (4,240 sq mi) in area, it is the third-largest island of the Greater Antilles and the Caribbean (after Cuba and Hispaniola).",
+		"link": "https://www.worldometers.info/img/flags/jm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Jamaica_%28orthographic_projection%29.svg/825px-Jamaica_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0086",
+		"name": "Japan",
+		"info": "is an island country in East Asia. It is situated in the northwest Pacific Ocean, and is bordered on the west by the Sea of Japan, while extending from the Sea of Okhotsk in the north toward the East China Sea, Philippine Sea, and Taiwan in the south.",
+		"link": "https://www.worldometers.info/img/flags/ja-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Japan_%28orthographic_projection%29.svg/804px-Japan_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0087",
+		"name": "Jordan",
+		"info": "officially the Hashemite Kingdom of Jordan, is a country in Western Asia. It is situated at the crossroads of Asia, Africa, and Europe, within the Levant region, on the East Bank of the Jordan River.",
+		"link": "https://www.worldometers.info/img/flags/jo-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jordan_%28orthographic_projection%29.svg/830px-Jordan_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0088",
+		"name": "Kazakhstan",
+		"info": "officially the Republic of Kazakhstan, is a transcontinental country located mainly in Central Asia and partly in Eastern Europe.",
+		"link": "https://www.worldometers.info/img/flags/kz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kazakhstan_%28orthographic_projection%29.svg/830px-Kazakhstan_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0089",
+		"name": "Kenya",
+		"info": "officially the Republic of Kenya, is a country in East Africa.",
+		"link": "https://www.worldometers.info/img/flags/ke-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kenya_%28orthographic_projection%29.svg/825px-Kenya_%28orthographic_projection%29.svg.png"
+    },
+	{
+		"id": "0090",
+		"name": "Kiribati",
+		"info": "officially the Republic of Kiribati, is an island country in Oceania in the central Pacific Ocean.",
+		"link": "https://www.worldometers.info/img/flags/kr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kiribati_on_the_globe_%28Polynesia_centered%29.svg/900px-Kiribati_on_the_globe_%28Polynesia_centered%29.svg.png"
+    },
+	{
+		"id": "0091",
+		"name": "Kuwait",
+		"info": "officially the State of Kuwait, is a country in Western Asia.",
+		"link": "https://www.worldometers.info/img/flags/ku-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/KWT_orthographic.svg/900px-KWT_orthographic.svg.png"
+    },
+	{
+		"id": "0092",
+		"name": "Kyrgyzstan",
+		"info": "or the Kyrgyz Republic, is a landlocked country in Central Asia. Kyrgyzstan is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the south, and the People's Republic of China to the east.",
+		"link": "https://www.worldometers.info/img/flags/kg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kyrgyzstan_%28orthographic_projection%29.svg/830px-Kyrgyzstan_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0093",
+		"name": "Laos",
+		"info": "officially the Lao People's Democratic Republic, is a socialist state and the only landlocked country in Southeast Asia.",
+		"link": "https://www.worldometers.info/img/flags/la-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laos_%28orthographic_projection%29.svg/768px-Laos_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0094",
+		"name": "Latvia",
+		"info": "officially the Republic of Latvia, is a country in the Baltic region of Northern Europe.",
+		"link": "https://www.worldometers.info/img/flags/lg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/EU-Latvia.svg/1070px-EU-Latvia.svg.png"
+	},
+	{
+		"id": "0095",
+		"name": "Lebanon",
+		"info": "officially the Republic of Lebanon or the Lebanese Republic, is a country in Western Asia.",
+		"link": "https://www.worldometers.info/img/flags/le-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lebanon_%28orthographic_projection%29.svg/900px-Lebanon_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0096",
+		"name": "Lesotho",
+		"info": "officially the Kingdom of Lesotho, is a country landlocked as an enclave in South Africa. It is situated in the Maloti Mountains and contains the highest mountains in Southern Africa.",
+		"link": "https://www.worldometers.info/img/flags/lt-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Lesotho_%28orthographic_projection%29.svg/830px-Lesotho_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0097",
+		"name": "Liberia",
+		"info": "officially the Republic of Liberia, is a country on the West African coast. It is bordered by Sierra Leone to its northwest, Guinea to its north, Ivory Coast to its east, and the Atlantic Ocean to its south and southwest.",
+		"link": "https://www.worldometers.info/img/flags/li-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liberia_%28orthographic_projection%29.svg/825px-Liberia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0098",
+		"name": "Libya",
+		"info": "officially the State of Libya, is a country in the Maghreb region in North Africa.",
+		"link": "https://www.worldometers.info/img/flags/ly-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Libya_%28centered_orthographic_projection%29.svg/752px-Libya_%28centered_orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0099",
+		"name": "Liechtenstein",
+		"info": "officially the Principality of Liechtenstein, is a German-speaking microstate located in the Alps between Austria and Switzerland.",
+		"link": "https://www.worldometers.info/img/flags/ls-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Europe-Liechtenstein.svg/1070px-Europe-Liechtenstein.svg.png"
+	},
+	{
+		"id": "0100",
+		"name": "Lithuania",
+		"info": "officially the Republic of Lithuania, is a country in the Baltic region of Europe.",
+		"link": "https://www.worldometers.info/img/flags/lh-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EU-Lithuania.svg/1070px-EU-Lithuania.svg.png"
+	},
+	{
+		"id": "0101",
+		"name": "Luxembourg",
+		"info": "officially the Grand Duchy of Luxembourg, is a small landlocked country in Western Europe. It borders Belgium to the west and north, Germany to the east, and France to the south.",
+		"link": "https://www.worldometers.info/img/flags/lu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EU-Luxembourg.svg/1070px-EU-Luxembourg.svg.png"
+	},
+	{
+		"id": "0102",
+		"name": "Madagascar",
+		"info": "officially the Republic of Madagascar, is an island country in the Indian Ocean, approximately 400 kilometres (250 miles) off the coast of East Africa across the Mozambique Channel.",
+		"link": "https://www.worldometers.info/img/flags/ma-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Madagascar_%28centered_orthographic_projection%29.svg/825px-Madagascar_%28centered_orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0103",
+		"name": "Malawi",
+		"info": "officially the Republic of Malawi, is a landlocked country in Southeastern Africa that was formerly known as Nyasaland.",
+		"link": "https://www.worldometers.info/img/flags/mi-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Malawi_%28orthographic_projection%29.svg/825px-Malawi_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0104",
+		"name": "Malaysia",
+		"info": "is a country in Southeast Asia. The federal constitutional monarchy consists of thirteen states and three federal territories, separated by the South China Sea into two regions: Peninsular Malaysia and Borneo's East Malaysia.",
+		"link": "https://www.worldometers.info/img/flags/my-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Malaysia_%28orthographic_projection%29.svg/825px-Malaysia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0105",
+		"name": "Maldives",
+		"info": "officially the Republic of Maldives, is an archipelagic state located in South Asia, situated in the Indian Ocean.",
+		"link": "https://www.worldometers.info/img/flags/mv-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Maldives_%28orthographic_projection%29.svg/830px-Maldives_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0106",
+		"name": "Mali",
+		"info": "officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of over 1,240,000 square kilometres (480,000 sq mi). The population of Mali is 21.9 million.",
+		"link": "https://www.worldometers.info/img/flags/ml-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mali_%28orthographic_projection%29.svg/825px-Mali_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0107",
+		"name": "Malta",
+		"info": "officially the Republic of Malta, is an island country in the Mediterranean Sea.",
+		"link": "https://www.worldometers.info/img/flags/mt-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/EU-Malta.svg/1070px-EU-Malta.svg.png"
+	},
+	{
+		"id": "0108",
+		"name": "Marshall Islands",
+		"info": "The Marshall Islands, officially the Republic of the Marshall Islands, is an independent island country and microstate near the Equator in the Pacific Ocean, slightly west of the International Date Line.",
+		"link": "https://www.worldometers.info/img/flags/rm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Marshall_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg/900px-Marshall_Islands_on_the_globe_%28small_islands_magnified%29_%28Polynesia_centered%29.svg.png"
+	},
+	{
+		"id": "0109",
+		"name": "Mauritania",
+		"info": "officially the Islamic Republic of Mauritania, is a sovereign country in West Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest.",
+		"link": "https://www.worldometers.info/img/flags/mr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mauritania_%28orthographic_projection%29.svg/825px-Mauritania_%28orthographic_projection%29.svg.png"
+	}
   ]
 }
