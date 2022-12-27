@@ -1,0 +1,6 @@
+MODULE 5/26 Get started with search
+
+1. Search engine basics
+
++ One of the earliest search engines was a program called Archie, which debuted in 1990 and
+allowed people to access and search file names—basically the names of the web pages.
