@@ -108,4 +108,67 @@ and how they decide what results to show.
 - And third, they decide which content is most useful to searchers (that’s called ranking).
 
 + Search engines may find multiple copies of the exact same piece of content,
-located on different websites.
+located on different websites. So you’re likely better off writing your own description.
+
+3. How search engines see the web
+
++ In simple terms, when you ask a search engine to find something,
+it looks through a huge list of previously indexed pages, called “the index,” and
+pulls out relevant results based on what you’re looking for.
+
++ But when a search engine looks at the same page, in addition to seeing what you see on your screen,
+it also sees the code behind it, called HTML.
+- title tag
+- name of image
+- use tool CMS
+
+4. Organic search explained
+
++ Organic results typically appear in the st match for the search query, or words, that were typed,
+in centre of the page, and are the results the search engine decides are the be.
+
++ Making improvements to your website to help it appear in the organic results is
+called search engine optimisation, or SEO.
+Good SEO involves helping a search engine find and understand your site.
+
++ What do search engines like? Good, relevant content.
+All you have to do is make sure that your content is relevant to the people searching,
+so they’ll click and stay for a visit.
+
+5. Paid search explained
+
++ We’ll cover how advertising on search engines works—that’s called SEM, or search engine marketing.
+
++ Every time someone searches advertisers compete for the opportunity to display ads.
+It happens in milliseconds and the searcher won’t see the details, only the winners: the ads that appear on the page.
+So, how do search engines decide who wins? The primary components are the bid and the quality.
+
+6. Google search console
+
++ Google Search Console? Well, it's a service that gives you feedback about how your website is doing
+in Google search results. It has two primary functions. It monitors your performance in Google Search results.
+And it also shows you how Google “sees” your site.
+
++ One way is through its “Search Analytics” reports.
+This can help you answer a few important questions like which searches bring people to your site.
+Or tell you when searchers click on your links. They can even let you know which other sites link to yours.
+
++ Another thing to look for is the number of clicks.
+You’ll want to know how often your site appears but gets no clicks—
+that’s a sign your content doesn’t match what people are looking for.
+
++ The “Links to your site” report shows websites that link to your site. Think of these as “referrals.”
+
++ Mobile Usability Report
+
++ There are two more really handy features within Search Console to know about:
+“Crawl” reports, and “Google Index” reports.
+- “Crawl” reports let you monitor whether Google can visit your web pages.
+This is important because if Google can’t access your web pages,
+your content can’t be included in Google’s search results.
+
+- The “Google Index” reports show what information Google recorded about your site and
+tells you if your pages are accessible. It’s easy to get started with Search Console.
+
+Go to www.google.com/webmasters.
+Once signed in, add your website and complete the verification to prove you own the website.
