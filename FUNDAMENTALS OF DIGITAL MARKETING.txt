@@ -89,3 +89,23 @@ b. Can it be measured ?
 c. Can employees attain this ?
 d. How relevant is it to the wider business objective ?
 e. And lastly, when is it due to be delivered or carried out ?
+
+MODULE 5/26 Get started with search
+
+1. Search engine basics
+
++ One of the earliest search engines was a program called Archie, which debuted in 1990 and
+allowed people to access and search file names—basically the names of the web pages.
+
+2. How search engines work
+
++ The basics on how search engines find web pages, what they do with the pages they find,
+and how they decide what results to show.
+
++ They all perform three tasks:
+- First, they examine content they learn about andhave permission to see (that’s called crawling).
+- Second, they categorise each piece of content (that’s called indexing).
+- And third, they decide which content is most useful to searchers (that’s called ranking).
+
++ Search engines may find multiple copies of the exact same piece of content,
+located on different websites.
