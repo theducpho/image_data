@@ -762,6 +762,41 @@
 		"info": "officially the Islamic Republic of Mauritania, is a sovereign country in West Africa. It is bordered by the Atlantic Ocean to the west, Western Sahara to the north and northwest, Algeria to the northeast, Mali to the east and southeast, and Senegal to the southwest.",
 		"link": "https://www.worldometers.info/img/flags/mr-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mauritania_%28orthographic_projection%29.svg/825px-Mauritania_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0110",
+		"name": "Mauritius",
+		"info": "officially the Republic of Mauritius, is an island nation in the Indian Ocean about 2,000 kilometres (1,100 nautical miles) off the southeast coast of the African continent, east of Madagascar.",
+		"link": "https://www.worldometers.info/img/flags/mp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mauritius_%28orthographic_projection_with_inset%29.svg/825px-Mauritius_%28orthographic_projection_with_inset%29.svg.png"
+	},
+	{
+		"id": "0111",
+		"name": "Mexico",
+		"info": "officially the United Mexican States, is a country in the southern portion of North America.",
+		"link": "https://www.worldometers.info/img/flags/mx-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/827px-MEX_orthographic.svg.png"
+	},
+	{
+		"id": "0112",
+		"name": "Micronesia",
+		"info": "is a subregion of Oceania, consisting of about 2,000 small islands in the western Pacific Ocean.",
+		"link": "https://www.worldometers.info/img/flags/fm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Oceania_UN_Geoscheme_-_Map_of_Micronesia.svg/1200px-Oceania_UN_Geoscheme_-_Map_of_Micronesia.svg.png"
+	},
+	{
+		"id": "0113",
+		"name": "Moldova",
+		"info": "officially the Republic of Moldova, is a landlocked country in Eastern Europe.",
+		"link": "https://www.worldometers.info/img/flags/md-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Moldova_Europe.png/1028px-Location_Moldova_Europe.png"
+	},
+	{
+		"id": "0114",
+		"name": "Moldova",
+		"info": "officially the Republic of Moldova, is a landlocked country in Eastern Europe.",
+		"link": "https://www.worldometers.info/img/flags/md-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Moldova_Europe.png/1028px-Location_Moldova_Europe.png"
 	}
   ]
 }
