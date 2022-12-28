@@ -172,3 +172,108 @@ tells you if your pages are accessible. It’s easy to get started with Search C
 
 Go to www.google.com/webmasters.
 Once signed in, add your website and complete the verification to prove you own the website.
+
+MODULE 6/26: Get discovered with search
+
+1. Intro to search engine optimisation (SEO)
+
++ when search engines understand your content, it will be shown to many more potential customers.
+
++ Search engines have formulas, or algorithms, that help them order the list of results.
+The search engines constantly scour the web for new content and try to make sense of it.
+
++ Where your website appears in these results is affected by the words
+you use on your site (fresh farm produce, for example) as well as other factors—such as
+how many websites link to yours.
+
++ What search engines value most is unique, engaging, relevant content
+because their job is to find and show the most useful stuff.
+
+2. The importance of an SEO plan
+
++ In this step-by-step process to create an SEO plan for your website, you'll learn how to:
+- develop
+- prioritise
+- adjust the plan to best suit your goals
+
++ Your first step should be keyword research. Next, consider related topics.
+You should do this at least once a year as part of your SEO plan.
+
++ Is no one linking to your site? Perhaps you can invite food bloggers to check out
+your farm in the hopes that they’ll mention you in a future blog post.
+Make a list of anything you think might improve your SEO performance.
+
++ Give yourself a deadline for each task so you’re working through your SEO plan steadily throughout the year.
+OK, once you’ve set this plan in motion, don’t just forget about it.
+
++ Review your results regularly and shift focus to the areas that need help.
+
++ Let’s recap. Start with keyword research to understand what your customers are looking for,
+then use that info to assess your successes and failures.
+Brainstorm solutions to improve your weak spots, and prioritise them.
+And never be afraid to redo your SEO plan based on changes in your world and the world of search engines.
+
+3. The SEO process
+
++ This video explains the SEO process and the steps you need to take in order to optimise your website, including:
+- discovering what words or phrases people use to search for your products or services
+- improving the content on your site.
+
++ The first step is called keyword research: discovering what words or phrases people are looking for
+when they are searching for products and services related to your business.
+
++ The work of SEO is never done, because trends come and go, users can change their behavior,
+and search engines evolve over time. Your job is to consider how changes will impact your site and
+what you need to do to continue to attract unpaid (organic) traffic.
+Here are 4 quick tips on how to stay up-to-date on search.
+- 1: Learn how search engines work.
+- 2: Keep an eye on changes and monitor how they affect your website.
+- 3: Find inspiration from other websites.
+- 4: Talk to your customers.
+
+4. How to choose keywords
+
++ Choosing keywords is the cornerstone of successful search engine optimisation. In this video, we'll discuss:
+- why you need to do keyword research
+- the difference between short tail and long tail keywords
+- what to consider when selecting keywords
+
++ There are three things you should consider when choosing the keywords for your SEO plan.
+- First, frequency, or the number of times a word is searched for.
+- Our second consideration: Competition. If you have a large, established website,
+you may be able to appear on the search engine results for high-volume, highly competitive keywords
+- Finally, and most importantly, the third consideration is relevance.
+The keywords you select should closely match what you actually offer.
+
++ Make sure your chosen keywords match the intent of the people who are searching.
+How? One option is to use Google Search Console to see which pages appear in search and get clicks.
+
++ What you need to consider when selecting keywords: frequency, competition and relevance.
+
+5. Setting realistic SEO goals
+
++ Setting realistic goals for organic traffic and assessing them with measurements
+that matter will help you strengthen your SEO strategy. In this video, you'll learn:
+- how to define success
+- how to select measurements that matter
+- what tools can help
+
++ One way to tackle SEO is to set clear goals, then measure your progress each step of the way.
+When you set SEO goals, you can measure, track and report on the results.
+You’ll know which efforts are succeeding—and which aren’t. And then you can adjust things to make it work better.
+
++ You’ve just identified three business goals:
+- Conversions: Turning website visitors into paying customers.
+- Engagement: Persuading people to interact with the content on your site.
+- Acquisition: Getting new customers.
+
++ The lesson? Don’t waste effort on keywords that aren’t relevant to what you do.
+
++ You can measure conversions by tracking the number of visitors who come to your website and buy fruits and
+vegetables; or tracking a smaller action that can lead to a sale, like signing up for your email newsletter.
++ You can measure acquisition and reach by tracking the number of times your business appears in
+search results—your “impressions”—and how often people click through to visit your site.
++ And, you can measure engagement by tracking what content your visitors read and interact with,
+such as leaving comments, or how many visitors become your fans on social media networks.
++ So how do you track all these things? Analytics tools and webmaster tools provided by search engines
+can give you this information—often for free.
