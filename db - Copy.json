@@ -793,10 +793,192 @@
 	},
 	{
 		"id": "0114",
-		"name": "Moldova",
-		"info": "officially the Republic of Moldova, is a landlocked country in Eastern Europe.",
-		"link": "https://www.worldometers.info/img/flags/md-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Location_Moldova_Europe.png/1028px-Location_Moldova_Europe.png"
+		"name": "Monaco",
+		"info": "officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera a few kilometres west of the Italian region of Liguria, in Western Europe, on the Mediterranean Sea.",
+		"link": "https://www.worldometers.info/img/flags/mn-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Location_Monaco_Europe.png/1028px-Location_Monaco_Europe.png"
+	},
+	{
+		"id": "0115",
+		"name": "Mongolia",
+		"info": "is a landlocked country in East Asia, bordered by Russia to the north and China to the south.",
+		"link": "https://www.worldometers.info/img/flags/mg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mongolia_%28orthographic_projection%29.svg/830px-Mongolia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0116",
+		"name": "Montenegro",
+		"info": "is a country in Southeastern Europe. It is a part of the Balkans and is bordered by Serbia to the northeast, Bosnia and Herzegovina to the north, Kosovo to the east, Albania to the southeast, Croatia to the northwest, and the Adriatic Sea to the west with a coastline of 293.5 km.",
+		"link": "https://www.worldometers.info/img/flags/mj-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Europe-Montenegro.svg/1070px-Europe-Montenegro.svg.png"
+	},
+	{
+		"id": "0117",
+		"name": "Morocco",
+		"info": "officially the Kingdom of Morocco, is the westernmost country in the Maghreb region of North Africa.",
+		"link": "https://www.worldometers.info/img/flags/mo-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Morocco_%28orthographic_projection%2C_WS_claimed%29.svg/825px-Morocco_%28orthographic_projection%2C_WS_claimed%29.svg.png"
+	},
+	{
+		"id": "0118",
+		"name": "Mozambique",
+		"info": "officially the Republic of Mozambique, is a country located in southeastern Africa bordered by the Indian Ocean to the east.",
+		"link": "https://www.worldometers.info/img/flags/mz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mozambique_%28orthographic_projection%29.svg/825px-Mozambique_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0119",
+		"name": "Myanmar",
+		"info": "officially the Republic of the Union of Myanmar, also known as Burma (the official name until 1989), is a country in Southeast Asia.",
+		"link": "https://www.worldometers.info/img/flags/bm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myanmar_%28orthographic_projection%29.svg/768px-Myanmar_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0120",
+		"name": "Namibia",
+		"info": "officially the Republic of Namibia, is a country in Southern Africa. Its western border is the Atlantic Ocean.",
+		"link": "https://www.worldometers.info/img/flags/wa-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Namibia_%28orthographic_projection%29.svg/825px-Namibia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0121",
+		"name": "Nauru",
+		"info": "officially the Republic of Nauru and formerly known as Pleasant Island, is an island country and microstate in Oceania, in the Central Pacific.",
+		"link": "https://www.worldometers.info/img/flags/nr-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NRU_orthographic.svg/900px-NRU_orthographic.svg.png"
+	},
+	{
+		"id": "0122",
+		"name": "Nepal",
+		"info": "formerly the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas.",
+		"link": "https://www.worldometers.info/img/flags/np-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nepal_%28orthographic_projection%29.svg/830px-Nepal_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0123",
+		"name": "Netherlands",
+		"info": "The Netherlands, informally Holland, is a country located in Northwestern Europe with overseas territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands.",
+		"link": "https://www.worldometers.info/img/flags/nl-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/EU-Netherlands_%28orthographic_projection%29.png/900px-EU-Netherlands_%28orthographic_projection%29.png"
+	},
+	{
+		"id": "0124",
+		"name": "New Zealand",
+		"info": "is an island country in the southwestern Pacific Ocean. It consists of two main landmasses—the North Island and the South Island—and over 700 smaller islands.",
+		"link": "https://www.worldometers.info/img/flags/nz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/NZL_orthographic_NaturalEarth.svg/768px-NZL_orthographic_NaturalEarth.svg.png"
+	},
+	{
+		"id": "0125",
+		"name": "Nicaragua",
+		"info": "officially the Republic of Nicaragua, is the largest country in Central America, bordered by Honduras to the north, the Caribbean to the east, Costa Rica to the south, and the Pacific Ocean to the west.",
+		"link": "https://www.worldometers.info/img/flags/nu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NIC_orthographic.svg/825px-NIC_orthographic.svg.png"
+	},
+	{
+		"id": "0126",
+		"name": "Niger",
+		"info": "officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest.",
+		"link": "https://www.worldometers.info/img/flags/ng-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Niger_%28orthographic_projection%29.svg/825px-Niger_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0127",
+		"name": "Nigeria",
+		"info": "officially the Federal Republic of Nigeria, is a country in West Africa. It is situated between the Sahel to the north and the Gulf of Guinea to the south in the Atlantic Ocean.",
+		"link": "https://www.worldometers.info/img/flags/ni-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nigeria_%28orthographic_projection%29.svg/830px-Nigeria_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0128",
+		"name": "North Macedonia",
+		"info": "officially the Republic of North Macedonia, is a country in Southeast Europe. It gained independence in 1991 as one of the successor states of Yugoslavia.",
+		"link": "https://www.worldometers.info/img/flags/mk-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Europe-Republic_of_North_Macedonia.svg/1070px-Europe-Republic_of_North_Macedonia.svg.png"
+	},
+	{
+		"id": "0129",
+		"name": "Norway",
+		"info": "officially the Kingdom of Norway, is a Nordic country in Northern Europe, the mainland territory of which comprises the western and northernmost portion of the Scandinavian Peninsula.",
+		"link": "https://www.worldometers.info/img/flags/no-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Europe-Norway_%28orthographic_projection%29.svg/900px-Europe-Norway_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0130",
+		"name": "Oman",
+		"info": "officially the Sultanate of Oman, is an Arabian country located in southwestern Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the Persian Gulf.",
+		"link": "https://www.worldometers.info/img/flags/mu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Oman_%28better%29_%28orthographic_projection%29.svg/825px-Oman_%28better%29_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0131",
+		"name": "Pakistan",
+		"info": "officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world's fifth-most populous country, with a population of almost 243 million people, and has the world's second-largest Muslim population just behind Indonesia.",
+		"link": "https://www.worldometers.info/img/flags/pk-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/PAK_orthographic.svg/830px-PAK_orthographic.svg.png"
+	},
+	{
+		"id": "0132",
+		"name": "Palau",
+		"info": "officially the Republic of Palau and historically Belau, Palaos or Pelew, is an island country and microstate in the western Pacific.",
+		"link": "https://www.worldometers.info/img/flags/ps-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Palau_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg/903px-Palau_on_the_globe_%28Southeast_Asia_centered%29_%28small_islands_magnified%29.svg.png"
+	},
+	{
+		"id": "0133",
+		"name": "Panama",
+		"info": "officially the Republic of Panama, is a transcontinental country spanning the southern part of North America and the northern part of South America.",
+		"link": "https://www.worldometers.info/img/flags/pm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PAN_orthographic.svg/825px-PAN_orthographic.svg.png"
+	},
+	{
+		"id": "0134",
+		"name": "Papua New Guinea",
+		"info": "officially the Independent State of Papua New Guinea, is a country in Oceania that comprises the eastern half of the island of New Guinea and its offshore islands in Melanesia.",
+		"link": "https://www.worldometers.info/img/flags/pp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Papua_New_Guinea_%28orthographic_projection%29.svg/812px-Papua_New_Guinea_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0135",
+		"name": "Paraguay",
+		"info": "officially the Republic of Paraguay, is a landlocked country in South America. It is bordered by Argentina to the south and southwest, Brazil to the east and northeast, and Bolivia to the northwest.",
+		"link": "https://www.worldometers.info/img/flags/pa-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/PRY_orthographic.svg/825px-PRY_orthographic.svg.png"
+	},
+	{
+		"id": "0136",
+		"name": "Peru",
+		"info": "officially the Republic of Peru, is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean.",
+		"link": "https://www.worldometers.info/img/flags/pe-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PER_orthographic.svg/827px-PER_orthographic.svg.png"
+	},
+	{
+		"id": "0137",
+		"name": "Philippines",
+		"info": "officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. It is situated in the western Pacific Ocean and consists of around 7,641 islands that are broadly categorized under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao.",
+		"link": "https://www.worldometers.info/img/flags/rp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PHL_orthographic.svg/825px-PHL_orthographic.svg.png"
+	},
+	{
+		"id": "0138",
+		"name": "Poland",
+		"info": "officially the Republic of Poland, is a country in Central Europe. It is divided into 16 administrative provinces called voivodeships, covering an area of 312,696 km2 (120,733 sq mi).",
+		"link": "https://www.worldometers.info/img/flags/pl-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/EU-Poland_%28orthographic_projection%29.svg/900px-EU-Poland_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0139",
+		"name": "Portugal",
+		"info": "officially the Portuguese Republic, is a country whose mainland is located on the Iberian Peninsula of Southwestern Europe, and whose territory also includes the Atlantic archipelagos of the Azores and Madeira.",
+		"link": "https://www.worldometers.info/img/flags/po-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/EU-Portugal_%28orthographic_projection%29.svg/900px-EU-Portugal_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0140",
+		"name": "Qatar",
+		"info": "officially the State of Qatar, is a country in Western Asia. It occupies the Qatar Peninsula on the northeastern coast of the Arabian Peninsula in the Middle East; it shares its sole land border with Saudi Arabia to the south, with the rest of its territory surrounded by the Persian Gulf.",
+		"link": "https://www.worldometers.info/img/flags/qa-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QAT_orthographic.svg/900px-QAT_orthographic.svg.png"
 	}
   ]
 }
