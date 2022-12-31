@@ -277,3 +277,72 @@ search results—your “impressions”—and how often people click through to 
 such as leaving comments, or how many visitors become your fans on social media networks.
 + So how do you track all these things? Analytics tools and webmaster tools provided by search engines
 can give you this information—often for free.
+
+
+MODULE 7/26: Make search work for you
+
+1. Making your web pages search friendly
+
++ Get started in search engine optimisation by improving the pages on your website.
+This video explains the elements that you can tweak to make your website easier for search engines to understand.
+We'll cover:
+- title and description meta tags
+- heading elements
+- page copy
+
++ The title and meta description are important because they both are used by the search engine
+to generate the actual search result for the specific page.
+The title is used to generate the first line shown; the meta description is used to
+generate the few short sentences that follow. A good meta description is usually two short sentences.
+A title should be short and sweet; a description should match what the page is about.
+
++ What you’ve done to optimise the farm’s web pages. You’ve looked at each of the major elements used by
+search engines and, in each instance, told them, “This page is about fresh fruits and vegetables.”
+
+2. How other websites can work for you
+
++ You can improve your search visibility across the web by thinking about off-site optimisation; that is,
+using what happens on other websites to promote yours. This video will show you some ways to start, including:
+- encouraging links to your website
+- engaging with your audience through good content
+- promoting your site with social media
+
++ Search engines might see these links as a sign that you have a high-quality site,
+and are perhaps a good option to show searchers.
+
++ backlinks – that means links to his site from other websites.
+
++ So how can you get more of these good links? The best way is to create great content on your own site.
+Then, others may link to you because they think their audience should see your content.
+You can also encourage others to write about you, and share links to your website.
+In the SEO industry, this is called content marketing.
+
++ The best way to support off-site optimisation is by creating good content that
+establishes your site as a quality resource, attracting visitors who then share it across social media.
+
+3. Cross borders with SEO
+
++ Different countries require different marketing tactics, and
+international search engine optimisation is no different.
+In this lesson, you'll learn about changes to make when your website crosses international borders, including:
+- language
+- localization
+- country targeting
+
++ The first is to make sure that each page in a different language has its own unique web page.
+The second thing to keep in mind: mixing languages on the same page. This is a big mistake.
+Next: Avoid using automated services to translate your content.
+To help search engines discover this alternate content, in this case you’d be able to add an annotation
+to each page.
+
++ But even if you don’t add multiple languages, there are other considerations for customers in different
+countries and markets. Start by thinking about what information would be useful to them.
+- Do you need to provide product prices in different currencies?
+- Do they use a different system of measurement—metric versus imperial? For example, would customers weigh your avocados in kilos or pounds?
+- Did you include local addresses and phone numbers so they can contact you?
+- Do you need to list your business hours in different time zones?
+- These are all small things you can do to make sure your website remains useful
+to potential customers in different countries.
+
++ a country code top level domain name—ccTLD for short—it’s a strong indication
+that your site targets a specific country.
