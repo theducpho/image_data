@@ -979,6 +979,34 @@
 		"info": "officially the State of Qatar, is a country in Western Asia. It occupies the Qatar Peninsula on the northeastern coast of the Arabian Peninsula in the Middle East; it shares its sole land border with Saudi Arabia to the south, with the rest of its territory surrounded by the Persian Gulf.",
 		"link": "https://www.worldometers.info/img/flags/qa-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QAT_orthographic.svg/900px-QAT_orthographic.svg.png"
+	},
+	{
+		"id": "0141",
+		"name": "Romania",
+		"info": "is a country located at the crossroads of Central, Eastern, and Southeastern Europe. It borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the southwest, Moldova to the east, and the Black Sea to the southeast.",
+		"link": "https://www.worldometers.info/img/flags/ro-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/EU-Romania_%28orthographic_projection%29.svg/900px-EU-Romania_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0142",
+		"name": "Russia",
+		"info": "or the Russian Federation, is a transcontinental country spanning Eastern Europe and Northern Asia. It is the largest country in the world.",
+		"link": "https://www.worldometers.info/img/flags/rs-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg/804px-Russian_Federation_%28orthographic_projection%29_-_Annexed_Territories_disputed.svg.png"
+	},
+	{
+		"id": "0143",
+		"name": "Rwanda",
+		"info": "officially the Republic of Rwanda, is a landlocked country in the Great Rift Valley of Central Africa, where the African Great Lakes region and Southeast Africa converge.",
+		"link": "https://www.worldometers.info/img/flags/rw-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Location_Rwanda_AU_Africa.svg/969px-Location_Rwanda_AU_Africa.svg.png"
+	},
+	{
+		"id": "0144",
+		"name": "Saint Kitts and Nevis",
+		"info": "officially the Federation of Saint Christopher and Nevis, is an island country and microstate consisting of the two islands of Saint Kitts and Nevis, both located in the West Indies, in the Leeward Islands chain of the Lesser Antilles.",
+		"link": "https://www.worldometers.info/img/flags/sc-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KNA_orthographic.svg/900px-KNA_orthographic.svg.png"
 	}
   ]
 }
