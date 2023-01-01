@@ -346,3 +346,86 @@ to potential customers in different countries.
 
 + a country code top level domain name—ccTLD for short—it’s a strong indication
 that your site targets a specific country.
+
+MODULE 8/26: Be noticed with search ads
+
+1. Introduction to search engine marketing (SEM)
+
++ Traditional advertising broadcasts a message to the world at large.
+But search engine marketing targets a very specific group of people –
+those actively looking for your products and services. In this video, you'll learn:
+- what SEM is
+- how it works
+- why it works so well
+
++ search engine marketing, or SEM.
+
++ It’s simple, but effective: People search for things they want. And advertisers target specific searches,
+but only pay if someone clicks to learn more. That’s search engine marketing.
+
+2. The SEM auction
++ When advertisers compete to show ads on the same search results page,
+search engines use an auction to determine which ads appear and in what order.
+But there’s more to consider than just the price. In this video, we’ll talk through:
+- how an SEM auction works
+- factors that influence the outcome
+- a detailed example.
+
++ Search engine marketing is based on an auction system. Search engines limit the number of slots adverts
+can appear in on an individual page. Advertisers then compete in an auction for those slots.
+
++ So, success in the auction means having a competitive bid, as well as strong relevance.
+Getting both of these right is the recipe for success in SEM.
+
++ The price you’re willing to pay for a click — the max CPC
+
++ The search engine probably considers your ad highly relevant.
+That means you’d likely get a high Quality Score.
+When two competing businesses have equal bid prices,
+the business with a higher Quality Score will appear higher on the search results page.
+
+3. What makes a good keyword
+
++ When you’re starting a new search engine marketing (SEM) campaign,
+it’s important to understand what makes a keyword “good”.
+In this video, you’ll learn which factors to consider before bidding on keywords, including:
+- relevance
+- traffic
+- competition.
+
++ We’re also going to touch on three important factors to consider when choosing keywords.
+These are relevance, traffic and competition.
+
++ But you should look for keywords where the relevance and traffic is high, and competition relatively low.
+
++ Measuring the value of your ad clicks will help you know if keywords are “good” or not.
+But before you start a campaign, you won’t be able to measure the value your keywords are generating.
+So how can you research keywords before adding them to your campaign? Well, you have a few different options here.
+The first thing to ask yourself is: is this keyword relevant? Or in other words,
+does this keyword closely describe your products or services?
+
++ Keyword research tools can provide traffic estimates to help you get a handle on this.
+
+4. Make your ads stand out
+
++ Take a look at any search engine results page. It’s full of text!
+How do you make your business’s adverts jump out in this jumble of words?
+In this video, you’ll learn how to:
+- attract more traffic with adverts that catch the searcher’s eye
+- write headlines that make a connection
+- write a clear, compelling call to action.
+
++ Let’s start with relevance. Relevance is the name of the game in search engine marketing.
+Try and write your advert’s headline to match the searcher’s words as closely as possible.
+
++ The last thing you want is a strong, clear “call to action” in your advert.
+In other words, tell visitors what you want them to do when they get to your site.
+You could say “Browse Our Portfolio!” or “Buy!” or “Make a Reservation!”.
+Research shows that people respond when you direct them to do something specific.
+It’s a good idea to include this as the second line of your advert, so the searcher knows
+exactly what to do after they click on your ad.
+
++ So what have we learned? Using a few simple guidelines can help your adverts stand out from the competition.
+First, you want to customise your advert headline to the search.
+Then include a special or timely offer.
+And finally, give a compelling call to action.

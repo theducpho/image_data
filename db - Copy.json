@@ -1007,6 +1007,48 @@
 		"info": "officially the Federation of Saint Christopher and Nevis, is an island country and microstate consisting of the two islands of Saint Kitts and Nevis, both located in the West Indies, in the Leeward Islands chain of the Lesser Antilles.",
 		"link": "https://www.worldometers.info/img/flags/sc-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KNA_orthographic.svg/900px-KNA_orthographic.svg.png"
+	},
+	{
+		"id": "0145",
+		"name": "Saint Lucia",
+		"info": "is an island country of the West Indies in the eastern Caribbean. The island was previously called Iouanalao and later Hewanorra, names given by the native Arawaks and Caribs, two Amerindian peoples.",
+		"link": "https://www.worldometers.info/img/flags/st-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Saint_Lucia_on_the_globe_%28Americas_centered%29.svg/600px-Saint_Lucia_on_the_globe_%28Americas_centered%29.svg.png"
+	},
+	{
+		"id": "0146",
+		"name": "Samoa",
+		"info": "officially the Independent State of Samoa and until 1997 known as Western Samoa, is a Polynesian island country consisting of two main islands (Savai'i and Upolu); two smaller, inhabited islands (Manono and Apolima); and several smaller, uninhabited islands, including the Aleipata Islands (Nu'utele, Nu'ulua, Fanuatapu and Namua).",
+		"link": "https://www.worldometers.info/img/flags/ws-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Samoa_on_the_globe_%28Polynesia_centered%29.svg/600px-Samoa_on_the_globe_%28Polynesia_centered%29.svg.png"
+	},
+	{
+		"id": "0147",
+		"name": "Sao Tome and Principe",
+		"info": "São Tomé and Príncipe, officially the Democratic Republic of São Tomé and Príncipe, is a Portuguese-speaking island country in the Gulf of Guinea, off the western equatorial coast of Central Africa.",
+		"link": "https://www.worldometers.info/img/flags/tp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Location_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_AU_Africa.svg/646px-Location_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_AU_Africa.svg.png"
+	},
+	{
+		"id": "0148",
+		"name": "Senegal",
+		"info": "officially the Republic of Senegal, is a country in West Africa, on the Atlantic Ocean coastline. Senegal is bordered by Mauritania to the north, Mali to the east, Guinea to the southeast and Guinea-Bissau to the southwest.",
+		"link": "https://www.worldometers.info/img/flags/sg-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Senegal_%28orthographic_projection%29.svg/553px-Senegal_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0149",
+		"name": "Serbia",
+		"info": "officially the Republic of Serbia, is a landlocked country in Southeastern and Central Europe, situated at the crossroads of the Pannonian Basin and the Balkans.",
+		"link": "https://www.worldometers.info/img/flags/ri-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Serbia_%28orthographic_projection%29.svg/600px-Serbia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0150",
+		"name": "Seychelles",
+		"info": "officially the Republic of Seychelles, is an archipelagic state consisting of 115 islands in the Indian Ocean. Its capital and largest city, Victoria, is 1,500 kilometres (800 nautical miles) east of mainland Africa.",
+		"link": "https://www.worldometers.info/img/flags/se-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Location_Seychelles_AU_Africa.svg/646px-Location_Seychelles_AU_Africa.svg.png"
 	}
   ]
 }
