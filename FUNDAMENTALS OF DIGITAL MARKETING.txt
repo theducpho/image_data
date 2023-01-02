@@ -429,3 +429,130 @@ exactly what to do after they click on your ad.
 First, you want to customise your advert headline to the search.
 Then include a special or timely offer.
 And finally, give a compelling call to action.
+
+MODULE 9/26: Improve your search campaigns
+
+1. Achieve relevance with good structure
++ To succeed as an advertiser, you need to create adverts that help searchers find what they’re looking for –
+and when you do, search engines may reward you. In this video, you’ll learn:
+- how SEM campaigns are structured
+- how to use that structure to achieve relevance
+- the benefits you’ll get by focusing on relevance
+
++ Think of your SEM plan as an upside-down tree. At the top is your account,
+which you create with Google Ads, Bing Ads, or another search engine.
+Within the account are campaigns. Each campaign controls important decisions,
+like the daily budget, the areas or countries where ads can appear, and the advertising networks you want to use.
+Within each campaign, you can create multiple ad groups.
+These are collections of keywords and the ads that go with them.
+
++ By dividing your products or services into separate campaigns and ad groups,
+you can show ads that help customers find exactly what they’re searching for— which is win-win for everyone.
+
+2. Get the most from your keywords
++ Search engines, like Google and Bing, offer tools that take the guesswork out of choosing the right keywords,
+and can help potential customers find you online. We'll talk about:
+- research tools
+- related searches
+- negative keywords
+
+
++  A tool like Google’s Keyword Planner or Bing’s Keyword Research Tool can help you find out which
+keywords are most relevant and will work best for your new campaign.
+For example, if you type in “pet portraits,” the tool will show you other related searches.
+
++ By organising these terms into ad groups, you can write relevant ads for each group of keywords.
+
++ you should use “negative keywords” to prevent your ads from appearing when people search for things
+that aren’t relevant to your business.
+These negative keywords will block your ads any time a search contains one or all of them.
+This is useful, because preventing adverts from appearing for irrelevant searches,
+is going to save you money, and make sure that only your ideal customer sees your ads.
+
+3. Fine-tune with keyword match types
+
++ Search engine marketing (SEM) is great for letting you choose specific searches to trigger your ads.
+But search engines often show your ads for keywords that are slightly different from the ones you’re targeting.
+The solution: keyword match types. This video explains:
+- what match types are and why they’re useful
+- the different kinds of match types
+- how to control which searches may trigger ads
+
++ search engines can show your ads when people search for variations of your keywords.
+This is called broad matching.
+Most of the time, broad match is useful. It means that you don’t have to add every variation of the keyword
+you’d like to target, like singulars, plurals and misspellings.
+
++ But this flexibility also means that sometimes, search engines
+show your ads for keywords that aren’t relevant to your business. Using keyword match types can help.
+
++ Keywords are broad match by default. Aside from broad match, the other primary match types are
+phrase match and exact match.To change broad match to phrase, simply place quotations around the keyword.
+
++ Phrase match tells Google Ads or Bing Ads that adverts can’t be
+displayed unless the search includes the entire phrase.
+With phrase match, the searcher can include words before and after the phrase.
+
++ To get even more specific, exact match keywords are distinguished by
+enclosing the word or phrase in square brackets. But minor variations, like plurals, can still trigger the ad.
+
++ As you change keywords from broad match, to phrase, to exact, it restricts the opportunities for ads to display.
+
+4. How to know what’s working and what isn’t
+
++ One of the best ways to measure how well your search engine marketing is working
+is by tracking conversions, or actions you’d like website visitors to take. In this video, we’ll cover:
+- what conversions are
+- how to choose the ones you want to measure
+- what tools you can use to track them
+
++ One of the best things about SEM is that you can measure the value you’re getting from your campaigns.
+To do this, you track conversions - the key actions you want website visitors to take—using tools
+that search engines like Google or Bing provide.
+
++ way potential customers can become paying customers, so you should track that as a conversion as well.
+
++ you can use tools provided by search engines. These allow you, or whoever is managing your website for you,
+to place a small piece of code on certain pages of your website.
+
++  In order to properly track conversions, you need to attach the code to pages someone
+will only see after they’ve taken the action you want.
+Once you install the code, you’ll start getting reports that tell you how many conversions you got.
+That’s valuable information in figuring out if your online ad campaigns are working.
+
+MODULE 10/26: Get noticed locally
+
+1. Marketing to the locals
++ The Internet connects businesses and customers worldwide.
+But if you’re a local business, you’ll want to reach people nearby. Let’s learn a bit about:
+- what local means in digital
+- how your business can build a local search presence
+- and a perfect pair: local marketing and mobiles
+
++ First and foremost, be sure your location details are on your website.
+If you have a shop, be sure to include your address, and maybe even an interactive map so a customer
+can get directions, plus your telephone number, and your working hours.
+And if you have a service area business, be sure your website explains what areas you serve,
+and how people can get in touch with you.
+
++ Google My Business, Bing Local and Yahoo
+
+2. The power of local directories
++ One of the best ways to connect with customers online is to get listed in local directories.
+In this lesson we'll show you:
+where to start
+how to list your business
+how to manage your local profiles.
+
++ The first step is to create a listing in local directories.
+These online listings include your key information, like your business name, your address and your telephone number.
+
++ The name of your business seems straightforward
+For the address, you’ll need a physical address or location. Post office boxes and shared locations usually won’t be accepted.
+Just like with your business name, enter your address in the same exact way for every directory.
+Telephone numbers should be local as well, including area and country code, so generally you won’t want to use a freephone number.
+You’ve got to have these three things—name, address, telephone number—to land local customers.
+
++ First, you want your business and all those great local details to show up on the most popular search engines,
+like Yahoo!, Bing and Google—and all of these have local versions and local business listings for you to use.
+ 
