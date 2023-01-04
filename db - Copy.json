@@ -1049,6 +1049,209 @@
 		"info": "officially the Republic of Seychelles, is an archipelagic state consisting of 115 islands in the Indian Ocean. Its capital and largest city, Victoria, is 1,500 kilometres (800 nautical miles) east of mainland Africa.",
 		"link": "https://www.worldometers.info/img/flags/se-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Location_Seychelles_AU_Africa.svg/646px-Location_Seychelles_AU_Africa.svg.png"
+	},
+	{
+		"id": "0151",
+		"name": "Sierra Leone",
+		"info": "officially the Republic of Sierra Leone, is a country on the southwest coast of West Africa. It is bordered by Liberia to the southeast and Guinea surrounds the northern half of the nation.",
+		"link": "https://www.worldometers.info/img/flags/sl-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sierra_Leone_%28orthographic_projection%29.svg/550px-Sierra_Leone_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0152",
+		"name": "Singapore",
+		"info": "officially the Republic of Singapore, is a sovereign island country and city-state in maritime Southeast Asia.",
+		"link": "https://www.worldometers.info/img/flags/sn-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg/600px-Singapore_on_the_globe_%28Southeast_Asia_centered%29_zoom.svg.png"
+	},
+	{
+		"id": "0153",
+		"name": "Slovakia",
+		"info": "officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the southwest, and the Czech Republic to the northwest.",
+		"link": "https://www.worldometers.info/img/flags/lo-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/EU-Slovakia.svg/713px-EU-Slovakia.svg.png"
+	},
+	{
+		"id": "0154",
+		"name": "Slovenia",
+		"info": "officially the Republic of Slovenia, is a country in Central Europe. It is bordered by Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the southeast, and the Adriatic Sea to the southwest.",
+		"link": "https://www.worldometers.info/img/flags/si-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/EU-Slovenia.svg/713px-EU-Slovenia.svg.png"
+	},
+	{
+		"id": "0155",
+		"name": "Solomon Islands",
+		"info": "is an island country consisting of six major islands and over 900 smaller islands in Oceania, to the east of Papua New Guinea and north-west of Vanuatu.",
+		"link": "https://www.worldometers.info/img/flags/bp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Solomon_Islands_on_the_globe_%28Oceania_centered%29.svg/600px-Solomon_Islands_on_the_globe_%28Oceania_centered%29.svg.png"
+	},
+	{
+		"id": "0156",
+		"name": "Somalia",
+		"info": "officially the Federal Republic of Somalia, is a country in the Horn of Africa.",
+		"link": "https://www.worldometers.info/img/flags/so-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Somalia_%28orthographic_projection%29.svg/553px-Somalia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0157",
+		"name": "South Africa",
+		"info": "officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded to the south by 2,798 kilometres (1,739 mi) of coastline that stretch along the South Atlantic and Indian Oceans.",
+		"link": "https://www.worldometers.info/img/flags/sf-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ZAF_orthographic.svg/550px-ZAF_orthographic.svg.png"
+	},
+	{
+		"id": "0158",
+		"name": "South Korea",
+		"info": "officially the Republic of Korea (ROK), is a country in East Asia. It constitutes the southern part of the Korean Peninsula and shares a land border with North Korea.",
+		"link": "https://www.worldometers.info/img/flags/ks-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Republic_of_Korea_%28orthographic_projection%29.svg/541px-Republic_of_Korea_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0159",
+		"name": "South Sudan",
+		"info": "officially the Republic of South Sudan, is a landlocked country in East Africa. It is bordered by Ethiopia, Sudan, Central African Republic, Democratic Republic of the Congo, Uganda and Kenya.",
+		"link": "https://www.worldometers.info/img/flags/od-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Sudan_%28orthographic_projection%29_highlighted.svg/550px-South_Sudan_%28orthographic_projection%29_highlighted.svg.png"
+	},
+	{
+		"id": "0160",
+		"name": "Spain",
+		"info": "or the Kingdom of Spain, is a country primarily located in southwestern Europe with parts of territory in the Atlantic Ocean and across the Mediterranean Sea.",
+		"link": "https://www.worldometers.info/img/flags/sp-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/713px-EU-Spain.svg.png"
+	},
+	{
+		"id": "0161",
+		"name": "Sri Lanka",
+		"info": "formerly known as Ceylon and officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia.",
+		"link": "https://www.worldometers.info/img/flags/ce-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sri_Lanka_%28orthographic_projection%29.svg/553px-Sri_Lanka_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0162",
+		"name": "Saint Vincent and the Grenadines",
+		"info": "is an island country in the Caribbean. It is located in the southeast Windward Islands of the Lesser Antilles, which lie in the West Indies at the southern end of the eastern border of the Caribbean Sea where the latter meets the Atlantic Ocean.",
+		"link": "https://www.worldometers.info/img/flags/vc-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VCT_orthographic.svg/600px-VCT_orthographic.svg.png"
+	},
+	{
+		"id": "0163",
+		"name": "Palestine",
+		"info": "officially the State of Palestine, is a state located in Western Asia. Officially governed by the Palestine Liberation Organization (PLO), it claims the West Bank, including East Jerusalem, and the Gaza Strip as its territory.",
+		"link": "https://www.worldometers.info/img/flags/palestine-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/State_of_Palestine_%28orthographic_projection%29.svg/600px-State_of_Palestine_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0164",
+		"name": "Sudan",
+		"info": "officially the Republic of the Sudan, is a country in North East Africa.",
+		"link": "https://www.worldometers.info/img/flags/su-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sudan_%28orthographic_projection%29.svg/550px-Sudan_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0165",
+		"name": "Suriname",
+		"info": "officially the Republic of Suriname, is a country on the northeastern Atlantic coast of South America.",
+		"link": "https://www.worldometers.info/img/flags/ns-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Suriname_claimed_territory%28orthographic_projection%29.svg/541px-Suriname_claimed_territory%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0166",
+		"name": "Sweden",
+		"info": "formally the Kingdom of Sweden, is a Nordic country located on the Scandinavian Peninsula in Northern Europe. It borders Norway to the west and north, Finland to the east, and is connected to Denmark in the southwest by a bridge–tunnel across the Öresund.",
+		"link": "https://www.worldometers.info/img/flags/sw-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/EU-Sweden_%28orthographic_projection%29.svg/600px-EU-Sweden_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0167",
+		"name": "Switzerland",
+		"info": "officially the Swiss Confederation, is a landlocked country located at the confluence of Western, Central and Southern Europe. It is a federal republic composed of 26 cantons, with federal authorities based in Bern.",
+		"link": "https://www.worldometers.info/img/flags/sz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Europe-Switzerland.svg/713px-Europe-Switzerland.svg.png"
+	},
+	{
+		"id": "0168",
+		"name": "Syria",
+		"info": "officially the Syrian Arab Republic, is a Western Asian country located in the Eastern Mediterranean and the Levant.",
+		"link": "https://www.worldometers.info/img/flags/sy-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Syria_%28orthographic_projection%29_disputed.svg/553px-Syria_%28orthographic_projection%29_disputed.svg.png"
+	},
+	{
+		"id": "0169",
+		"name": "Tajikistan",
+		"info": "officially the Republic of Tajikistan, is a landlocked country in Central Asia. It has an area of 143,100 km2 (55,300 sq mi) and an estimated population of 9,749,625 people. Its capital and largest city is Dushanbe.",
+		"link": "https://www.worldometers.info/img/flags/ti-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tajikistan_%28orthographic_projection%29.svg/553px-Tajikistan_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0170",
+		"name": "Tanzania",
+		"info": "officially the United Republic of Tanzania, is a country in East Africa within the African Great Lakes region.",
+		"link": "https://www.worldometers.info/img/flags/tz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tanzania_%28orthographic_projection%29.svg/550px-Tanzania_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0171",
+		"name": "Thailand",
+		"info": "historically known as Siam and officially the Kingdom of Thailand, is a country in Southeast Asia, located at the centre of the Indochinese Peninsula, spanning 513,120 square kilometres (198,120 sq mi), with a population of almost 70 million.",
+		"link": "https://www.worldometers.info/img/flags/th-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Thailand_%28orthographic_projection%29.svg/553px-Thailand_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0172",
+		"name": "East Timor",
+		"info": "also known as Timor-Leste, officially the Democratic Republic of Timor-Leste, is an island country in Southeast Asia. It comprises the eastern half of the island of Timor, the exclave of Oecusse on the island's north-western half, and the minor islands of Atauro and Jaco.",
+		"link": "https://www.worldometers.info/img/flags/tt-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Timor_Leste_%28orthographic_projection%29.svg/600px-Timor_Leste_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0173",
+		"name": "Togo",
+		"info": "officially the Togolese Republic, is a country in West Africa. It is bordered by Ghana to the west, Benin to the east and Burkina Faso to the north.",
+		"link": "https://www.worldometers.info/img/flags/to-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Location_Togo_AU_Africa.svg/646px-Location_Togo_AU_Africa.svg.png"
+	},
+	{
+		"id": "0174",
+		"name": "Tonga",
+		"info": "officially the Kingdom of Tonga, is a Polynesian country and archipelago. The country has 171 islands – of which 45 are inhabited.[1] Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean.",
+		"link": "https://www.worldometers.info/img/flags/tn-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tonga_on_the_globe_%28Polynesia_centered%29.svg/600px-Tonga_on_the_globe_%28Polynesia_centered%29.svg.png"
+	},
+	{
+		"id": "0175",
+		"name": "Trinidad and Tobago",
+		"info": "officially the Republic of Trinidad and Tobago, is the southernmost island country in the Caribbean. Consisting of the main islands Trinidad and Tobago, and numerous much smaller islands.",
+		"link": "https://www.worldometers.info/img/flags/td-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg/550px-Trinidad_and_Tobago_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0176",
+		"name": "Tunisia",
+		"info": "officially the Republic of Tunisia, is the northernmost country in Africa. It is a part of the Maghreb region of North Africa, bordered by Algeria to the west and southwest, Libya to the southeast, and the Mediterranean Sea to the north and east.",
+		"link": "https://www.worldometers.info/img/flags/ts-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tunisia_location_%28orthographic_projection%29.svg/553px-Tunisia_location_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0177",
+		"name": "Turkey",
+		"info": "officially the Republic of Türkiye, is a transcontinental country located mainly on the Anatolian Peninsula in Western Asia, with a small portion on the Balkan Peninsula in Southeast Europe.",
+		"link": "https://www.worldometers.info/img/flags/tu-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Turkey_%28orthographic_projection%29.svg/553px-Turkey_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0178",
+		"name": "Turkmenistan",
+		"info": "is a country located in Central Asia, bordered by Kazakhstan to the northwest, Uzbekistan to the north, east and northeast, Afghanistan to the southeast, Iran to the south and southwest and the Caspian Sea to the west. Ashgabat is the capital and largest city.",
+		"link": "https://www.worldometers.info/img/flags/tx-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg/601px-Turkmenistan_on_the_globe_%28Afro-Eurasia_centered%29.svg.png"
+	},
+	{
+		"id": "0179",
+		"name": "Tuvalu",
+		"info": "is an island country and microstate in the Polynesian subregion of Oceania in the Pacific Ocean. Its islands are situated about midway between Hawaii and Australia.",
+		"link": "https://www.worldometers.info/img/flags/tv-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tuvalu_on_the_globe_%28Polynesia_centered%29.svg/600px-Tuvalu_on_the_globe_%28Polynesia_centered%29.svg.png"
 	}
   ]
 }
