@@ -1214,7 +1214,7 @@
 	{
 		"id": "0174",
 		"name": "Tonga",
-		"info": "officially the Kingdom of Tonga, is a Polynesian country and archipelago. The country has 171 islands – of which 45 are inhabited.[1] Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean.",
+		"info": "officially the Kingdom of Tonga, is a Polynesian country and archipelago. The country has 171 islands – of which 45 are inhabited. Its total surface area is about 750 km2 (290 sq mi), scattered over 700,000 km2 (270,000 sq mi) in the southern Pacific Ocean.",
 		"link": "https://www.worldometers.info/img/flags/tn-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tonga_on_the_globe_%28Polynesia_centered%29.svg/600px-Tonga_on_the_globe_%28Polynesia_centered%29.svg.png"
 	},
@@ -1252,6 +1252,97 @@
 		"info": "is an island country and microstate in the Polynesian subregion of Oceania in the Pacific Ocean. Its islands are situated about midway between Hawaii and Australia.",
 		"link": "https://www.worldometers.info/img/flags/tv-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tuvalu_on_the_globe_%28Polynesia_centered%29.svg/600px-Tuvalu_on_the_globe_%28Polynesia_centered%29.svg.png"
+	},
+	{
+		"id": "0180",
+		"name": "United Arab Emirates",
+		"info": "The United Arab Emirates, or simply the Emirates, is a country in Western Asia (The Middle East). It is located at the eastern end of the Arabian Peninsula and shares borders with Oman and Saudi Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran.",
+		"link": "https://www.worldometers.info/img/flags/ae-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg/830px-United_Arab_Emirates_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0181",
+		"name": "United Kingdom",
+		"info": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in Europe, off the north-western coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland.",
+		"link": "https://www.worldometers.info/img/flags/uk-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Europe-UK_%28orthographic_projection%29.svg/900px-Europe-UK_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0182",
+		"name": "United States",
+		"info": "The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations.",
+		"link": "https://www.worldometers.info/img/flags/us-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/827px-USA_orthographic.svg.png"
+	},
+	{
+		"id": "0183",
+		"name": "Uganda",
+		"info": "officially the Republic of Uganda, is a landlocked country in East Africa. The country is bordered to the east by Kenya, to the north by South Sudan, to the west by the Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania.",
+		"link": "https://www.worldometers.info/img/flags/ug-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Uganda_%28orthographic_projection%29.svg/825px-Uganda_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0184",
+		"name": "Ukraine",
+		"info": "is a country in Eastern Europe. It is the second-largest European country after Russia, which it borders to the east and northeast.",
+		"link": "https://www.worldometers.info/img/flags/up-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ukraine_-_disputed_%28orthographic_projection%29.svg/825px-Ukraine_-_disputed_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0185",
+		"name": "Uruguay",
+		"info": "officially the Oriental Republic of Uruguay or the Eastern Republic of Uruguay, is a country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast.",
+		"link": "https://www.worldometers.info/img/flags/uy-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/URY_orthographic.svg/825px-URY_orthographic.svg.png"
+	},
+	{
+		"id": "0186",
+		"name": "Uzbekistan",
+		"info": "officially the Republic of Uzbekistan, is a doubly landlocked country located in Central Asia. It is surrounded by five landlocked countries: Kazakhstan to the north; Kyrgyzstan to the northeast; Tajikistan to the southeast; Afghanistan to the south; and Turkmenistan to the southwest.",
+		"link": "https://www.worldometers.info/img/flags/uz-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%D0%B5.svg/812px-%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%BD%D0%B0_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%D0%B5.svg.png"
+	},
+	{
+		"id": "0187",
+		"name": "Vanuatu",
+		"info": "officially the Republic of Vanuatu, is an island country located in the South Pacific Ocean. The archipelago, which is of volcanic origin, is 1,750 km (1,090 mi) east of northern Australia, 540 km (340 mi) northeast of New Caledonia, east of New Guinea, southeast of Solomon Islands, and west of Fiji.",
+		"link": "https://www.worldometers.info/img/flags/nh-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Vanuatu_on_the_globe_%28Polynesia_centered%29.svg/900px-Vanuatu_on_the_globe_%28Polynesia_centered%29.svg.png"
+	},
+	{
+		"id": "0188",
+		"name": "Venezuela",
+		"info": "officially the Bolivarian Republic of Venezuela, is a country on the northern coast of South America, consisting of a continental landmass and many islands and islets in the Caribbean Sea.",
+		"link": "https://www.worldometers.info/img/flags/ve-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venezuela_Orthographic_Map.svg/825px-Venezuela_Orthographic_Map.svg.png"
+	},
+	{
+		"id": "0189",
+		"name": "Vietnam",
+		"info": "officially the Socialist Republic of Vietnam, is a country in Southeast Asia, at the eastern edge of mainland Southeast Asia, with an area of 311,699 square kilometres (120,348 sq mi) and population of 96 million, making it the world's sixteenth-most populous country.",
+		"link": "https://www.worldometers.info/img/flags/vm-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vietnam_%28orthographic_projection%29.svg/810px-Vietnam_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0190",
+		"name": "Yemen",
+		"info": "officially the Republic of Yemen, is a country in Western Asia. It is situated on the southern end of the Arabian Peninsula, and borders Saudi Arabia to the north and Oman to the northeast and shares maritime borders with Eritrea, Djibouti, and Somalia.",
+		"link": "https://www.worldometers.info/img/flags/ym-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yemen_%28orthographic_projection%29.svg/900px-Yemen_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0191",
+		"name": "Zambia",
+		"info": "officially the Republic of Zambia, is a landlocked country at the crossroads of Central, Southern and East Africa, although it is typically referred to as being in Southern Africa at its most central point.",
+		"link": "https://www.worldometers.info/img/flags/za-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zambia_%28orthographic_projection%29.svg/830px-Zambia_%28orthographic_projection%29.svg.png"
+	},
+	{
+		"id": "0192",
+		"name": "Zimbabwe",
+		"info": "officially the Republic of Zimbabwe, is a landlocked country located in Southeast Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa to the south, Botswana to the south-west, Zambia to the north, and Mozambique to the east. The capital and largest city is Harare.",
+		"link": "https://www.worldometers.info/img/flags/zi-flag.gif",
+		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Zimbabwe_%28orthographic_projection%29.svg/825px-Zimbabwe_%28orthographic_projection%29.svg.png"
 	}
   ]
 }
