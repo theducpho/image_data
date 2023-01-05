@@ -174,41 +174,6 @@
 		"info": "is a Nordic country in Northern Europe. It is the most populous and politically central constituent of the Kingdom of Denmark.",
 		"link": "https://www.worldometers.info/img/flags/da-flag.gif",
 		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EU-Denmark.svg/1070px-EU-Denmark.svg.png"
-    },
-	{
-		"id": "0046",
-		"name": "Djibouti",
-		"info": "officially the Republic of Djibouti, is a country in the Horn of Africa, bordered by Somalia to the south, Ethiopia to the southwest, Eritrea in the north, and the Red Sea and the Gulf of Aden to the east.",
-		"link": "https://www.worldometers.info/img/flags/dj-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Djibouti_%28orthographic_projection%29.svg/825px-Djibouti_%28orthographic_projection%29.svg.png"
-    },
-	{
-		"id": "0047",
-		"name": "Dominica",
-		"info": "officially the Commonwealth of Dominica, is an island country in the Caribbean.",
-		"link": "https://www.worldometers.info/img/flags/do-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dominica_on_the_globe_%28Americas_centered%29.svg/900px-Dominica_on_the_globe_%28Americas_centered%29.svg.png"
-    },
-	{
-		"id": "0048",
-		"name": "Dominican Republic",
-		"info": "The Dominican Republic is a country located on the island of Hispaniola in the Greater Antilles archipelago of the Caribbean region.",
-		"link": "https://www.worldometers.info/img/flags/dr-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dominican_Republic_%28orthographic_projection%29.svg/825px-Dominican_Republic_%28orthographic_projection%29.svg.png"
-    },
-	{
-		"id": "0049",
-		"name": "North Korea",
-		"info": "officially the Democratic People's Republic of Korea (DPRK), is a country in East Asia.",
-		"link": "https://www.worldometers.info/img/flags/kn-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg/812px-Democratic_People%27s_Republic_of_Korea_%28orthographic_projection%29.svg.png"
-    },
-	{
-		"id": "0050",
-		"name": "Democratic Republic of the Congo",
-		"info": "The Democratic Republic of the Congo, informally Congo-Kinshasa, DR Congo, the DRC, the DROC, or the Congo, and formerly and also colloquially Zaire, is a country in Central Africa.",
-		"link": "https://www.worldometers.info/img/flags/congo-flag.gif",
-		"location": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg/825px-Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg.png"
     }
   ]
 }
