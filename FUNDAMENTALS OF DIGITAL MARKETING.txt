@@ -712,3 +712,215 @@ the better the chances that your social pages might even show up when people are
 
 + Creating your business’s presence on the networks you’ll be using, always keeping your goals in mind,
 is an essential step on the path to social success!
+
+MODULE 13/26: Deep dive into social media
+
+1. Your long-term social media plan
+
++ Once you start engaging with social media, you’ll realise pretty quickly: it helps to get organised.
+Putting together a serious plan for how you want to invest in social media will really help.
+In this video, we’ll cover:
+- the benefits of creating a plan for social media
+- what a social media plan might look like
+- tools to help you put your plan into action
+
++ Consider the next 6 to 12 months, and start creating a calendar.
+Sketch out details like what topics it makes sense for you to post about? What’s your audience interested in?
+Then take it a step further. When does it make sense to post about those topics?
+Consider where you should be posting.
+
++ Once you’ve got all these tasks spread out across a calendar for the next several months, all of a sudden,
+it’s much easier to see how you’re going to tackle the brave new world of social media.
+
++ With social media management tools like Hootsuite, Buffer, and Everypost,
+you can create the things you want to post and share in advance.
+
+2. Advertising on social media
+
++ If you want to reach specific audiences online, advertising on social media sites is a great option.
+In this video we'll talk about:
+- how to get your message in front of specific audiences
+- how advertising on social networks can complement your other social efforts.
+
++ Many social networks offer paid advertising opportunities that can give you access to very specific audiences
+and get your message out there.
+Like other online advertising channels, you can also target your ads to a specific geographic area.
+
++ You get the ability to do some really fancy targeting. And on top of that, you can ramp up your visibility
+on social networks very quickly… as long as you’re willing to pay for it, of course.
+
+3. Measuring success in social media
+
++ Knowing how effective your social media efforts are is invaluable to your business. Here we'll explore how to:
+- collect data from the networks themselves
+- make the most of social management and monitoring tools
+- see what social visitors are doing on your website.
+
++ By looking at the data and reports available in many social networks,
+you can learn a lot about who your connections are,
+how they behave, and how they consume or interact with the content you’re providing.
+
++ social media monitoring. There are lots of them out there and a wide range of features and pricing,
+but basically, these tools will scour all the social networks out there looking for mentions of you,
+your competitors, or even certain themes being talked about.
+
++ But these reports and tools typically only measure what’s happening on the social networks themselves.
+So if you want to know what’s happening after someone decides to click on a link you shared,
+or a piece of content you posted and ends up on your website?
+For this, you’ll need a separate tool dedicated to tracking what’s happening on websites, like Google Analytics.
+Web analytics tools will generally pick up the trail as soon as someone hits your website,
+and many of them will automatically track when visitors are coming from social media sites.
+
+4. Avoiding social media pitfalls
+
++ Social media can be a powerful tool, but it’s also been known to cause some issues for businesses.
+We’ll show you what not to do, like:
+- bore people to tears
+- put your posts on autopilot
+- spread yourself too thin.
+
++ The first rule of social media: It’s not all about you.
+People go online to share news, how-to tips and funny cat videos. They’re not there to hear your sales
+pitch—and brands that have nothing else to say tend to get boring and ignored fast.
+If you’re a business, remember that anyone who follows you on social media is already interested in you.
+There’s no need to aggressively sell. Just focus on providing a good experience and keeping their attention.
+
++ The next pitfall: Don’t spread yourself too thin on social media.
+With all the networks out there, there are almost unlimited opportunities to talk to customers,
+but those conversations take time.
+
+If you’re not careful, you’ll get overwhelmed trying to juggle too many sites.
+Focus on the ones that matter most and branch out as it makes sense and as you can handle it.
+
+Have you ever checked out the social media page for a brand or product you’re interested in,
+only to find nothing’s been updated for months? Another big mistake.
+
++ Finally, it can’t be emphasised enough that you’ll want to measure what your efforts are actually doing for you.
+Using social media and analytics tools, you can see firsthand how your social media efforts are
+contributing to your bottom line, and learn which are more valuable than others.
+
+MODULE 16/26: Get started with content marketing
+
+1. Intro to content marketing
+
++ With so many businesses and brands online, content marketing is a valuable tool in helping you to stand out.
+In this lesson, we'll explore:
+- what content marketing is, and why it can add value to an online business
+- best practices for creating your own content marketing strategy
+
++ Content marketing is based on the creation and sharing of online material, like videos, blogs,
+and social media posts.
+It’s designed to generate interest in a company’s products or services by capturing people’s attention.
+It can also help to increase sales by directing traffic to your website, boost awareness of your brand
+and build trust and recognition amongst your audience.
+
++ The key to success is creating a content marketing campaign that accomplishes three things:
+(1) answering your audience’s questions,
+(2) providing something of value and
+(3) keeping them wanting more.
+
++ Here are a few best practices to keep in mind as you put together your own strategy:
+- take the time to get to know your audience better.
+Look at which accounts they follow on social media to get a sense of their likes and interests
+- experiment to find the best types of content for reaching your audience and
+don’t be afraid to use multiple formats
+- choose the right places to publish your content and make sure you’re talking directly to your audience
+- throw away the business speak and stock responses, and prioritise natural language to interact with your audience
+- make your content unique, interesting and exciting.
+Use engaging headlines, eye-catching pictures and informative language to capture your audience's attention.
+
++ When starting to write your own content marketing strategy remember the three keys to success mentioned earlier:
+- focus on answering your audience’s needs
+- create content they’ll find valuable
+- keep them engaged so that they’ll visit you in the future for more content.
+
+2. Get to know your online customers
+
++ Making sure you are saying the right thing, to the right people, and
+are connecting with them at the right time is critical when it comes to content marketing.
+In this lesson, we'll explore:
+- what audience segmentation is and how it can benefit a business
+- how to use audience segmentation to boost your content marketing efforts
+- some of the tools and systems available to help you segment your audience correctly.
+
++ Segmentation involves dividing your audience into groups of who they are and what they like.
+Rather than spending time and money targeting a wide range of people,
+segmentation helps to identify the groups most interested in your product or service.
+The result is a more cost effective and persuasive way to connect with potential customers.
+
+By researching your audience and segmenting them into groups, you can then create specific content that excites,
+entertains and engages them.
+
++ Understanding the habits and preferences of an audience can help you target content
+directly to that specific group of people.
+Another benefit is being able to pinpoint audience behaviour and using this information
+to refine your marketing approach.
+
++ To get insights into what people search for, try free online tools like Answer The Public and Keyword Planner.
+You also can utilise analytics features on social media platforms like Facebook and
+Twitter to get a glimpse of audience demographics and behaviours.
+
+3. Choosing the right format for your content
+
++ Content is much more than just text on a screen. From entertaining GIFs to blog posts, whitepapers,
+and full-length videos, understanding which content format can make the most impact on your audience is critical.
+In this lesson, we'll explore:
+
+- popular online content formats
+- the four main purposes for content marketing
+- how to match different formats to your content goals
+
++ Blogs, Infographics, Ebooks , Videos, There are many other content formats to consider, including:
+press releases, webinars, reviews and case studies.
+
++ In content marketing, there are typically four main purposes of content, which are:
+- to entertain
+- to inspire
+- to educate, and
+- to convince.
+
++ In your own business scenario, consider how certain formats are best paired with specific content goals.
+For example, if your goal is to educate, then guides, ebooks and infographics would be the ideal formats –
+whereas if your goal was to entertain, a better format choice would be quizzes or competitions.
+
+4. Writing for online audiences
+
++ When it comes to writing for the web, there are key considerations to keep in mind which will help
+make online reading as enjoyable as possible. In this lesson, we'll explore:
+
+- how online audiences and offline audiences differ in their the way they read content
+- why it's important to adapt your writing style to an online audience
+- tools and systems to help support writing copy for the web.
+
++ To capture your online audience's attention, you’ll need to adapt the way you approach writing.
+For example, while reading a long article in a newspaper could be enjoyable,
+reading multi-page articles online are more likely to be frustrating.
+This is because as online readers we are constantly flooded with information,
+so our need to multitask and consume online data quickly and efficiently has left us with shorter attention spans.
+
++ Keeping this in mind, here are a few best practices for successful content writing:
+- Start with a good hook that clearly explains to the reader what they can expect.
+- Make sure that as you’re writing, you always keep your target audience in mind,
+and focus on what you can offer them. Try to read your content through their eyes,
+and don’t be too salesy - you want to engage your audience, not bombard them with too many sales messages.
+- Another valuable tip is to incorporate a “call to action”, or CTA. CTAs are short statements designed to
+entice a website visitor to take a specific action, so you should make them as creative and persuasive as possible.
+
++ Creating content regularly means it can be tough to stay inspired,
+so here are a few ways to come up with engaging topics.
+Try researching your competitors to see what topics they cover.
+As you research, keep a list of potential topics and refer back to it when it’s time to brainstorm new content.
+
++ In addition, tools like Answer the Public allow you to type in a specific subject or
+key term and receive a list of some of the most searched queries involving those words.
+This is great for creating content topics that respond to real user demand.
+
+- Other tools to help you get an idea of how popular a topic is include Search Console,
+which can help you see the terms people use to find your website, and Keyword Planner,
+which shows you how many people search for a specific term.
+
++ Finally, make sure you’re consistent in your writing style, so that when readers read your content,
+they immediately associate your brand or business voice with it.
+A clear and recognisable tone of voice will help to establish a relationship with your audience and
+differentiate you from competitors. Try writing down the attributes you want readers to associate with your brand,
+such as honesty and enthusiasm, and always write with these qualities in mind.
