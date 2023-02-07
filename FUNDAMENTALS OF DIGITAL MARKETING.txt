@@ -5,6 +5,12 @@ MODULE 4/26: Plan your online business strategy
 
 1. The benefits of an online strategy
 
++ An online business strategy can boost your chances of digital success,
+helping you to define clear goals and focus your online activity. In this lesson, we'll explore:
+- how an online business can benefit from a business strategy
+- best practices when creating a business strategy
+- examples of common goals and popular strategies to achieve them.
+
 + The first step is to clearly define your goals.
 
 + Next up is articulating what your business stands for.
@@ -16,6 +22,12 @@ this is what makes you stand out from your competition online.
 
 
 2. Taking a business online
+
++ When taking a business online, understanding how customers browse on the web is an important factor
+in ensuring your online efforts are rewarded. In this lesson, we will explore:
+- customer behaviours online, and how these overlap with offline behaviours
+- the "See, Think, Do, Care" framework, and how to use this to help understand the online customer journey
+- how to group your audiences using audience segmentation.
 
 + What are the key differences between a customer in a physical shop and a customer online?
 
@@ -35,7 +47,14 @@ to specific interests.
 and put yourself in their shoes: which channels do they use most?
 How do you engage differently with them online and offline?
 
+
 3. Understanding customer behaviour
+
++ Create the best possible online experience for customers by understanding
+how to make the most of the moments when they interact with a brand. In this lesson, we'll explore:
+- what customer touchpoints are
+- how to map common online customer journeys
+- how to identify customer touchpoints that generate business goals.
 
 + Customers are the key to success, which is why understanding and nurturing them is so important.
 In this lesson we’ll look at the importance of customer touchpoints.
@@ -52,7 +71,14 @@ and apply this information to your business scenario.
 - analyse touchpoint performance and optimise your message if required,
 so that the customer’s needs always come first.
 
+
 4. How to stand out from the competition
+
+- Understanding the competition is a key component of your online strategy,
+enabling you to position a business correctly in the marketplace. In this lesson, we'll explore:
+- how to identify what makes a business stand out in a busy marketplace
+- why Unique Selling Points (USPs) are important and how to construct them
+- online tools available to help you research the competition.
 
 + A Unique Selling Point is a clear statement that describes the benefits you offer,
 how you might solve your customer’s needs, and what distinguishes you from the competition.
@@ -75,6 +101,7 @@ that might affect us negatively ? Those are the threats.
 
 + While constructing your USP, it’s a good idea to check what the competition is up to.
 Search and see what the competition is up to. Use tool Google Alerts.
+
 
 5. Using goals to improve business performance
 
@@ -924,3 +951,122 @@ they immediately associate your brand or business voice with it.
 A clear and recognisable tone of voice will help to establish a relationship with your audience and
 differentiate you from competitors. Try writing down the attributes you want readers to associate with your brand,
 such as honesty and enthusiasm, and always write with these qualities in mind.
+
+5. Help your content be seen
+
+Once you've created content, knowing how to distribute and promote it online is key to getting the reaction that you want.
+In this lesson, we'll explore:
+
+the channels available to promote and distribute content effectively
+how a content calendar can help you organise your content marketing activities
+best practices that ensure your content gets the attention it deserves.
+
++ Before you start creating a content promotion plan,
+it’s important to consider the channels available.
+Identifying channels by Owned, Earned and Paid categories is a great place to start.
+
++ A content calendar is a detailed timeline that organises your content marketing activity. By clearly outlining what to publish and when,
+it can help make your content process consistent and efficient, as well as give everyone involved a clear action plan to follow.
+
+- make it achievable. Your content calendar should include realistic time frames - if it’s not achievable,
+you’ll fall behind schedule and your content won’t reach its full potential
+- highlight key dates. Things like public holidays or relevant events are great for releasing seasonal content
+- consider multiple channels. Think about how a variety of marketing channels, such as a blog and social media,
+can work together to promote your content marketing campaigns
+- remember the audience. Clearly define your audience at each stage of the calendar. If you segment your audience,
+specify which group you’re targeting
+- explore online tools. There’s a variety of free and paid tools available to help you create a calendar,
+publish content to social media accounts, or collaborate on content with your team.
+These tools can save you time by automating some of the content creation and distribution process.
+
+6. Measuring your success in content marketing
+
++ Knowing how well your content performs once it's published online will help you understand your audience,
+as well as provide you with insights as to how to improve campaigns in the future. In this lesson, we'll explore:
+
+the tools available to help track the success of your published content
+key metrics used to measure the success of content marketing campaigns
+how to use data gathered to better meet goals in future campaigns
+
++ Once you identify your content goals, it will be easier to track what you set out to achieve.
+Next, let’s explore specific metrics that could help improve your content marketing.
+Consider where your visitors are located, their age and gender demographics,
+how long they spend on a specific webpage and what they search for when they land on your site.
+
++ Some of the metrics they could track are:
+- the number of page views the blog receives
+- the number of transactions made on the site
+- the number of visitors that come to their website from social media channels.
+
++ Many social media platforms provide detailed information about the people who follow or subscribe to business accounts.
+This includes gender, age, and location, as well as which posts receive the most engagement.
+Such data can give you an indication of which content is the most effective at meeting your goals, and
+which provides you with the best return on your investment.
+
++ Analytics can also show them where their readers are coming from, such as from social media or a search engine, and
+how many of their readers made a purchase after reading a blog post. By looking at the data available,
+they could refine their content marketing strategy as they go, ensuring they meet the company goals and objectives.
+
+
+MODULE 17/26: Connect through email
+
+1. Email marketing basics
+
++ Sending newsletters and special offers to customers via email can play a key part in your overall marketing plan,
+building and strengthening relationships with your customers. In this video, we'll explore:
+- developing a contact list
+- targeting audiences based on interests
+- building relationships with customers.
+
++ So how do you find these people, and get their email addresses? Start by asking them.
+Let’s say you own a pet supply shop. When you chat with customers, offer to send discounts and
+special offers if they provide an email address. If you have a website,
+you can include a form and encourage visitors to subscribe online.
+
++ Ask your subscribers if they are interested in receiving updates about other products or services.
+Then find out how they prefer to hear from you.
+For example, do they want to receive emails weekly or monthly? Record what you learn in your email contact
+database for future email campaigns. How about people who have been on your contact list for a long time?
+These loyal customers are really important to your business. And it’s a good idea to build a positive,
+lasting relationship with them. So, how might you go about this?
+
++ By making your content entertaining and useful, your subscribers will enjoy and appreciate your emails, and
+you’ll likely remain their go-to choice when they’re ready to buy.
+Finally, you can use email to request feedback from your contacts about their shopping or
+customer-support experience, and then respond to them directly.
+
+By knowing what went right, or what went wrong, you can offer solutions to their issues,
+or simply thank them for being a customer. So that’s it. Email marketing is a great way for you to develop relationships
+with both potential and existing customers.
+
+2. Your email marketing options
+
++ Many email marketing software systems will guide you through the entire process of setting up an effective email campaign.
+You can monitor how recipients interact with your emails in order to personalise the content. In this video, you'll learn about:
+- common features of email marketing tools
+- benefits of tracking email recipient behaviours
+- personalising content according to customer information.
+
++ The first is a contact database that stores your customers’ information.
+- Start building your email database by adding customer data you already have.
+- Next, you want to give people the ability to subscribe (and unsubscribe) themselves.
+But, your online sign up form should be short and easy to complete
+- If you do have information about customers, you can use it to sort them into lists.
+- Now you’ve got your database, let’s think about the actual emails.
+Email templates allow you to create a design that matches your brand.
+You can reuse your template again and again, for similar email campaigns.
+
++ You can then use your email service to record those preferences and send future emails at more relevant times.
+As you learn about your customers’ behaviour, you can then deliver more personalised content.
+
++ By targeting each group with a personalised email,
+you increase the chances that they will not only read your email, but also click through to visit your website.
+
+3. Crafting great marketing emails
+
++ Your email marketing campaigns will change, but the goal remains the same.
+You want to craft attention-grabbing emails that encourage action.
+With a few tips, you can market your business like a pro. In this video, we'll explore how to:
+- use subject lines to make a good first impression
+- write concise content with strong calls to action
+- include helpful links for customers.
