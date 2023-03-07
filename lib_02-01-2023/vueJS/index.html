@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vue JS 3 Tutorials For Beginers</title>
+  <style>
+    .card {
+        display: inline-block;
+        width: 180px;
+        height: 180px;
+        background-color: #0efe1e;
+        margin-right: 20px;
+    }
+    .card-product {
+        display: inline-block;
+        width: 180px;
+        height: 180px;
+        margin-right: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+    <h1>Outline 1234</h1>
+
+    <section id="contact">
+
+        <h1>Print variable from {{ replaceText }} and {{ `${firstName} ${lastName}` }}</h1>
+        <button v-on:click="firstName = 'Hanh Phuc'">Change name</button>&emsp;
+        <button v-on:click="onChangeName">Change name type 2</button>&emsp;
+        <button @click="onChangeName">Change name type 3</button><br><br>
+
+        <button @click="onShowModal">Show hide model</button><br>
+        <div class="modal" v-if="isShowModal">
+            <h1>Modal Hidden V If</h1>
+        </div>
+        <div class="modal" v-show="isShowModal">
+            <h1>Modal Hidden V Show</h1>
+        </div>
+    </section>
+
+    <section id="section2">
+    </section>
+
+    <section id="section3">
+        <br><br>
+        <h1>Event type: {{ eventType }}</h1>
+        <div class="card-container">
+            <div class="card" @mouseover="onShowEvent" @mouseleave="onShowEvent"></div>
+            <div class="card" @mousemove="onShowEvent" @dblclick="onShowEvent"></div>
+        </div>
+    </section>
+
+    <section id="section4">
+        <br>
+        <div class="card-container">
+            <div class="card-product"
+            v-for="product in products"
+            :style="{ background: product.color}" > {{ product.name }}</div>
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="main.js"></script>
+
+</body>
+
+</html>
