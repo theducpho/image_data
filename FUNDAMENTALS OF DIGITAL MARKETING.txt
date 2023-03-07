@@ -130,7 +130,7 @@ allowed people to access and search file names—basically the names of the web 
 and how they decide what results to show.
 
 + They all perform three tasks:
-- First, they examine content they learn about andhave permission to see (that’s called crawling).
+- First, they examine content they learn about and have permission to see (that’s called crawling).
 - Second, they categorise each piece of content (that’s called indexing).
 - And third, they decide which content is most useful to searchers (that’s called ranking).
 
