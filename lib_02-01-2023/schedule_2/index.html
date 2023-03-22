@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo</title>
+
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+
+    <style>
+
+        .button-back-icon {
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 34px;
+            cursor: pointer;
+            width: 34px;
+            border: solid 1px #ccc;
+            border-radius: 4px;
+            padding: 0;
+            margin-right: 4px;
+            background-color: #fff;
+        }
+
+        .button-next-icon {
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 34px;
+            cursor: pointer;
+            width: 34px;
+            border: solid 1px #ccc;
+            border-radius: 4px;
+            padding: 0;
+            margin-left: 4px;
+            background-color: #fff;
+        }
+
+        .button-delete-icon {
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 20px 20px;
+            height: 33px;
+            cursor: pointer;
+            border: solid 1px #ccc;
+            border-radius: 25px;
+            padding: 0;
+            margin-right: 5px;
+            width: 60px;
+        }
+
+        .button-add-icon {
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 20px 20px;
+            height: 33px;
+            cursor: pointer;
+            border: solid 1px #ccc;
+            border-radius: 25px;
+            padding: 0;
+            margin-right: 5px;
+            width: 60px;
+        }
+
+        .button-menu-icon {
+            background-repeat: no-repeat;
+            background-position: center top;
+            background-size: 20px 20px;
+            height: 33px;
+            cursor: pointer;
+            border: solid 1px #ccc;
+            border-radius: 25px;
+            padding: 0;
+            margin-right: 5px;
+            width: 60px;
+        }
+
+        .button-money-icon {
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 25px 25px;
+            height: 33px;
+            cursor: pointer;
+            border: solid 1px #ccc;
+            border-radius: 25px;
+            padding: 0;
+            margin-right: 5px;
+            width: 60px;
+        }
+
+    </style>
+
+    <script src="js/jquery.v3-6-3.min.js"></script>
+    <script src='js/interact.min.js'></script>
+    <script src='js/data.js'></script>
+    <script src='js/jq.schedule.js'></script>
+    <script src='js/scheduleHelper.js'></script>
+</head>
+
+<body>
+    <div class="div-menu-condition">
+
+        <div class="div-condition">
+
+            <div id="div-menu-style">
+                <div>
+                    <div><input onclick="openMenu('delete-btn', 'sidebar-menu-delete', '250px')"
+                                type="button" id="delete-btn" class="button-toggle button-delete-icon">
+                    </div>
+                    <div><input onclick="openMenu('add-btn', 'sidebar-menu-add', '250px')" type="button"
+                                id="add-btn" class="button-toggle button-add-icon">
+                    </div>
+                </div>
+
+                <div>
+                    <div><input onclick="openMenu('approve-btn', 'sidebar-menu-approve', '820px')"
+                                type="button" id="approve-btn" class="button-toggle button-menu-icon">
+                    </div>
+                    <div><input onclick="openMenu('money-btn', 'sidebar-menu-money', '250px')"
+                                type="button" id="money-btn" class="button-toggle button-money-icon">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="schedule" style="height: 600px"></div>
+    
+    <div class="modal " id="time-dialog" style="display: none;"
+            aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    </div>
+    <div class="modal " id="time-dialog-2" style="display: none;"
+            aria-hidden="true" data-backdrop="static" data-keyboard="false"></div>
+    <div class="modal " id="alert-dialog" style="display: none;"
+            aria-hidden="true" data-backdrop="static" data-keyboard="false"></div>
+
+
+            <script>
+
+                $(function () {
+
+                    $('.button-toggle').click(function () {
+                        $(this).toggleClass("down");
+                    });
+
+                    loadDataToTimeChart(taskListModeNormalG, taskTypeListG, '2');
+                });
+            
+                function loadDataToTimeChart(data, listTypeTask, approveLevel, data2 = null, modeCompare = false) {
+                    $("#schedule").html('');
+                    $("#schedule").timeSchedule({
+                        startTime: "00:00",
+                        endTime: "24:00",
+                        widthTime: 60 * 15,
+                        timeLineY: 82,
+                        verticalScrollbar: 20,
+                        timeLineBorder: 1,
+                        bundleMoveWidth: 6,
+                        draggable: true,
+                        resizable: true,
+                        resizableLeft: true,
+                        widthTimeX: 13,
+                        dataWidth: 215,
+                        headerTitle: '<table class="header-title-style"><tr><td style="padding-left: 10px"><input class="header-checkbox" id="cnkId_all" type="checkbox"></td><td style="padding-left: 18px;padding-bottom: 21px; padding-top: 15px;">AAA</td></tr></table>',
+                        approveLevel: approveLevel,
+                        listTypeTask: listTypeTask,
+                        rows: data,
+                        rows2: data2,
+                        modeCompare: modeCompare,
+                        isAlwaysEnableFlag: true,
+                        screenId: 'CR3020',
+                    });
+                }
+            </script>
+</body>
+
+</html>
