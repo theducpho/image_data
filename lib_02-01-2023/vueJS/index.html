@@ -61,6 +61,13 @@
             v-for="product in products"
             :style="{ background: product.color}" > {{ product.name }}</div>
         </div>
+        <br>
+        <div class="card-container">
+            <div class="card-product"
+            v-for="product in productsComputed"
+            :style="{ background: product.color}" > {{ product.name }}</div>
+        </div>
+
     </section>
 
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>  
+<html>  
+    <head>  
+        <meta http-equiv = "Content-Type" content = "text/html; charset = utf-8" />  
+        <title> JavaScript IndexedDb Demo </title>
+
+        <script src="config/enum.js"></script>
+	    <script src="config/config.js"></script>
+
+        <script src="db/dal.js"></script>
+        <script src="db/entity.js"></script>
+        <script src="db/based_controller.js"></script>
+
+        <script src="lib/jquery-3.6.0.min.js"></script>
+	    <script src="lib/jquery-ui.js"></script>
+
+        <script src="helper/storageHelper.js"></script>
+        
+        <script src="controller/CR0010_login.js"></script>
+    </head>  
+    <body>  
+        <h2> JavaScript IndexedDb Demo </h2>
+
+        <div class="col-md-12">
+            <input type="text" value="" id="cr00101_txt_company_cd" name="cr00101_txt_company_cd"
+                class="form-control textbox-login text-box-style" placeholder="会社コード" />
+        </div>
+
+        <div class="col-md-12">
+            <input type="text" autocomplete="off" value="" class="form-control textbox-login text-box-style"
+                id="cr00101_txt_usr_code" name="cr00101_txt_usr_code" placeholder="ユーザーID" />
+        </div>
+
+        <div class="col-md-12">
+            <input type="password" autocomplete="off" id="cr00101_txt_password" name="cr00101_txt_password"
+                value="" class="form-control textbox-login text-box-style" placeholder="パスワード" />
+        </div>
+
+        <button class="btn btn-primary" id="cr00101_btn_login" type="button" onclick="login()">
+            <div class="btn btn-primary btn-lg">ログイン</div>
+        </button>
+    </body>
+
+    <script>
+    </script>
+</html>  

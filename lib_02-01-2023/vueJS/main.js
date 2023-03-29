@@ -75,21 +75,29 @@ const app3 = Vue.createApp({
             products: [
                 {
                     name: "A",
-                    color: "#ffee11"
+                    color: "#ffee11",
+                    price: 120,
                 },
                 {
                     name: "B",
-                    color: "#de3e2f"
+                    color: "#de3e2f",
+                    price: 100,
                 },
                 {
                     name: "C",
-                    color: "#7efe2f"
+                    color: "#7efe2f",
+                    price: 80,
                 }
             ],
         };
     },
     methods: {
         
+    },
+    computed: {
+        productsComputed() {
+            return this.products.filter(p => p.price < 110);
+        }
     }
 });
 app3.mount("#section4");
