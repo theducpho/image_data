@@ -28,6 +28,7 @@ export default {
   name: 'MainScreen',
   methods : {
     onStart(blocks){
+        console.log('onStart');
         this.$emit('onStart', {blocks});
     }
     }
