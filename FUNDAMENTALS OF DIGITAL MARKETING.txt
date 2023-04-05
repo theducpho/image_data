@@ -1070,3 +1070,181 @@ With a few tips, you can market your business like a pro. In this video, we'll e
 - use subject lines to make a good first impression
 - write concise content with strong calls to action
 - include helpful links for customers.
+
++ The two things they’ll see, are your business name in the “From” field, and the subject line of your email.
+- Be sure to use a name and email address in your “From” field that clearly identifies your business.
+People are more likely to open an email, from someone they recognise and trust.
+- Keep your subject line short and simple—ideally under ten words.
+Try to capture the most valuable and relevant information contained in the email.
+When possible, personalise or localise the subject line.
+For example: “Jane, is your pup the healthiest in London?”
+- It’s best to avoid words like “free,” “percent off,” “reminder,” and “specials,” as well as
+pound (£) symbols and exclamation points. These are all known to trigger spam filters.
+
++ So keep your content concise, and get right to the point.
+- Your paragraphs should be short—maybe one to three sentences, and keep them focused on a single idea.
+You can always link to longer articles and additional information, on your website.
+- Make your writing as persuasive and engaging as possible. And use the right tone of voice for your audience.
+- Links in your email should include calls to action. Encourage recipients to click through, to offers on your website.
+- For example, a link could say something like “Click here to save 25 percent off your next order of all-natural cat chow”.
+Or maybe “Click here for free shipping on orders over £50.”
+
++ And that’s some links at the bottom of the email that allow recipients to unsubscribe,
+change their email preferences, or update their contact information.
+- Providing an easy way for users to opt out of your newsletter, is not only good customer service,
+but it’s also required by law in many countries.
+
+4. Managing successful email campaigns
+
++ There’s a lot to manage when running an email campaign – use these strategies to set yourself up for success. Here we’ll explore how to:
+- use A/B testing to improve engagement
+- create relevant campaign landing pages
+- measure the performance of your email campaigns.
+
++ A/B testing is when you create two versions of an email to see which one performs better.
+You can use this technique to test different email approaches.
+- You can use A/B testing to test different subject lines, frequency, content and images.
+You could try sending emails on Tuesdays and Saturdays. Or, try sending emails weekly and monthly.
+See what your audience seems to prefer, and then adjust.
+
++ You wouldn’t want someone to click a link to learn about a specific product and end up the homepage, right?
+Your email campaigns will be more successful if you send visitors directly to the page they want to see,
+so they can learn about the product, and maybe buy it!
+
++ people will read your emails, on mobiles, tablets, laptops, and desktops.
+That means your email landing pages need to work well, across all those devices.
+
++ Email services usually include analytics tools, so you can track and measure how well your campaigns are doing.
+The reports can show you interesting data like “open rates,”
+which can help you learn which subject lines are most compelling.
+You can see which content drives people to visit your site by looking at the “clickthrough rate,”
+when people click a link within the email.
+
++ And finally, be sure to use web analytics to figure out what people are doing on your website,
+after they click on your emails.
+
++ You can regularly improve your email campaigns, by testing different versions,
+creating relevant landing pages and using analytics to see what’s working best.
+
+5. Measuring success in email marketing
+
++ Knowing whether your email campaigns are successful will help you take the right actions
+when it comes time to improving them. In this lesson, we'll explore:
+- why email metrics are important in evaluating campaign success
+- five useful metrics that can help you understand email performance
+- how to draw insights from the email metrics gathered.
+
++ Using the analytics from your email platform,
+you can discover the number of people clicking from your email to your website,
+or how many complete any calls to action you’ve set, such as making an online purchase using a discount code.
+- This type of informed decision-making can lead to greater conversion rates,
+and help you refine any future campaigns for success.
+
++ Five metrics:
+- Open Rate is simply the ratio of people who’ve actively opened the email vs. the total number of people who received it.
+ This is useful for understanding the effectiveness of your email subject line.
+- Click Through Rate, or CTR. This offers a top level view of the success of the individual email campaign,
+and gives you the percentage of people that clicked on links to your website from every email that was opened.
+The Click-to-Open Rate takes into account total number of clicks vs emails that were actually opened.
+This gives you a more realistic idea of audience engagement because if they opened your email and
+went on to click a link, you clearly did something right
+-  Conversion Rate..The conversion rate would show how many people you sent the email to,
+compared to the number of people who actually ended up registering for the event.
+- The Bounce Rate is the percentage of emails that could not be delivered to subscribers and were sent back.
+There are two kinds of bounces to be aware of:
+Soft Bounces: These are rejected due to a full inbox or size limit restriction on your audience's email server.
+Hard Bounces: Your emails are blocked or the address you are using is incorrect.
+A breakdown of hard bounces per email campaign can show you which email addresses to remove,
+saving you time and effort for your next campaign.
+
++ The next step is to adjust any future campaigns accordingly, whether that be to refine the subject lines,
+review the type of content published, or clean up your subscribers list.
+
+MODULE 18/26: Advertise on other websites
+
+1. What is display advertising?
+
++ Display advertising allows businesses to reach specific groups of people on specific websites with their messages.
+In this lesson, we'll look at:
+- what display advertising is
+- how it works
+- the goals it can help you reach.
+
++ Think of display advertising as the digital version of a billboard, print ad or TV ad you see offline.
+Businesses pay whoever owns the ad “space” hoping to get their ads seen by the right kinds of people.
+And then turn those people into customers.
+
++ display advertising offers businesses the ability to reach relevant audiences all across the Internet.
+- Display is also a great way to drive traffic to your website, build engagement with your visitors,
+and win new customers
+
+2. Search advertising vs. display advertising
+
++ Search engine marketing and display advertising can both help you find customers and grow your business,
+but they work differently. Here, we'll compare the two, explaining:
+- how they both work
+- where the different ads appear
+- what those advertisements look like.
+
++ With search engine marketing, advertisers use this insight to reach potential customers as
+they are actively looking for something.
+- So people tell search engines what they want online. And advertisers bid for their ads to
+show up in response to the words and phrases people search for.
+
++ Display advertising works differently. The person it targets isn’t necessarily searching for business like yours,
+or showing interest in the products or services you offer.
+- In the online world of display advertising, that means finding websites where your potential customers are
+likely to be spending time, or targeting people who have showed specific interests through the sites
+they visit or other online behaviours.
+
++ Here’s another difference between search and display: where the ads show up.
+- With search engine marketing, your ad can only show up when people are searching.
+So when they’ve left the search engine and are browsing around the web,
+you can’t reach them with search engine marketing.
+- But with display advertising, your ads can show up on any website that’s offering advertising space,
+and it means that you can tap into millions of additional websites beyond search engines.
+
++ There’s one last difference between search and display: the ads themselves.
+- The ads on search engines are usually just made up of text. There’s typically some kind of a headline,
+some descriptive text, a link you can click, and maybe a few other things, like an address or phone number,
+depending on what options the search engine offers.
+- Display advertising, on the other hand, gives advertisers a lot more creative options:
+different sizes and formats, images, video, and more. This means there are lots more opportunities to
+get a potential customer’s attention.
+
++ So now you can see how search and display advertising differ, but hopefully you’re also getting
+a sense of how these can work together. Grabbing someone’s attention with a dazzling display
+ad is a great way to get on their radar. Later on, when they’re looking to act or make a purchase,
+they’re likely to head to a search engine. If your ads then appear on their search,
+they might recognise you and go for the click!
+
++ To sum up, search and display advertising can both attract new customers, just in different ways.
+
+3. The ins and outs of display advertising
+
++ Ready to create a display advertising campaign? First you've got to understand how to use all the different components of display, including:
+- how to find and target the right audience
+- how to create different kinds of adverts
+- how to organise your display campaigns.
+
++ First, you’re probably going to be using a display advertising network
+- that is, a system that lets you advertise on many different websites
+- to help you build and run your display campaigns, and almost all of them will allow you to decide
+where your adverts will show up, and who will see them.
+
++ You can limit your ads to people who speak certain languages, or to certain days or times.
+You can even combine multiple things together.
+For example, you can target local people heading out on their morning commute.
+- You can even target specific groups of people, and even the things they do online,
+regardless of the sites they’re browsing.
+- Depending upon what options your ad network offers, you might be able to target by gender or age group.
+Or by very specific locations.
+
++ There are banner adverts in all sorts of shapes and sizes, and video adverts that can use motion and sound.
+
++ Display advertising can be used to target very specific audiences, and even multiple audiences at the same time,
+depending on the message you want to send. Thinking about who you want to reach and what you want to tell them
+will not only keep your campaigns organised, it will also help you figure out the message, the tone,
+and the style your display advertising should take.
+- Understanding how these things work together will help you match the right message with
+the right people—and you’ll be well on your way.
