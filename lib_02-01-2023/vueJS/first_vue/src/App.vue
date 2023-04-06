@@ -4,7 +4,7 @@
   v-if="statusGame === 'inGame'"
   :cardsContext="setting.cardContent"
   @onFinish="onGetResult()"></interact-screen>
-<result-screen v-if="statusGame === 'result'" :timer="timer"/>
+<result-screen v-if="statusGame === 'result'" :timer="timer" @onStartAgain="statusGame = 'default'"/>
 </template>
 
 <script>
@@ -55,6 +55,7 @@ export default {
     onGetResult() {
       this.timer = new Date().getTime() - this.setting.startedAt;
       this.statusGame = "result";
+      alert('win');
     }
   }
 }
