@@ -1248,3 +1248,210 @@ will not only keep your campaigns organised, it will also help you figure out th
 and the style your display advertising should take.
 - Understanding how these things work together will help you match the right message with
 the right people—and you’ll be well on your way.
+
+MODULE 19/26: Deep dive into display advertising
+
+1. Making display ads meet your goals
+
++ From the start, you should design your display advertising campaigns to help you achieve your goals.
+Here we'll go over some of the many things display advertising can do for you, including:
+- making a great first impression
+- moving customers through the sales funnel
+- turning interested people into paying customers.
+
++ A simple way to break down what you want to achieve with display advertising is
+to think about the different steps of the customer journey as a funnel.
+- The widest part at the top is awareness.
+ So if building awareness of your business is a goal,
+ you’ll want to target a broad audience and use adverts that make a great first impression.
+ 
+- This is a good time to think about what might catch someone’s attention - remember,
+they’re not actively searching for you when your adverts show up.
+
+- The next stage in the funnel is all about shaping people’s opinions of you,
+and making sure that they remember you in the future when they want what you’re selling.
+
+So if this is one of your goals, you can create new display advertising campaigns that use messaging to
+reinforce your competitive advantages and really highlight the benefits of whatever product or service you offer.
+
+At this point, you might narrow down your audience a bit more to include people who
+have been to your site before, or maybe people who are really interested in the products and services you offer.
+
+- Next on the sales “funnel”, is to focus on people who are already considering the solution you’re offering.
+Here, you might really refine your message, zeroing in on what exactly makes your product or service so great.
+
+- Next on the sales “funnel”, is to focus on people who are already considering the solution you’re offering.
+Here, you might really refine your message, zeroing in on what exactly makes your product or service so great.
+
+So for your film podcast, you could talk about how many subscribers you have, or use testimonials from
+happy customers. Remember, you won’t be targeting everyone with this message...
+these adverts will be limited to people who you know have been looking into you.
+
+- Retargeting is especially useful at this point in the funnel.
+Remember, you want to target people that you know have been researching you online,
+and get them to consider you and eventually convert. Well, retargeting is a way to accomplish that.
+It lets you show adverts to people after they visit your website, or do specific things
+that indicate their interest.
+
+Say someone visited your podcast’s website after spotting an ad, looked at some pages,
+and even made it all the way to the subscription page — but they didn’t quite make the final leap.
+
+With retargeting campaigns, you can define these “near misses” as your target audience.
+
+Then, you can show this very specific audience adverts to help entice them back to your site.
+This time, they might visit your site and finish that subscription form.
+Just like that, you’ve got yourself a new customer!
+
+2. Understanding ad networks
+
++ Advertising networks connect large groups of websites offering advertising space
+with people who want to advertise on them. This video examines:
+- how websites and businesses work together
+- common things advertising networks do.
+
++ Display advertising networks are like a middleman, connecting businesses who want to advertise,
+with websites with ad space to sell.
+- First, you could contact the site directly to work out the details, and that’s certainly something that happens.
+But with all the websites out there that offer advertising opportunities,
+you can imagine this can get pretty time consuming. This is where display advertising networks come in.
+They handle both the buying and the selling of display ads, linking businesses to websites that want to sell
+advertising space.
+
++ First and foremost, they all offer businesses looking to advertise ad space on websites.
+- Websites that offer these ad spaces can become a part of these networks,
+and they can do things like set minimum prices for how much money they expect for showing ads.
+
+Your business can then bid for the spots you want throughout all the websites in that network,
+deciding how much you’re willing to pay. Buyers and sellers are connected every single time pages are loaded,
+and the ads that win the right to fill the ad spot are shown.
+
+- Networks can also help you target specific audiences through two main routes:
+the topics of the web pages where the ads appear, and general information about the people viewing the content.
+
+- Another thing networks do is handle the money involved. Buying and selling ads happens every second of every day, and the networks collect money from businesses and pay the websites that show the ads.
+- Finally, and perhaps most importantly, advertising networks collect and share data with businesses.
+
++ They can tell you how many times your ads are shown, how many times they’re clicked on, how much they cost you,
+where they’ve been showing up, and how all of this varies between the websites and audiences you’re targeting.
+Many networks even let you add tracking to your web pages so you can see if your ads are resulting in conversions
+on your website.
+
+3. How retargeting works
+
++ Retargeting allows you to advertise to groups of visitors to your website based on
+the things they did when they visited. Here we'll cover the basics:
+- tracking what people do on your site
+- using that information to identify people you want to target
+- creating ads specifically for those people.
+
++ One really powerful type of display advertising is called retargeting, and lets you use
+what people do on your website in order to target them with a specific advertising message, even after they’ve left.
+
++ There are lots of retargeting solutions out there to choose from,
+and many display networks offer this feature as well. But no matter which you use,
+you’ll first need to define who will be in your audience.
+
+- So, you could define your target audience as people who started to fill out a subscription form,
+but didn’t complete it.
+
+- Your retargeting service might need you to add a little code to your web pages,
+or integrate it in your web analytics tool, so it can start collecting a list of people from your website
+who match this criteria.
+
++ Again, this won’t be a list of individual people with any personal information,
+such as names or email addresses. Instead, it’s an anonymous list (often called a retargeting list)
+of users that match your criteria who can be retargeted with ads. So, now that you’ve defined an audience,
+any visitor who started to subscribe but didn’t finish will be added to the list.
+Now it’s time to create ads specifically for them.
+
+- These ads can be pretty focused, because you know everyone seeing them has already started to
+subscribe on your website. So you might include things like special offers for extra content,
+a free gift for signing up,
+or some other incentive that’s aimed at getting them to come back and finish subscribing.
+
+- So later on they might see one of your ads, click on it, and finish signing up.
+Once they’ve subscribed, there’s no need to show them ads with subscription incentives anymore.
+
++ You can target them with a different ad campaign, perhaps convincing them to come back and
+explore all the other podcasts on offer! So that’s how retargeting works.
+It tracks what people do on your website and then creates an audience based on their actions,
+letting advertisers design specific ads for people who have - or haven’t - done specific things.
+
+MODULE 20/26: Make the most of video
+
+1. The rise of online video
+
++ As technology has improved, the popularity of online video has skyrocketed.
+Now, it’s a powerful tool in marketing. In this lesson you’ll learn:
+- how technology has improved online video
+- why online video is here to stay
+- ways to promote your business with video.
+
++ As technology continues to improve, more and more people are watching videos online.
+The popularity of online video—and the increasing quality—means huge opportunities for your business.
+
++ There are several ways to reach customers through online video. You can create a video and share it on
+websites like YouTube or Vimeo. Or you can embed your video directly on your own website.
+Another option is to buy ad space in other people’s videos.
+You could display a text ad at the bottom of the video, or run a short commercial at the start.
+
+- Advances in Internet technology have made online video marketing a viable option for loads of businesses,
+large and small. And experts only expect its influence in marketing to grow.
+
+2. How video fits into your online strategy
+
++ Businesses of every size can use videos to promote their products and services.
+In this lesson, you'll learn about:
+- how video can further your business goals
+- expanding your online presence with video
+- ways to advertise using video.
+
++ Using video is a great way to get people excited about what you have to share, and gain exposure to new fans or
+customers.
+
++ But what if some components of your food blog don’t lend themselves to being featured in videos?
+Or what if you don’t want to get involved in producing videos just yet?
+You can still take advantage of this opportunity by advertising your blog on other people’s videos.
+
++ Even if you don’t make your own video, your audience is still likely to watch someone else’s cooking and
+baking videos. Since your audience enjoys cooking, why not advertise on other cooking videos?
+
++ With video advertising, you can select certain types of videos, or even specific videos,
+where you’d like to advertise. You could pick someone else’s channel on cooking,
+or a specific video about vegetarian cooking and advertise there.
+
+3. Creating video content within your budget
+
++ Having an online video presence for your brand is more important than ever.
+Find out how you can cash in on this medium without a Hollywood budget. In this lesson you'll learn:
+- how to be creative with your resources
+- simple planning tips for videos on a budget
+- video editing resources for beginners.
+
++ The first step to creating video on a budget is to plan your content.
+
+- Remember—videos can be entertaining, educational, informative and everything in between,
+as long as they reflect what your company stands for and further your business objectives.
+
+- By planning ahead, you can shoot several videos at a time—with less effort and fewer resources.
+To outline the content for each video, use storyboards.
+
+Storyboards are visual plans of your story—showing what will happen scene-by-scene, including action and dialogue.
+Once you’ve got the content of your video planned out, it’s time to think about production.
+Producing video on a budget means being creative with your resources.
+
++ There are other factors to consider.
+You can save time and money on finding props, actors, and locations by asking yourself a few questions:
+
+- Can you find props at home, among friends, or in thrift stores?
+- Do you or someone else you know secretly long to be in front of a camera?
+- Can you use your home, office, or recreational areas as a video location?
+Once you’ve planned your videos, arranged your sets, and booked your crew, now it’s time to film.
+
+A steady camera, plus good lighting and sound can make all the difference.
+Here are some key points:
+- Any high-def camera will do—whether on your mobile or an inexpensive digital camera—as long as
+you keep it steady with a tripod or other stabilizer.
+
++ A variety of video editing tools—such as iMovie, Windows Movie Maker, or YouTube Video Editor—
+can help you edit and combine videos, build smooth transitions, and even add music. 
