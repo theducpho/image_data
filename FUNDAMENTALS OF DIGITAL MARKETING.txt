@@ -1454,4 +1454,136 @@ Here are some key points:
 you keep it steady with a tripod or other stabilizer.
 
 + A variety of video editing tools—such as iMovie, Windows Movie Maker, or YouTube Video Editor—
-can help you edit and combine videos, build smooth transitions, and even add music. 
+can help you edit and combine videos, build smooth transitions, and even add music.
+
+4. Sharing and promoting your videos
+
++ Whether you upload videos to your website, video sharing sites or social media,
+there are many ways to share and promote your video content online. In this lesson you'll learn how to:
+- organise videos on your website
+- share videos via social media and email marketing.
+
++ Be sure to use accurate titles, relevant keywords, and detailed descriptions of each video’s content.
+Not only will this help viewers know what to expect, but it can help your videos appear in search results.
+
+- Include calls to action to encourage your audience to take the next step. For example,
+ask viewers to share the video, visit your website, subscribe to your email newsletter or write a comment.
+
+- Keep your content fresh by uploading new videos frequently. Archive or remove outdated videos—such as a
+promotion for a local food festival that has already taken place. After people watch your videos,
+encourage them to spend more time on your site by showing previews to other videos,
+and making it easy to find them.
+
+- Group videos based on their purpose, such as cooking tips or recipes for brunch.
+
++ Keep in mind that some popular email programs don’t support video playback,
+so you may direct people to your site rather than embed video directly into an email.
+You can insert a still shot of your video that links to a page on your site page where the video can be viewed. 
+
+- Another way to share videos? Use hashtags.
+
+5. Advertising on video sharing sites
+
++ Advertising on video sharing sites is one of the many effective ways to grow your online audience.
+In this lesson you'll learn:
+- top video sharing sites
+- ways to advertise on video sharing sites.
+
++ The first step is to define your target audience and identify the types of content
+they will be most likely to view.
+- Start by looking for video channels featuring content that matches the interests of your readers -
+YouTube can be a great place to start. These channels have the audience you want to reach,
+and advertisements on these videos can introduce new people to your website.
+
++ Think about some ways you can pique the interest of cooking video enthusiasts.
+Do you have similar types of recipes and tips? Do you have your own interviews with celebrity chefs?
+Once you have some ideas of your audience’s interests, you can use the Google Ads program to advertise on YouTube.
+Other video sites often allow advertising as well. You don’t need videos of your own to advertise on these sites -
+you can use images and text instead. There are even free tools, like Google’s Ad Gallery, that will help you create
+professional-looking banners, for example.
+
+- Be sure your ad gives viewers a reason to visit your website and that they find something compelling when they visit.
+You already know that this audience likes visual content, so guide them to pages with stunning photos or your own videos,
+if you have them. Remember, you want them to keep coming back for more.
+
+- Let’s say you’ve decided to advertise on YouTube. Once you have your ad ready to go,
+use an Google Ads account to run your campaign. Within Google Ads, choose the category of
+people you want to reach on YouTube, such as cooking enthusiasts.
+
+- When your target audience is watching videos on YouTube, your ad will then appear next to the video,
+or even within the video itself, depending on the type of ad you choose.
+
+- As with any online advertising, you’ll have to define a budget for your YouTube campaign.
+Monitor your campaign and optimize based on what you learn. Let’s review.
+
+6. Measuring video performance
+
++ Analytics can give you insights into the people who watch your videos and how they engage with your content.
+With this information at hand, you can improve your videos and grow your audience. In this lesson you’ll learn:
+- how to determine who watches your videos
+- ways to find out what they like and don’t like
+- opportunities to improve and engage new audiences.
+
++ Video analytics reveal a lot about the people who watch your videos, like their age, gender and location.
+When you know your audience, you can create video content they’re interested in watching.
+
+- Knowing where people watch your videos is key to promoting your content.
+If most of your audience watches your videos on YouTube, focus on uploading more fresh content to that site.
+
+- You can also see what day and time people are most likely to watch your videos. If most people watch on weekends,
+then consider uploading fresh content on Friday nights. When measuring the performance of your videos,
+you can find out if people watch your videos start to finish. The length of your video may depend on the content.
+
++ In most cases, short videos work best. You can increase the likelihood that people will play your videos
+and watch them to the end by keeping them brief.
+
++ If people only watch the first few seconds of a video, it might not be meeting their expectations.
+Consider updating your preview images,video titles or descriptions so that people have a better idea of
+what they’re about to watch. Also look at the average length of video viewed.
+If most people spend only a minute watching your demos, try creating videos that are 60 seconds or less.
+
++ Other common indicators of your videos’ performance are: likes, dislikes, comments and shares.
+This information from viewers provides insightful feedback. Another tip: keep an eye on the reactions
+your videos receive through comments and social media.
+- If people share your video, it’s a strong measure of engagement.
+
+MODULE 21/26: Get started with analytics
+
+1. What is web analytics?
+
++ Web analytics can answer questions about what people are doing – and not doing – on your website.
+In this video, you'll learn about:
+- the kind of data web analytics can provide
+- how to understand that data
+- how simple it is to get started.
+
++ So, what is web analytics, exactly? Well, it’s all about using the data you can collect
+from your website to give you insights about your business.
+
++ A “metric” is basically anything you can count. “Unique Visitors” is a good example.
+“Time Spent On Site” is another. If you sell things on your website, you can track how much money you’re making or
+how many of a certain product you’re selling. If your goal is to get people to read your website,
+you can track the number of times someone looked at a blog post or the amount of time they spent on it.
+All of these things are “metrics.”
+
++ you’ll generally analyze your metrics by using what are called “dimensions.”
+- Generally, a dimension is any kind of data you can use to describe something you’re tracking with words.
+- Dimensions include things like the device type, what browsers visitors use, their geographic locations, and much, much more.
+
++ By taking your metrics and “slicing” them with dimensions,
+you can find answers to very specific, detailed business questions,
+like “which devices are people finding it easiest to convert on the goals of my website?”
+
++ As you dive into your own web analytics reports, you’ll be able to see all the metrics and dimensions being tracked,
+and you can combine them and slice and dice them to answer the questions you care most about.
+
+- If you haven’t started with an analytics tool yet, you’ll want to select and install one. Most have a pretty similar set up.
+
+- First, you’ll need to copy and paste some special code onto your web pages.
+Next, while these tools will track a lot of things on their own, you might want to configure them to track
+the specific things that are unique to your business and your goals.
+
++ Metrics are measurable, numerical data like time spent on site or pages viewed.
+Conversions are data on how many users have completed a desired action on your site,
+for example buying a product or signing up for a newsletter.
+Dimensions are groups of user data that can be used to generate a report, such as their device type or location.
