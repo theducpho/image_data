@@ -5,6 +5,7 @@
   :cardsContext="setting.cardContent"
   @onFinish="onGetResult()"></interact-screen>
 <result-screen v-if="statusGame === 'result'" :timer="timer" @onStartAgain="statusGame = 'default'"/>
+<copy-right/>
 </template>
 
 <script>
@@ -12,6 +13,7 @@
 import MainScreen from './components/MainScreen.vue'
 import InteractScreen from './components/InteractScreen.vue'
 import ResultScreen from './components/ResultScreen.vue'
+import CopyRight from './components/CopyRightScreen.vue'
 
 import {shuffled} from './utils/array.js'
 
@@ -21,6 +23,7 @@ export default {
     MainScreen,
     InteractScreen,
     ResultScreen,
+    CopyRight,
   },
   data() {
     return {
@@ -55,7 +58,6 @@ export default {
     onGetResult() {
       this.timer = new Date().getTime() - this.setting.startedAt;
       this.statusGame = "result";
-      alert('win');
     }
   }
 }

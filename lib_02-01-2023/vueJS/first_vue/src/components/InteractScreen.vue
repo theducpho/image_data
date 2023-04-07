@@ -1,12 +1,18 @@
 <template>
   <div class="screen">
-    <div class="screen-inner">
+    <div class="screen-inner"
+    :style="{
+      width: `${
+          (((height / Math.sqrt(cardsContext.length) - 16) * 3) / 4 + 16) * Math.sqrt(cardsContext.length)
+        }px`,
+    }">
       <card-flip
           v-for="(card, index) in cardsContext"
           :key="index"
           :ref="`card-${index}`"
           :imgBackFaceUrl="`images/${card}.png`"
           :card="{index, value: card}"
+          :numberCardInRow="numberCardsInRow"
           @onFlip="checkRule($event)" />
     </div>
     
@@ -44,6 +50,7 @@ export default {
         const disabledElements = document.querySelectorAll(
           ".screen .card.disabled"
         );
+        
         if (disabledElements && disabledElements.length === this.cardsContext.length - 2)
           setTimeout(() => {
             this.$emit("onFinish");
@@ -65,6 +72,8 @@ export default {
   },
   data() {
     return {
+      height : window.innerHeight - 80 - 16 * 2,
+      numberCardsInRow: Math.sqrt(this.cardsContext.length),
       rules: [],
     };
   }
@@ -85,7 +94,6 @@ export default {
 }
 
 .screen-inner {
-  width: calc(424px);
   display: flex;
   flex-wrap: wrap;
   margin: 2rem auto;

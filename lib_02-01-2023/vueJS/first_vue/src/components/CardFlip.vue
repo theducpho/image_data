@@ -1,8 +1,20 @@
 <template>
-    <div class="card" :class="{disabled : isDisabled }">
+    <div class="card" :class="{disabled : isDisabled }"
+    :style="{
+      height: `${(height / numberCardInRow - 16)}px`,
+      width: `${((height / numberCardInRow - 16) * 3) / 4}px`,
+      perspective: `${((height / numberCardInRow - 16) * 3) / 4 * 2}px`,
+    }"
+    >
       <div class="card_inner" :class="{'is-flipped' : isFlipped}" @click="onToggleFlipCard()">
         <div class="card_face card_face_front">
-          <div class="card_content"></div>
+          <div class="card_content" :style="{
+            'background-size': `${
+              ((height / numberCardInRow - 16) * 3) / 4 / 3
+            }px ${
+              ((height / numberCardInRow - 16) * 3) / 4 / 3
+            }px`,
+          }"></div>
         </div>
         <div class="card_face card_face_back">
           <div class="card_content"
@@ -21,6 +33,7 @@ export default {
     return {
       isDisabled : false,
       isFlipped : false,
+      height : window.innerHeight - 80 - 16 * 2,
     }
   },
   methods: {
@@ -42,6 +55,10 @@ export default {
     card: {
       type: [Object],
     },
+    numberCardInRow : {
+      type: Number,
+      required: true,
+    },
     imgBackFaceUrl: {
       type: String,
       required: true,
@@ -56,8 +73,6 @@ export default {
     display: inline-block;
     margin-right: 1rem;
     margin-bottom: 1rem;
-    width: 90px;
-    height: 120px;
   }
 
   .card_inner {
