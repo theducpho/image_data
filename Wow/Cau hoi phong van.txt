@@ -1,0 +1,80 @@
+1. Javascript là ngôn ngữ lập trình bất đồng bộ.
+PHP là ngôn ngữ đồng bộ.
+
+2. PHP là gì ? Được dùng để làm gì ?
+PHP: Hypertext Preprocessor, phát triển các ứng dụng viết cho máy chủ
+
+3. Làm thế nào để get chiều dài của 1 mảng trong PHP và Javascript
+count hoặc sizeof PHP
+dùng thuộc tính length của Javascript
+
+4. Một số biến toàn cục trong PHP: ?
+
+$GLOBALS.
+$_SERVER.
+$_REQUEST.
+$_POST.
+$_GET.
+$_FILES.
+$_ENV.
+$_COOKIE.
+
+5. Phương thức POST và GET trong PHP giống và khác nhau như thế nào?
+Giống là đều dùng để gửi data từ client lên server
+Khác là 
+GET : URL sẽ kèm theo dữ liệu mà chúng ta muốn gửi
+POST : có tính bảo mật hơn vì dữ liệu gửi phải thông qua một form HTML
+
+6. Trong laravel khi gửi thông tin từ blade tức là client lên server thông qua form
+hoặc ajax thì cần setting cái gì để không bị lỗi ?
+
+Laravel sử dụng tính năng CSRF (Cross-Site Request Forgery) để bảo vệ ứng dụng khỏi các cuộc tấn công từ các trang web.
+
+{{ csrf_field() }} blade
+
+headers: {
+	'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+} ajax
+
+7. Ví dụ trang web của em có chức năng đăng nhập,
+sau 1 thời gian đăng nhập mà không sử dụng thì nó sẽ bị logout ra.
+Trong laravel thì dùng cái gì để thực hiện chức năng này ?
+
+laravel middleware
+
+8. The GROUP BY clause được đặt trước hay sau ORDER BY clause ?
+The GROUP BY clause is placed before the ORDER BY clause
+
+9. Một số hàm tổng hợp dùng kèm theo GROUP BY
+Aggregate Function
+AVG, COUNT, MAX, MIN
+
+10. 
+
+SELECT cot1, cot2, … cot_N,
+
+Ham_tong (cot)
+
+FROM bang
+
+[WHERE dieukien]
+
+GROUP BY cot1, cot2, … cot_N;
+
+Cot1, cot2, … cotN: là giá trị không nằm ở hàm tổng và phải nằm ở mệnh đề GROUP BY.
+
+11. AJAX là gì ?
+AJAX là phương thức trao đổi dữ liệu với máy chủ và cập nhật một hay
+nhiều phần của trang web, hoàn toàn không reload lại toàn bộ trang.
+
+Giờ trong javascript gọi ajax thì làm sao để đợi kết quả của ajax trả về thì mới xử lý tiếp ?
+Bởi vì Javascript là ngôn ngữ lập trình bất đồng bộ, nên nếu không đợi trả về thì nó sẽ chạy tiếp luôn.
+
+Thuộc tính async: true thì chạy bất đồng bộ => async:false thì javascript sẽ đợi kết quả trả về của ajax để chạy tiếp
+
+12 Làm sao để giải quyết tình trạng các file javascript bị lưu cache trong trình duyệt ?
+
+cache-busting
+is a technique so that browsers can have long caches on files while having them reload files when they change.
+
+=> laravel mix
