@@ -1,0 +1,37 @@
+Cuộc họp :
+
+- Cuộc họp giải quyết một vấn đề / phân chia công việc
+Meeting owner : Leader
+Thư ký của cuộc họp : Được leader chỉ định để ghi lại các note diễn ra trong cuộc họp
+Thành viên tham dự : Các thành viên có liên quan
+
+1. Trình bày nội dung chính của cuộc họp: vấn đề là gì ? mục tiêu như thế nào ? kết quả cần đạt được qua cuộc họp ?
+
+2. Trình bày cụ thể các vấn đề, problem cần giải quyết ?
+
+3. Solution cho vấn đề đó là như thế nào ?
+- Có thể là để các member thảo luận ra solution => sau đó leader chốt
+- Leader đưa solution, để các member xem xét, tham khảo hoặc bổ sung ý kiến
+
+4. Action plan : Leader dựa trên solution trên để đưa ra kế hoạch thực hiện giải quyết các vấn đề
+- Kế hoạch cụ thể : ai làm task nào ? thời gian hoàn thành ?
+
+=> Sau cuộc họp là mọi người phải bắt tay vào thực hiện ngay lập tức
+
+
+- Cuộc họp training kiến thức
+Meeting owner : người sẽ thực hiện thuyết trình, training kiến thức (có thể là 1 team 2 -> 3 người)
+Tài liệu của cuộc họp : slide, document,...
+Demo cho nội dung : Một ứng dụng - source code,...
+Một số giai đoạn dự án trống task thì nên có những cuộc họp như thế này để :
+ + nâng cao trình độ, mở rộng kiến thức, tầm hiểu biết cho nhân viên
+ + tạo nên thói quen học hỏi nghiên cứu trong team
+
+
+- Cuộc họp về tổng kết đánh giá các thành viên
+Meeting owner : Leader
+Đánh giá tính hình chung :
+ + Tiến độ công việc hiện tại
+ + Kế hoạch trong giai đoạn tiếp theo
+ + Nhìn lại các vấn đề đã xảy ra, rút kinh nghiệm
+ + Nhận xét tích cực về thành phần team (về nhận xét tiêu cực thì phù hợp với cuộc họp riêng)

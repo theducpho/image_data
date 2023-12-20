@@ -72,7 +72,7 @@ Bởi vì Javascript là ngôn ngữ lập trình bất đồng bộ, nên nếu
 
 Thuộc tính async: true thì chạy bất đồng bộ => async:false thì javascript sẽ đợi kết quả trả về của ajax để chạy tiếp
 
-12 Làm sao để giải quyết tình trạng các file javascript bị lưu cache trong trình duyệt ?
+12. Làm sao để giải quyết tình trạng các file javascript bị lưu cache trong trình duyệt ?
 
 cache-busting
 is a technique so that browsers can have long caches on files while having them reload files when they change.
