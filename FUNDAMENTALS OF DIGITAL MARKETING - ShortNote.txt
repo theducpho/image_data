@@ -1,0 +1,2331 @@
+FUNDAMENTALS OF DIGITAL MARKETING
+
+MODULE 1/26: The online opportunity
+
+Today's world is a digital one, with nearly half of the global population online.
+With so many people using the internet, it makes sense for a business to tap into digital.
+Find out what opportunities exist and how a website, videos or social media could help you reach your goals.
+
+1. Intro to the Digital Garage
+
+how you can make the most of online opportunities.
+brief overview of what you can learn throughout the course and highlight some of the benefits of building or polishing your digital skills.
+
++ digital marketing concepts
++ it’s content marketing, online advertising, mobile marketing or selling products online
+
+2. Your digital opportunity
+
++ It's never been easier, cheaper or more beneficial for your business to get online.
+- the core components of a digital presence
+- how they relate to YOUR business
+- how to get started.
+
++  One of the biggest advantages to being online is reaping the benefits of search.
+Having a digital presence means you’ll be visible when people go online and search for a business like yours.
+
++ Your online presence can also give you valuable insight into prospective customers: what they want, and how to give it to them. 
+- using search advertising, you can show ads to potential customers.
+- use analytics tools to find out if people clicked on your ad, visited your site, and took certain actions.
+Like filling out a form or watching a video.
+
++ The first is scope. Web, mobile, social media … there are so many options. Where do you want to start, and where do you want to go?
+- Next is Technology and Content: handle the technical and creative aspects of the site
+- Finally is Cost and Time: Set a realistic budget and an achievable schedule with clear milestones—and commit fully to both. 
+
+MODULE 4/26: Plan your online business strategy
+
+1. The benefits of an online strategy
+
++ An online business strategy can boost your chances of digital success,
+helping you to define clear goals and focus your online activity. In this lesson, we'll explore:
+- how an online business can benefit from a business strategy
+- best practices when creating a business strategy
+- examples of common goals and popular strategies to achieve them.
+
++ The first step is to clearly define your goals.
+
++ Next up is articulating what your business stands for.
+This can be represented by a simple sentence, generally referred to as a mission statement.
+For example, this might be “to inspire healthier communities” or “to provide fun spaces for everyday fitness".
+
++ You also need to identify your Unique Selling Point (or USP) -
+this is what makes you stand out from your competition online. 
+
+
+2. Taking a business online
+
++ When taking a business online, understanding how customers browse on the web is an important factor
+in ensuring your online efforts are rewarded. In this lesson, we will explore:
+- customer behaviours online, and how these overlap with offline behaviours
+- the "See, Think, Do, Care" framework, and how to use this to help understand the online customer journey
+- how to group your audiences using audience segmentation.
+
++ What are the key differences between a customer in a physical shop and a customer online?
+
+-  In the offline world your journey might go a bit like this:
+You visit the local shopping centre, going from shop to shop.
+Ultimately, you make a decision based on price, quality, returns policy, friendliness of staff,
+and stock availability.
+
+- When it comes to online purchasing, you’re likely to engage in four distinct stages
+throughout your online shopping journey.
+Theses principles are described in the “See, Think, Do, Care”.
+
++ You can segment customers in many ways, from basic demographics like age and gender,
+to specific interests.
+
++ When it comes to taking a business online, think about the customers
+and put yourself in their shoes: which channels do they use most?
+How do you engage differently with them online and offline?
+
+
+3. Understanding customer behaviour
+
++ Create the best possible online experience for customers by understanding
+how to make the most of the moments when they interact with a brand. In this lesson, we'll explore:
+- what customer touchpoints are
+- how to map common online customer journeys
+- how to identify customer touchpoints that generate business goals.
+
++ Customers are the key to success, which is why understanding and nurturing them is so important.
+In this lesson we’ll look at the importance of customer touchpoints.
+
++ Touchpoints are used a lot in offline business, particularly in retail.
+They can be receipts, bags, signage, customer service counters, and many other points along the way.
+When a customer encounters a touchpoint multiple times, such as online ads,
+this provides consistent value and creates ongoing positive associations with a brand.
+
++ To wrap up, here are some quick reminders to help you work on your own touchpoints:
+- think about the journey you take as a customer when you buy something,
+and apply this information to your business scenario.
+- if you can, talk to customers to get real-world info on the touchpoints they encounter
+- analyse touchpoint performance and optimise your message if required,
+so that the customer’s needs always come first.
+
+
+4. How to stand out from the competition
+
+- Understanding the competition is a key component of your online strategy,
+enabling you to position a business correctly in the marketplace. In this lesson, we'll explore:
+- how to identify what makes a business stand out in a busy marketplace
+- why Unique Selling Points (USPs) are important and how to construct them
+- online tools available to help you research the competition.
+
++ A Unique Selling Point is a clear statement that describes the benefits you offer,
+how you might solve your customer’s needs, and what distinguishes you from the competition.
+4 key questions to ask yourself when defining your USP are:
+- who is my target audience?
+- who are my competitors?
+- what problems does my target audience have?, and
+- how can I solve them?
+
++ Your USP should be displayed on your website, social media, and other marketing materials.
+A good USP won't appeal to everyone, but that’s ok.
+Build a USP that is tailored and speaks directly to your target audience.
+
++ SWOT analysis:
+- what is it we’re good at? These are your strengths
+- what can we do better? These are your weaknesses
+- how can we grow, change and improve ? These are your opportunities
+- what is happening or could happen, both internally and externally,
+that might affect us negatively ? Those are the threats.
+
++ While constructing your USP, it’s a good idea to check what the competition is up to.
+Search and see what the competition is up to. Use tool Google Alerts.
+
+
+5. Using goals to improve business performance
+
++ Key Performance Indicators, or KPIs, are quantifiable measurements used to focus
+attention on the metrics most important to meet business goals.
+There are many ways to construct KPIs, but they should all be
+measurable, practical, achievable, and provide direction.
+
++ Try creating your own KPIs and see if you can answer the following:
+a. Is this KPI specific enough ?
+b. Can it be measured ?
+c. Can employees attain this ?
+d. How relevant is it to the wider business objective ?
+e. And lastly, when is it due to be delivered or carried out ?
+
+MODULE 5/26 Get started with search
+
+1. Search engine basics
+
++ One of the earliest search engines was a program called Archie, which debuted in 1990 and
+allowed people to access and search file names—basically the names of the web pages.
+
+2. How search engines work
+
++ The basics on how search engines find web pages, what they do with the pages they find,
+and how they decide what results to show.
+
++ They all perform three tasks:
+- First, they examine content they learn about and have permission to see (that’s called crawling).
+- Second, they categorise each piece of content (that’s called indexing).
+- And third, they decide which content is most useful to searchers (that’s called ranking).
+
++ Search engines may find multiple copies of the exact same piece of content,
+located on different websites. So you’re likely better off writing your own description.
+
+3. How search engines see the web
+
++ In simple terms, when you ask a search engine to find something,
+it looks through a huge list of previously indexed pages, called “the index,” and
+pulls out relevant results based on what you’re looking for.
+
++ But when a search engine looks at the same page, in addition to seeing what you see on your screen,
+it also sees the code behind it, called HTML.
+- title tag
+- name of image
+- use tool CMS
+
+4. Organic search explained
+
++ Organic results typically appear in the st match for the search query, or words, that were typed,
+in centre of the page, and are the results the search engine decides are the be.
+
++ Making improvements to your website to help it appear in the organic results is
+called search engine optimisation, or SEO.
+Good SEO involves helping a search engine find and understand your site.
+
++ What do search engines like? Good, relevant content.
+All you have to do is make sure that your content is relevant to the people searching,
+so they’ll click and stay for a visit.
+
+5. Paid search explained
+
++ We’ll cover how advertising on search engines works—that’s called SEM, or search engine marketing.
+
++ Every time someone searches advertisers compete for the opportunity to display ads.
+It happens in milliseconds and the searcher won’t see the details, only the winners: the ads that appear on the page.
+So, how do search engines decide who wins? The primary components are the bid and the quality.
+
+6. Google search console
+
++ Google Search Console? Well, it's a service that gives you feedback about how your website is doing
+in Google search results. It has two primary functions. It monitors your performance in Google Search results.
+And it also shows you how Google “sees” your site.
+
++ One way is through its “Search Analytics” reports.
+This can help you answer a few important questions like which searches bring people to your site.
+Or tell you when searchers click on your links. They can even let you know which other sites link to yours.
+
++ Another thing to look for is the number of clicks.
+You’ll want to know how often your site appears but gets no clicks—
+that’s a sign your content doesn’t match what people are looking for.
+
++ The “Links to your site” report shows websites that link to your site. Think of these as “referrals.”
+
++ Mobile Usability Report
+
++ There are two more really handy features within Search Console to know about:
+“Crawl” reports, and “Google Index” reports.
+- “Crawl” reports let you monitor whether Google can visit your web pages.
+This is important because if Google can’t access your web pages,
+your content can’t be included in Google’s search results.
+
+- The “Google Index” reports show what information Google recorded about your site and
+tells you if your pages are accessible. It’s easy to get started with Search Console.
+
+Go to www.google.com/webmasters.
+Once signed in, add your website and complete the verification to prove you own the website.
+
+MODULE 6/26: Get discovered with search
+
+1. Intro to search engine optimisation (SEO)
+
++ when search engines understand your content, it will be shown to many more potential customers.
+
++ Search engines have formulas, or algorithms, that help them order the list of results.
+The search engines constantly scour the web for new content and try to make sense of it.
+
++ Where your website appears in these results is affected by the words
+you use on your site (fresh farm produce, for example) as well as other factors—such as
+how many websites link to yours.
+
++ What search engines value most is unique, engaging, relevant content
+because their job is to find and show the most useful stuff.
+
+2. The importance of an SEO plan
+
++ In this step-by-step process to create an SEO plan for your website, you'll learn how to:
+- develop
+- prioritise
+- adjust the plan to best suit your goals
+
++ Your first step should be keyword research. Next, consider related topics.
+You should do this at least once a year as part of your SEO plan.
+
++ Is no one linking to your site? Perhaps you can invite food bloggers to check out
+your farm in the hopes that they’ll mention you in a future blog post.
+Make a list of anything you think might improve your SEO performance.
+
++ Give yourself a deadline for each task so you’re working through your SEO plan steadily throughout the year.
+OK, once you’ve set this plan in motion, don’t just forget about it.
+
++ Review your results regularly and shift focus to the areas that need help.
+
++ Let’s recap. Start with keyword research to understand what your customers are looking for,
+then use that info to assess your successes and failures.
+Brainstorm solutions to improve your weak spots, and prioritise them.
+And never be afraid to redo your SEO plan based on changes in your world and the world of search engines.
+
+3. The SEO process
+
++ This video explains the SEO process and the steps you need to take in order to optimise your website, including:
+- discovering what words or phrases people use to search for your products or services
+- improving the content on your site.
+
++ The first step is called keyword research: discovering what words or phrases people are looking for
+when they are searching for products and services related to your business.
+
++ The work of SEO is never done, because trends come and go, users can change their behavior,
+and search engines evolve over time. Your job is to consider how changes will impact your site and
+what you need to do to continue to attract unpaid (organic) traffic.
+Here are 4 quick tips on how to stay up-to-date on search.
+- 1: Learn how search engines work.
+- 2: Keep an eye on changes and monitor how they affect your website.
+- 3: Find inspiration from other websites.
+- 4: Talk to your customers.
+
+4. How to choose keywords
+
++ Choosing keywords is the cornerstone of successful search engine optimisation. In this video, we'll discuss:
+- why you need to do keyword research
+- the difference between short tail and long tail keywords
+- what to consider when selecting keywords
+
++ There are three things you should consider when choosing the keywords for your SEO plan.
+- First, frequency, or the number of times a word is searched for.
+- Our second consideration: Competition. If you have a large, established website,
+you may be able to appear on the search engine results for high-volume, highly competitive keywords
+- Finally, and most importantly, the third consideration is relevance.
+The keywords you select should closely match what you actually offer.
+
++ Make sure your chosen keywords match the intent of the people who are searching.
+How? One option is to use Google Search Console to see which pages appear in search and get clicks.
+
++ What you need to consider when selecting keywords: frequency, competition and relevance.
+
+5. Setting realistic SEO goals
+
++ Setting realistic goals for organic traffic and assessing them with measurements
+that matter will help you strengthen your SEO strategy. In this video, you'll learn:
+- how to define success
+- how to select measurements that matter
+- what tools can help
+
++ One way to tackle SEO is to set clear goals, then measure your progress each step of the way.
+When you set SEO goals, you can measure, track and report on the results.
+You’ll know which efforts are succeeding—and which aren’t. And then you can adjust things to make it work better.
+
++ You’ve just identified three business goals:
+- Conversions: Turning website visitors into paying customers.
+- Engagement: Persuading people to interact with the content on your site.
+- Acquisition: Getting new customers.
+
++ The lesson? Don’t waste effort on keywords that aren’t relevant to what you do.
+
++ You can measure conversions by tracking the number of visitors who come to your website and buy fruits and
+vegetables; or tracking a smaller action that can lead to a sale, like signing up for your email newsletter.
++ You can measure acquisition and reach by tracking the number of times your business appears in
+search results—your “impressions”—and how often people click through to visit your site.
++ And, you can measure engagement by tracking what content your visitors read and interact with,
+such as leaving comments, or how many visitors become your fans on social media networks.
++ So how do you track all these things? Analytics tools and webmaster tools provided by search engines
+can give you this information—often for free.
+
+
+MODULE 7/26: Make search work for you
+
+1. Making your web pages search friendly
+
++ Get started in search engine optimisation by improving the pages on your website.
+This video explains the elements that you can tweak to make your website easier for search engines to understand.
+We'll cover:
+- title and description meta tags
+- heading elements
+- page copy
+
++ The title and meta description are important because they both are used by the search engine
+to generate the actual search result for the specific page.
+The title is used to generate the first line shown; the meta description is used to
+generate the few short sentences that follow. A good meta description is usually two short sentences.
+A title should be short and sweet; a description should match what the page is about.
+
++ What you’ve done to optimise the farm’s web pages. You’ve looked at each of the major elements used by
+search engines and, in each instance, told them, “This page is about fresh fruits and vegetables.”
+
+2. How other websites can work for you
+
++ You can improve your search visibility across the web by thinking about off-site optimisation; that is,
+using what happens on other websites to promote yours. This video will show you some ways to start, including:
+- encouraging links to your website
+- engaging with your audience through good content
+- promoting your site with social media
+
++ Search engines might see these links as a sign that you have a high-quality site,
+and are perhaps a good option to show searchers.
+
++ backlinks – that means links to his site from other websites.
+
++ So how can you get more of these good links? The best way is to create great content on your own site.
+Then, others may link to you because they think their audience should see your content.
+You can also encourage others to write about you, and share links to your website.
+In the SEO industry, this is called content marketing.
+
++ The best way to support off-site optimisation is by creating good content that
+establishes your site as a quality resource, attracting visitors who then share it across social media.
+
+3. Cross borders with SEO
+
++ Different countries require different marketing tactics, and
+international search engine optimisation is no different.
+In this lesson, you'll learn about changes to make when your website crosses international borders, including:
+- language
+- localization
+- country targeting
+
++ The first is to make sure that each page in a different language has its own unique web page.
+The second thing to keep in mind: mixing languages on the same page. This is a big mistake.
+Next: Avoid using automated services to translate your content.
+To help search engines discover this alternate content, in this case you’d be able to add an annotation
+to each page.
+
++ But even if you don’t add multiple languages, there are other considerations for customers in different
+countries and markets. Start by thinking about what information would be useful to them.
+- Do you need to provide product prices in different currencies?
+- Do they use a different system of measurement—metric versus imperial? For example, would customers weigh your avocados in kilos or pounds?
+- Did you include local addresses and phone numbers so they can contact you?
+- Do you need to list your business hours in different time zones?
+- These are all small things you can do to make sure your website remains useful
+to potential customers in different countries.
+
++ a country code top level domain name—ccTLD for short—it’s a strong indication
+that your site targets a specific country.
+
+MODULE 8/26: Be noticed with search ads
+
+1. Introduction to search engine marketing (SEM)
+
++ Traditional advertising broadcasts a message to the world at large.
+But search engine marketing targets a very specific group of people –
+those actively looking for your products and services. In this video, you'll learn:
+- what SEM is
+- how it works
+- why it works so well
+
++ search engine marketing, or SEM.
+
++ It’s simple, but effective: People search for things they want. And advertisers target specific searches,
+but only pay if someone clicks to learn more. That’s search engine marketing.
+
+2. The SEM auction
++ When advertisers compete to show ads on the same search results page,
+search engines use an auction to determine which ads appear and in what order.
+But there’s more to consider than just the price. In this video, we’ll talk through:
+- how an SEM auction works
+- factors that influence the outcome
+- a detailed example.
+
++ Search engine marketing is based on an auction system. Search engines limit the number of slots adverts
+can appear in on an individual page. Advertisers then compete in an auction for those slots.
+
++ So, success in the auction means having a competitive bid, as well as strong relevance.
+Getting both of these right is the recipe for success in SEM.
+
++ The price you’re willing to pay for a click — the max CPC
+
++ The search engine probably considers your ad highly relevant.
+That means you’d likely get a high Quality Score.
+When two competing businesses have equal bid prices,
+the business with a higher Quality Score will appear higher on the search results page.
+
+3. What makes a good keyword
+
++ When you’re starting a new search engine marketing (SEM) campaign,
+it’s important to understand what makes a keyword “good”.
+In this video, you’ll learn which factors to consider before bidding on keywords, including:
+- relevance
+- traffic
+- competition.
+
++ We’re also going to touch on three important factors to consider when choosing keywords.
+These are relevance, traffic and competition.
+
++ But you should look for keywords where the relevance and traffic is high, and competition relatively low.
+
++ Measuring the value of your ad clicks will help you know if keywords are “good” or not.
+But before you start a campaign, you won’t be able to measure the value your keywords are generating.
+So how can you research keywords before adding them to your campaign? Well, you have a few different options here.
+The first thing to ask yourself is: is this keyword relevant? Or in other words,
+does this keyword closely describe your products or services?
+
++ Keyword research tools can provide traffic estimates to help you get a handle on this.
+
+4. Make your ads stand out
+
++ Take a look at any search engine results page. It’s full of text!
+How do you make your business’s adverts jump out in this jumble of words?
+In this video, you’ll learn how to:
+- attract more traffic with adverts that catch the searcher’s eye
+- write headlines that make a connection
+- write a clear, compelling call to action.
+
++ Let’s start with relevance. Relevance is the name of the game in search engine marketing.
+Try and write your advert’s headline to match the searcher’s words as closely as possible.
+
++ The last thing you want is a strong, clear “call to action” in your advert.
+In other words, tell visitors what you want them to do when they get to your site.
+You could say “Browse Our Portfolio!” or “Buy!” or “Make a Reservation!”.
+Research shows that people respond when you direct them to do something specific.
+It’s a good idea to include this as the second line of your advert, so the searcher knows
+exactly what to do after they click on your ad.
+
++ So what have we learned? Using a few simple guidelines can help your adverts stand out from the competition.
+First, you want to customise your advert headline to the search.
+Then include a special or timely offer.
+And finally, give a compelling call to action.
+
+MODULE 9/26: Improve your search campaigns
+
+1. Achieve relevance with good structure
++ To succeed as an advertiser, you need to create adverts that help searchers find what they’re looking for –
+and when you do, search engines may reward you. In this video, you’ll learn:
+- how SEM campaigns are structured
+- how to use that structure to achieve relevance
+- the benefits you’ll get by focusing on relevance
+
++ Think of your SEM plan as an upside-down tree. At the top is your account,
+which you create with Google Ads, Bing Ads, or another search engine.
+Within the account are campaigns. Each campaign controls important decisions,
+like the daily budget, the areas or countries where ads can appear, and the advertising networks you want to use.
+Within each campaign, you can create multiple ad groups.
+These are collections of keywords and the ads that go with them.
+
++ By dividing your products or services into separate campaigns and ad groups,
+you can show ads that help customers find exactly what they’re searching for— which is win-win for everyone.
+
+2. Get the most from your keywords
++ Search engines, like Google and Bing, offer tools that take the guesswork out of choosing the right keywords,
+and can help potential customers find you online. We'll talk about:
+- research tools
+- related searches
+- negative keywords
+
+
++  A tool like Google’s Keyword Planner or Bing’s Keyword Research Tool can help you find out which
+keywords are most relevant and will work best for your new campaign.
+For example, if you type in “pet portraits,” the tool will show you other related searches.
+
++ By organising these terms into ad groups, you can write relevant ads for each group of keywords.
+
++ you should use “negative keywords” to prevent your ads from appearing when people search for things
+that aren’t relevant to your business.
+These negative keywords will block your ads any time a search contains one or all of them.
+This is useful, because preventing adverts from appearing for irrelevant searches,
+is going to save you money, and make sure that only your ideal customer sees your ads.
+
+3. Fine-tune with keyword match types
+
++ Search engine marketing (SEM) is great for letting you choose specific searches to trigger your ads.
+But search engines often show your ads for keywords that are slightly different from the ones you’re targeting.
+The solution: keyword match types. This video explains:
+- what match types are and why they’re useful
+- the different kinds of match types
+- how to control which searches may trigger ads
+
++ search engines can show your ads when people search for variations of your keywords.
+This is called broad matching.
+Most of the time, broad match is useful. It means that you don’t have to add every variation of the keyword
+you’d like to target, like singulars, plurals and misspellings.
+
++ But this flexibility also means that sometimes, search engines
+show your ads for keywords that aren’t relevant to your business. Using keyword match types can help.
+
++ Keywords are broad match by default. Aside from broad match, the other primary match types are
+phrase match and exact match.To change broad match to phrase, simply place quotations around the keyword.
+
++ Phrase match tells Google Ads or Bing Ads that adverts can’t be
+displayed unless the search includes the entire phrase.
+With phrase match, the searcher can include words before and after the phrase.
+
++ To get even more specific, exact match keywords are distinguished by
+enclosing the word or phrase in square brackets. But minor variations, like plurals, can still trigger the ad.
+
++ As you change keywords from broad match, to phrase, to exact, it restricts the opportunities for ads to display.
+
+4. How to know what’s working and what isn’t
+
++ One of the best ways to measure how well your search engine marketing is working
+is by tracking conversions, or actions you’d like website visitors to take. In this video, we’ll cover:
+- what conversions are
+- how to choose the ones you want to measure
+- what tools you can use to track them
+
++ One of the best things about SEM is that you can measure the value you’re getting from your campaigns.
+To do this, you track conversions - the key actions you want website visitors to take—using tools
+that search engines like Google or Bing provide.
+
++ way potential customers can become paying customers, so you should track that as a conversion as well.
+
++ you can use tools provided by search engines. These allow you, or whoever is managing your website for you,
+to place a small piece of code on certain pages of your website.
+
++  In order to properly track conversions, you need to attach the code to pages someone
+will only see after they’ve taken the action you want.
+Once you install the code, you’ll start getting reports that tell you how many conversions you got.
+That’s valuable information in figuring out if your online ad campaigns are working.
+
+MODULE 10/26: Get noticed locally
+
+1. Marketing to the locals
++ The Internet connects businesses and customers worldwide.
+But if you’re a local business, you’ll want to reach people nearby. Let’s learn a bit about:
+- what local means in digital
+- how your business can build a local search presence
+- and a perfect pair: local marketing and mobiles
+
++ First and foremost, be sure your location details are on your website.
+If you have a shop, be sure to include your address, and maybe even an interactive map so a customer
+can get directions, plus your telephone number, and your working hours.
+And if you have a service area business, be sure your website explains what areas you serve,
+and how people can get in touch with you.
+
++ Google My Business, Bing Local and Yahoo
+
+2. The power of local directories
++ One of the best ways to connect with customers online is to get listed in local directories.
+In this lesson we'll show you:
+where to start
+how to list your business
+how to manage your local profiles.
+
++ The first step is to create a listing in local directories.
+These online listings include your key information, like your business name, your address and your telephone number.
+
++ The name of your business seems straightforward
+For the address, you’ll need a physical address or location. Post office boxes and shared locations usually won’t be accepted.
+Just like with your business name, enter your address in the same exact way for every directory.
+Telephone numbers should be local as well, including area and country code, so generally you won’t want to use a freephone number.
+You’ve got to have these three things—name, address, telephone number—to land local customers.
+
++ First, you want your business and all those great local details to show up on the most popular search engines,
+like Yahoo!, Bing and Google—and all of these have local versions and local business listings for you to use.
+
+MODULE 11/26: Help people nearby find you online
+
+1. Using digital to advertise locally
+
++ Local advertising is a great, affordable (sometimes even free) way to connect with customers
+who are close at hand. In this lesson we’ll talk about:
+- why local advertising is important
+- where you can advertise online to local customers
+- some special features of “local” ads
+
++ First, you have to remember that the Internet is everywhere. And that’s what makes local advertising different -
+it’s limited to showing your ads to people who are local to you and likely to be - or become - your customers.
+
++ You can accomplish local advertising online through a lot of different channels, and search engines,
+local directories, review sites, and social networks are great places to start.
+
++ all of the major search engines allow you to limit your ads showing to only people in certain locations
+and geographies.
+
++ You might be able to list your hours of operation, or only show your ads when you’re open.
+Or you might be able to let people get directions right to your storefront on a smartphone or mobile device,
+let them ring your phone number with a single tap, or let them browse all your great reviews.
+
+2. Reaching locals on their mobiles
+
++ Take advantage of the ways that mobile and local complement each other to connect with customers closest to you.
+In this lesson we'll explore:
+- the importance of being found in local search results
+- making the most of mobile features, like GPS and applications (apps)
+- using paid advertising to reach a local audience on the go
+
++ Think about your business. How do you marry mobile with local?
+- To get started, make sure your customers can find you online, using any device,
+and have a good experience whether they’re on a laptop, desktop, smartphone or tablet.
+- Then, think about using mobile specific technology like GPS and apps to motivate customers
+with local features and promotions
+- And finally, if you’re advertising locally, you can target people nearby and on the go with your campaigns
+
+3. SEO for local businesses
++ If you want to increase the chance of local customers finding your business, you need to know a bit about:
+including key information on your website
+how search engines choose local results
+the importance of mobile
+
++ Remember: the role of a search engine is to provide the right result,
+at the right time and in the right place for the searcher.
+In order to do this, search engines may use the proximity of the searcher to your business,
+or the geographic area they type in as part of their search.
+
++ many searchers are on the go, looking for local results on smartphones.
+If your website can be found in the mobile search results it can be an important way to connect with customers,
+so make sure that you’ve got a mobile friendly, quick loading website that search engines
+can understand and visitors love.
+
++ Remember, following these steps can help search engines understand if your business is local:
+Add location details to your website, Continually add quality content that’s relevant to your audience
+and highlights the location of your business, Check your business listings on search engine and local
+business directories, and Ensure your site is mobile-friendly and easy for both search engines and
+visitors to understand.
+
+MODULE 12/26: Get noticed with social media
+
+1. Social media basics
+
++ Social media is everywhere, and people engage with it every day.
+Learn what it is and how you can take advantage of these networks by:
+- understanding why you need to be there
+- joining the right social media sites
+- growing your presence and engaging with your networks
+
++ Online networks, or “social media” as we call it, allow people to link,
+interact, share and exchange information. They’ve quickly become something we can’t seem to live without.
+
++ When you join these social networks, you can join these conversations and start new ones.
+Maybe you’ll start by sharing photos when you get new items in stock, and this will help you stay “top-of-mind”.
+It also give people a reason to visit, again and again.
+This way your network can grow quickly.
+- Social media can also help you build trust with your audience.
+- Social media provides an opportunity for your customers and fans to promote your products,
+and when this happens, you earn trust.
+
++ And, there’s one last benefit of social media for your business:
+You can learn by watching how people interact with your brand online.
+
++ First, you’ll want to get to know the different networks. Which ones are your customers using most?
+
+2. The right social media sites for you
+
++ New social media sites pop up constantly. Here’s an overview of what’s out there and
+how to figure out which ones might be important to you. We’ll go over:
+- different types of networks
+- understanding their contexts
+- the best ways to get involved
+
++ When getting started with social media, it helps to sort all the different networks into
+categories so that you can understand where you need to focus your attention.
+
++ There are lots of different sites out there dedicated to lots of different industries,
+and you should search around to find the most important ones for your business.
+
++ And although membership on these sites might be smaller, those members can be exactly the kinds of
+people you’re looking to attract.
+
++ On the other hand, if you’re a business that sells to other businesses,
+this might be exactly where you want to advertise your products and services to other professionals
+in very specific industries or job roles.
+
++ In the end, it’s all about understanding the objectives of each network, and
+the people hanging out there that you want to connect with.
+
+3. Setting your goals for social media
+
++ Once you’ve learned the lay of the land when it comes to social media,
+it’s time to figure out what you’re trying to accomplish. Let’s talk about:
+- setting specific goals for your social media efforts
+- focusing your efforts on those goals
+- putting your plan into action
+
++ Maybe you’re looking for a faster way to respond to customer inquiries.
+Maybe social media’s a way for you to reach your existing customers and encourage them to buy from you more often.
+Or maybe you’re looking to grow your business by finding new people who could become new customers.
+These are all good examples of goals that social media can help you achieve, and there are plenty more.
+
++ Once you’ve got something to say, it’s time to figure out how you’ll find people to say it to.
+- Remember, social media isn’t a one-way street. You also have to participate and give back to
+your new network of friends and followers.
+- The last thing you’ll need to plan is how you’re going to speak to the different audiences
+in the different networks you’re using.
+
+4. Getting on social media
+
++ Joining a social network usually starts with opening an account and creating a profile.
+In this video we'll explore:
+- the basics of getting started with a social media site
+- the difference between business and individual accounts
+- the importance of your profile.
+
++ First, social networks for businesses can be a little different than social networks for individuals.
+Generally, it’s best to use your business email address to do this so you can keep your personal and
+professional accounts separate.
+
++ Remember the tone of voice you decided to use and the business goals you want to support.
+This will help you as you write the descriptions of your business, as you list your products,
+choose the images or videos you want to showcase, and even personalise your profile page with background images.
+
++ Your profile page is often the place where you’ll be sharing your content,
+having conversations, and displaying your activity.
+
++ Also, don’t forget many of these profile pages are also accessible by search engines,
+so the more great content you provide here,
+the better the chances that your social pages might even show up when people are searching on search engines!
+
++ Finally, many social networks offer advertising opportunities, or special features for a price.
+
++ Creating your business’s presence on the networks you’ll be using, always keeping your goals in mind,
+is an essential step on the path to social success!
+
+MODULE 13/26: Deep dive into social media
+
+1. Your long-term social media plan
+
++ Once you start engaging with social media, you’ll realise pretty quickly: it helps to get organised.
+Putting together a serious plan for how you want to invest in social media will really help.
+In this video, we’ll cover:
+- the benefits of creating a plan for social media
+- what a social media plan might look like
+- tools to help you put your plan into action
+
++ Consider the next 6 to 12 months, and start creating a calendar.
+Sketch out details like what topics it makes sense for you to post about? What’s your audience interested in?
+Then take it a step further. When does it make sense to post about those topics?
+Consider where you should be posting.
+
++ Once you’ve got all these tasks spread out across a calendar for the next several months, all of a sudden,
+it’s much easier to see how you’re going to tackle the brave new world of social media.
+
++ With social media management tools like Hootsuite, Buffer, and Everypost,
+you can create the things you want to post and share in advance.
+
+2. Advertising on social media
+
++ If you want to reach specific audiences online, advertising on social media sites is a great option.
+In this video we'll talk about:
+- how to get your message in front of specific audiences
+- how advertising on social networks can complement your other social efforts.
+
++ Many social networks offer paid advertising opportunities that can give you access to very specific audiences
+and get your message out there.
+Like other online advertising channels, you can also target your ads to a specific geographic area.
+
++ You get the ability to do some really fancy targeting. And on top of that, you can ramp up your visibility
+on social networks very quickly… as long as you’re willing to pay for it, of course.
+
+3. Measuring success in social media
+
++ Knowing how effective your social media efforts are is invaluable to your business. Here we'll explore how to:
+- collect data from the networks themselves
+- make the most of social management and monitoring tools
+- see what social visitors are doing on your website.
+
++ By looking at the data and reports available in many social networks,
+you can learn a lot about who your connections are,
+how they behave, and how they consume or interact with the content you’re providing.
+
++ social media monitoring. There are lots of them out there and a wide range of features and pricing,
+but basically, these tools will scour all the social networks out there looking for mentions of you,
+your competitors, or even certain themes being talked about.
+
++ But these reports and tools typically only measure what’s happening on the social networks themselves.
+So if you want to know what’s happening after someone decides to click on a link you shared,
+or a piece of content you posted and ends up on your website?
+For this, you’ll need a separate tool dedicated to tracking what’s happening on websites, like Google Analytics.
+Web analytics tools will generally pick up the trail as soon as someone hits your website,
+and many of them will automatically track when visitors are coming from social media sites.
+
+4. Avoiding social media pitfalls
+
++ Social media can be a powerful tool, but it’s also been known to cause some issues for businesses.
+We’ll show you what not to do, like:
+- bore people to tears
+- put your posts on autopilot
+- spread yourself too thin.
+
++ The first rule of social media: It’s not all about you.
+People go online to share news, how-to tips and funny cat videos. They’re not there to hear your sales
+pitch—and brands that have nothing else to say tend to get boring and ignored fast.
+If you’re a business, remember that anyone who follows you on social media is already interested in you.
+There’s no need to aggressively sell. Just focus on providing a good experience and keeping their attention.
+
++ The next pitfall: Don’t spread yourself too thin on social media.
+With all the networks out there, there are almost unlimited opportunities to talk to customers,
+but those conversations take time.
+
+If you’re not careful, you’ll get overwhelmed trying to juggle too many sites.
+Focus on the ones that matter most and branch out as it makes sense and as you can handle it.
+
+Have you ever checked out the social media page for a brand or product you’re interested in,
+only to find nothing’s been updated for months? Another big mistake.
+
++ Finally, it can’t be emphasised enough that you’ll want to measure what your efforts are actually doing for you.
+Using social media and analytics tools, you can see firsthand how your social media efforts are
+contributing to your bottom line, and learn which are more valuable than others.
+
+MODULE 16/26: Get started with content marketing
+
+1. Intro to content marketing
+
++ With so many businesses and brands online, content marketing is a valuable tool in helping you to stand out.
+In this lesson, we'll explore:
+- what content marketing is, and why it can add value to an online business
+- best practices for creating your own content marketing strategy
+
++ Content marketing is based on the creation and sharing of online material, like videos, blogs,
+and social media posts.
+It’s designed to generate interest in a company’s products or services by capturing people’s attention.
+It can also help to increase sales by directing traffic to your website, boost awareness of your brand
+and build trust and recognition amongst your audience.
+
++ The key to success is creating a content marketing campaign that accomplishes three things:
+(1) answering your audience’s questions,
+(2) providing something of value and
+(3) keeping them wanting more.
+
++ Here are a few best practices to keep in mind as you put together your own strategy:
+- take the time to get to know your audience better.
+Look at which accounts they follow on social media to get a sense of their likes and interests
+- experiment to find the best types of content for reaching your audience and
+don’t be afraid to use multiple formats
+- choose the right places to publish your content and make sure you’re talking directly to your audience
+- throw away the business speak and stock responses, and prioritise natural language to interact with your audience
+- make your content unique, interesting and exciting.
+Use engaging headlines, eye-catching pictures and informative language to capture your audience's attention.
+
++ When starting to write your own content marketing strategy remember the three keys to success mentioned earlier:
+- focus on answering your audience’s needs
+- create content they’ll find valuable
+- keep them engaged so that they’ll visit you in the future for more content.
+
+2. Get to know your online customers
+
++ Making sure you are saying the right thing, to the right people, and
+are connecting with them at the right time is critical when it comes to content marketing.
+In this lesson, we'll explore:
+- what audience segmentation is and how it can benefit a business
+- how to use audience segmentation to boost your content marketing efforts
+- some of the tools and systems available to help you segment your audience correctly.
+
++ Segmentation involves dividing your audience into groups of who they are and what they like.
+Rather than spending time and money targeting a wide range of people,
+segmentation helps to identify the groups most interested in your product or service.
+The result is a more cost effective and persuasive way to connect with potential customers.
+
+By researching your audience and segmenting them into groups, you can then create specific content that excites,
+entertains and engages them.
+
++ Understanding the habits and preferences of an audience can help you target content
+directly to that specific group of people.
+Another benefit is being able to pinpoint audience behaviour and using this information
+to refine your marketing approach.
+
++ To get insights into what people search for, try free online tools like Answer The Public and Keyword Planner.
+You also can utilise analytics features on social media platforms like Facebook and
+Twitter to get a glimpse of audience demographics and behaviours.
+
+3. Choosing the right format for your content
+
++ Content is much more than just text on a screen. From entertaining GIFs to blog posts, whitepapers,
+and full-length videos, understanding which content format can make the most impact on your audience is critical.
+In this lesson, we'll explore:
+
+- popular online content formats
+- the four main purposes for content marketing
+- how to match different formats to your content goals
+
++ Blogs, Infographics, Ebooks , Videos, There are many other content formats to consider, including:
+press releases, webinars, reviews and case studies.
+
++ In content marketing, there are typically four main purposes of content, which are:
+- to entertain
+- to inspire
+- to educate, and
+- to convince.
+
++ In your own business scenario, consider how certain formats are best paired with specific content goals.
+For example, if your goal is to educate, then guides, ebooks and infographics would be the ideal formats –
+whereas if your goal was to entertain, a better format choice would be quizzes or competitions.
+
+4. Writing for online audiences
+
++ When it comes to writing for the web, there are key considerations to keep in mind which will help
+make online reading as enjoyable as possible. In this lesson, we'll explore:
+
+- how online audiences and offline audiences differ in their the way they read content
+- why it's important to adapt your writing style to an online audience
+- tools and systems to help support writing copy for the web.
+
++ To capture your online audience's attention, you’ll need to adapt the way you approach writing.
+For example, while reading a long article in a newspaper could be enjoyable,
+reading multi-page articles online are more likely to be frustrating.
+This is because as online readers we are constantly flooded with information,
+so our need to multitask and consume online data quickly and efficiently has left us with shorter attention spans.
+
++ Keeping this in mind, here are a few best practices for successful content writing:
+- Start with a good hook that clearly explains to the reader what they can expect.
+- Make sure that as you’re writing, you always keep your target audience in mind,
+and focus on what you can offer them. Try to read your content through their eyes,
+and don’t be too salesy - you want to engage your audience, not bombard them with too many sales messages.
+- Another valuable tip is to incorporate a “call to action”, or CTA. CTAs are short statements designed to
+entice a website visitor to take a specific action, so you should make them as creative and persuasive as possible.
+
++ Creating content regularly means it can be tough to stay inspired,
+so here are a few ways to come up with engaging topics.
+Try researching your competitors to see what topics they cover.
+As you research, keep a list of potential topics and refer back to it when it’s time to brainstorm new content.
+
++ In addition, tools like Answer the Public allow you to type in a specific subject or
+key term and receive a list of some of the most searched queries involving those words.
+This is great for creating content topics that respond to real user demand.
+
+- Other tools to help you get an idea of how popular a topic is include Search Console,
+which can help you see the terms people use to find your website, and Keyword Planner,
+which shows you how many people search for a specific term.
+
++ Finally, make sure you’re consistent in your writing style, so that when readers read your content,
+they immediately associate your brand or business voice with it.
+A clear and recognisable tone of voice will help to establish a relationship with your audience and
+differentiate you from competitors. Try writing down the attributes you want readers to associate with your brand,
+such as honesty and enthusiasm, and always write with these qualities in mind.
+
+5. Help your content be seen
+
+Once you've created content, knowing how to distribute and promote it online is key to getting the reaction that you want.
+In this lesson, we'll explore:
+
+the channels available to promote and distribute content effectively
+how a content calendar can help you organise your content marketing activities
+best practices that ensure your content gets the attention it deserves.
+
++ Before you start creating a content promotion plan,
+it’s important to consider the channels available.
+Identifying channels by Owned, Earned and Paid categories is a great place to start.
+
++ A content calendar is a detailed timeline that organises your content marketing activity. By clearly outlining what to publish and when,
+it can help make your content process consistent and efficient, as well as give everyone involved a clear action plan to follow.
+
+- make it achievable. Your content calendar should include realistic time frames - if it’s not achievable,
+you’ll fall behind schedule and your content won’t reach its full potential
+- highlight key dates. Things like public holidays or relevant events are great for releasing seasonal content
+- consider multiple channels. Think about how a variety of marketing channels, such as a blog and social media,
+can work together to promote your content marketing campaigns
+- remember the audience. Clearly define your audience at each stage of the calendar. If you segment your audience,
+specify which group you’re targeting
+- explore online tools. There’s a variety of free and paid tools available to help you create a calendar,
+publish content to social media accounts, or collaborate on content with your team.
+These tools can save you time by automating some of the content creation and distribution process.
+
+6. Measuring your success in content marketing
+
++ Knowing how well your content performs once it's published online will help you understand your audience,
+as well as provide you with insights as to how to improve campaigns in the future. In this lesson, we'll explore:
+
+the tools available to help track the success of your published content
+key metrics used to measure the success of content marketing campaigns
+how to use data gathered to better meet goals in future campaigns
+
++ Once you identify your content goals, it will be easier to track what you set out to achieve.
+Next, let’s explore specific metrics that could help improve your content marketing.
+Consider where your visitors are located, their age and gender demographics,
+how long they spend on a specific webpage and what they search for when they land on your site.
+
++ Some of the metrics they could track are:
+- the number of page views the blog receives
+- the number of transactions made on the site
+- the number of visitors that come to their website from social media channels.
+
++ Many social media platforms provide detailed information about the people who follow or subscribe to business accounts.
+This includes gender, age, and location, as well as which posts receive the most engagement.
+Such data can give you an indication of which content is the most effective at meeting your goals, and
+which provides you with the best return on your investment.
+
++ Analytics can also show them where their readers are coming from, such as from social media or a search engine, and
+how many of their readers made a purchase after reading a blog post. By looking at the data available,
+they could refine their content marketing strategy as they go, ensuring they meet the company goals and objectives.
+
+
+MODULE 17/26: Connect through email
+
+1. Email marketing basics
+
++ Sending newsletters and special offers to customers via email can play a key part in your overall marketing plan,
+building and strengthening relationships with your customers. In this video, we'll explore:
+- developing a contact list
+- targeting audiences based on interests
+- building relationships with customers.
+
++ So how do you find these people, and get their email addresses? Start by asking them.
+Let’s say you own a pet supply shop. When you chat with customers, offer to send discounts and
+special offers if they provide an email address. If you have a website,
+you can include a form and encourage visitors to subscribe online.
+
++ Ask your subscribers if they are interested in receiving updates about other products or services.
+Then find out how they prefer to hear from you.
+For example, do they want to receive emails weekly or monthly? Record what you learn in your email contact
+database for future email campaigns. How about people who have been on your contact list for a long time?
+These loyal customers are really important to your business. And it’s a good idea to build a positive,
+lasting relationship with them. So, how might you go about this?
+
++ By making your content entertaining and useful, your subscribers will enjoy and appreciate your emails, and
+you’ll likely remain their go-to choice when they’re ready to buy.
+Finally, you can use email to request feedback from your contacts about their shopping or
+customer-support experience, and then respond to them directly.
+
+By knowing what went right, or what went wrong, you can offer solutions to their issues,
+or simply thank them for being a customer. So that’s it. Email marketing is a great way for you to develop relationships
+with both potential and existing customers.
+
+2. Your email marketing options
+
++ Many email marketing software systems will guide you through the entire process of setting up an effective email campaign.
+You can monitor how recipients interact with your emails in order to personalise the content. In this video, you'll learn about:
+- common features of email marketing tools
+- benefits of tracking email recipient behaviours
+- personalising content according to customer information.
+
++ The first is a contact database that stores your customers’ information.
+- Start building your email database by adding customer data you already have.
+- Next, you want to give people the ability to subscribe (and unsubscribe) themselves.
+But, your online sign up form should be short and easy to complete
+- If you do have information about customers, you can use it to sort them into lists.
+- Now you’ve got your database, let’s think about the actual emails.
+Email templates allow you to create a design that matches your brand.
+You can reuse your template again and again, for similar email campaigns.
+
++ You can then use your email service to record those preferences and send future emails at more relevant times.
+As you learn about your customers’ behaviour, you can then deliver more personalised content.
+
++ By targeting each group with a personalised email,
+you increase the chances that they will not only read your email, but also click through to visit your website.
+
+3. Crafting great marketing emails
+
++ Your email marketing campaigns will change, but the goal remains the same.
+You want to craft attention-grabbing emails that encourage action.
+With a few tips, you can market your business like a pro. In this video, we'll explore how to:
+- use subject lines to make a good first impression
+- write concise content with strong calls to action
+- include helpful links for customers.
+
++ The two things they’ll see, are your business name in the “From” field, and the subject line of your email.
+- Be sure to use a name and email address in your “From” field that clearly identifies your business.
+People are more likely to open an email, from someone they recognise and trust.
+- Keep your subject line short and simple—ideally under ten words.
+Try to capture the most valuable and relevant information contained in the email.
+When possible, personalise or localise the subject line.
+For example: “Jane, is your pup the healthiest in London?”
+- It’s best to avoid words like “free,” “percent off,” “reminder,” and “specials,” as well as
+pound (£) symbols and exclamation points. These are all known to trigger spam filters.
+
++ So keep your content concise, and get right to the point.
+- Your paragraphs should be short—maybe one to three sentences, and keep them focused on a single idea.
+You can always link to longer articles and additional information, on your website.
+- Make your writing as persuasive and engaging as possible. And use the right tone of voice for your audience.
+- Links in your email should include calls to action. Encourage recipients to click through, to offers on your website.
+- For example, a link could say something like “Click here to save 25 percent off your next order of all-natural cat chow”.
+Or maybe “Click here for free shipping on orders over £50.”
+
++ And that’s some links at the bottom of the email that allow recipients to unsubscribe,
+change their email preferences, or update their contact information.
+- Providing an easy way for users to opt out of your newsletter, is not only good customer service,
+but it’s also required by law in many countries.
+
+4. Managing successful email campaigns
+
++ There’s a lot to manage when running an email campaign – use these strategies to set yourself up for success. Here we’ll explore how to:
+- use A/B testing to improve engagement
+- create relevant campaign landing pages
+- measure the performance of your email campaigns.
+
++ A/B testing is when you create two versions of an email to see which one performs better.
+You can use this technique to test different email approaches.
+- You can use A/B testing to test different subject lines, frequency, content and images.
+You could try sending emails on Tuesdays and Saturdays. Or, try sending emails weekly and monthly.
+See what your audience seems to prefer, and then adjust.
+
++ You wouldn’t want someone to click a link to learn about a specific product and end up the homepage, right?
+Your email campaigns will be more successful if you send visitors directly to the page they want to see,
+so they can learn about the product, and maybe buy it!
+
++ people will read your emails, on mobiles, tablets, laptops, and desktops.
+That means your email landing pages need to work well, across all those devices.
+
++ Email services usually include analytics tools, so you can track and measure how well your campaigns are doing.
+The reports can show you interesting data like “open rates,”
+which can help you learn which subject lines are most compelling.
+You can see which content drives people to visit your site by looking at the “clickthrough rate,”
+when people click a link within the email.
+
++ And finally, be sure to use web analytics to figure out what people are doing on your website,
+after they click on your emails.
+
++ You can regularly improve your email campaigns, by testing different versions,
+creating relevant landing pages and using analytics to see what’s working best.
+
+5. Measuring success in email marketing
+
++ Knowing whether your email campaigns are successful will help you take the right actions
+when it comes time to improving them. In this lesson, we'll explore:
+- why email metrics are important in evaluating campaign success
+- five useful metrics that can help you understand email performance
+- how to draw insights from the email metrics gathered.
+
++ Using the analytics from your email platform,
+you can discover the number of people clicking from your email to your website,
+or how many complete any calls to action you’ve set, such as making an online purchase using a discount code.
+- This type of informed decision-making can lead to greater conversion rates,
+and help you refine any future campaigns for success.
+
++ Five metrics:
+- Open Rate is simply the ratio of people who’ve actively opened the email vs. the total number of people who received it.
+ This is useful for understanding the effectiveness of your email subject line.
+- Click Through Rate, or CTR. This offers a top level view of the success of the individual email campaign,
+and gives you the percentage of people that clicked on links to your website from every email that was opened.
+The Click-to-Open Rate takes into account total number of clicks vs emails that were actually opened.
+This gives you a more realistic idea of audience engagement because if they opened your email and
+went on to click a link, you clearly did something right
+-  Conversion Rate..The conversion rate would show how many people you sent the email to,
+compared to the number of people who actually ended up registering for the event.
+- The Bounce Rate is the percentage of emails that could not be delivered to subscribers and were sent back.
+There are two kinds of bounces to be aware of:
+Soft Bounces: These are rejected due to a full inbox or size limit restriction on your audience's email server.
+Hard Bounces: Your emails are blocked or the address you are using is incorrect.
+A breakdown of hard bounces per email campaign can show you which email addresses to remove,
+saving you time and effort for your next campaign.
+
++ The next step is to adjust any future campaigns accordingly, whether that be to refine the subject lines,
+review the type of content published, or clean up your subscribers list.
+
+MODULE 18/26: Advertise on other websites
+
+1. What is display advertising?
+
++ Display advertising allows businesses to reach specific groups of people on specific websites with their messages.
+In this lesson, we'll look at:
+- what display advertising is
+- how it works
+- the goals it can help you reach.
+
++ Think of display advertising as the digital version of a billboard, print ad or TV ad you see offline.
+Businesses pay whoever owns the ad “space” hoping to get their ads seen by the right kinds of people.
+And then turn those people into customers.
+
++ display advertising offers businesses the ability to reach relevant audiences all across the Internet.
+- Display is also a great way to drive traffic to your website, build engagement with your visitors,
+and win new customers
+
+2. Search advertising vs. display advertising
+
++ Search engine marketing and display advertising can both help you find customers and grow your business,
+but they work differently. Here, we'll compare the two, explaining:
+- how they both work
+- where the different ads appear
+- what those advertisements look like.
+
++ With search engine marketing, advertisers use this insight to reach potential customers as
+they are actively looking for something.
+- So people tell search engines what they want online. And advertisers bid for their ads to
+show up in response to the words and phrases people search for.
+
++ Display advertising works differently. The person it targets isn’t necessarily searching for business like yours,
+or showing interest in the products or services you offer.
+- In the online world of display advertising, that means finding websites where your potential customers are
+likely to be spending time, or targeting people who have showed specific interests through the sites
+they visit or other online behaviours.
+
++ Here’s another difference between search and display: where the ads show up.
+- With search engine marketing, your ad can only show up when people are searching.
+So when they’ve left the search engine and are browsing around the web,
+you can’t reach them with search engine marketing.
+- But with display advertising, your ads can show up on any website that’s offering advertising space,
+and it means that you can tap into millions of additional websites beyond search engines.
+
++ There’s one last difference between search and display: the ads themselves.
+- The ads on search engines are usually just made up of text. There’s typically some kind of a headline,
+some descriptive text, a link you can click, and maybe a few other things, like an address or phone number,
+depending on what options the search engine offers.
+- Display advertising, on the other hand, gives advertisers a lot more creative options:
+different sizes and formats, images, video, and more. This means there are lots more opportunities to
+get a potential customer’s attention.
+
++ So now you can see how search and display advertising differ, but hopefully you’re also getting
+a sense of how these can work together. Grabbing someone’s attention with a dazzling display
+ad is a great way to get on their radar. Later on, when they’re looking to act or make a purchase,
+they’re likely to head to a search engine. If your ads then appear on their search,
+they might recognise you and go for the click!
+
++ To sum up, search and display advertising can both attract new customers, just in different ways.
+
+3. The ins and outs of display advertising
+
++ Ready to create a display advertising campaign? First you've got to understand how to use all the different components of display, including:
+- how to find and target the right audience
+- how to create different kinds of adverts
+- how to organise your display campaigns.
+
++ First, you’re probably going to be using a display advertising network
+- that is, a system that lets you advertise on many different websites
+- to help you build and run your display campaigns, and almost all of them will allow you to decide
+where your adverts will show up, and who will see them.
+
++ You can limit your ads to people who speak certain languages, or to certain days or times.
+You can even combine multiple things together.
+For example, you can target local people heading out on their morning commute.
+- You can even target specific groups of people, and even the things they do online,
+regardless of the sites they’re browsing.
+- Depending upon what options your ad network offers, you might be able to target by gender or age group.
+Or by very specific locations.
+
++ There are banner adverts in all sorts of shapes and sizes, and video adverts that can use motion and sound.
+
++ Display advertising can be used to target very specific audiences, and even multiple audiences at the same time,
+depending on the message you want to send. Thinking about who you want to reach and what you want to tell them
+will not only keep your campaigns organised, it will also help you figure out the message, the tone,
+and the style your display advertising should take.
+- Understanding how these things work together will help you match the right message with
+the right people—and you’ll be well on your way.
+
+MODULE 19/26: Deep dive into display advertising
+
+1. Making display ads meet your goals
+
++ From the start, you should design your display advertising campaigns to help you achieve your goals.
+Here we'll go over some of the many things display advertising can do for you, including:
+- making a great first impression
+- moving customers through the sales funnel
+- turning interested people into paying customers.
+
++ A simple way to break down what you want to achieve with display advertising is
+to think about the different steps of the customer journey as a funnel.
+- The widest part at the top is awareness.
+ So if building awareness of your business is a goal,
+ you’ll want to target a broad audience and use adverts that make a great first impression.
+ 
+- This is a good time to think about what might catch someone’s attention - remember,
+they’re not actively searching for you when your adverts show up.
+
+- The next stage in the funnel is all about shaping people’s opinions of you,
+and making sure that they remember you in the future when they want what you’re selling.
+
+So if this is one of your goals, you can create new display advertising campaigns that use messaging to
+reinforce your competitive advantages and really highlight the benefits of whatever product or service you offer.
+
+At this point, you might narrow down your audience a bit more to include people who
+have been to your site before, or maybe people who are really interested in the products and services you offer.
+
+- Next on the sales “funnel”, is to focus on people who are already considering the solution you’re offering.
+Here, you might really refine your message, zeroing in on what exactly makes your product or service so great.
+
+- Next on the sales “funnel”, is to focus on people who are already considering the solution you’re offering.
+Here, you might really refine your message, zeroing in on what exactly makes your product or service so great.
+
+So for your film podcast, you could talk about how many subscribers you have, or use testimonials from
+happy customers. Remember, you won’t be targeting everyone with this message...
+these adverts will be limited to people who you know have been looking into you.
+
+- Retargeting is especially useful at this point in the funnel.
+Remember, you want to target people that you know have been researching you online,
+and get them to consider you and eventually convert. Well, retargeting is a way to accomplish that.
+It lets you show adverts to people after they visit your website, or do specific things
+that indicate their interest.
+
+Say someone visited your podcast’s website after spotting an ad, looked at some pages,
+and even made it all the way to the subscription page — but they didn’t quite make the final leap.
+
+With retargeting campaigns, you can define these “near misses” as your target audience.
+
+Then, you can show this very specific audience adverts to help entice them back to your site.
+This time, they might visit your site and finish that subscription form.
+Just like that, you’ve got yourself a new customer!
+
+2. Understanding ad networks
+
++ Advertising networks connect large groups of websites offering advertising space
+with people who want to advertise on them. This video examines:
+- how websites and businesses work together
+- common things advertising networks do.
+
++ Display advertising networks are like a middleman, connecting businesses who want to advertise,
+with websites with ad space to sell.
+- First, you could contact the site directly to work out the details, and that’s certainly something that happens.
+But with all the websites out there that offer advertising opportunities,
+you can imagine this can get pretty time consuming. This is where display advertising networks come in.
+They handle both the buying and the selling of display ads, linking businesses to websites that want to sell
+advertising space.
+
++ First and foremost, they all offer businesses looking to advertise ad space on websites.
+- Websites that offer these ad spaces can become a part of these networks,
+and they can do things like set minimum prices for how much money they expect for showing ads.
+
+Your business can then bid for the spots you want throughout all the websites in that network,
+deciding how much you’re willing to pay. Buyers and sellers are connected every single time pages are loaded,
+and the ads that win the right to fill the ad spot are shown.
+
+- Networks can also help you target specific audiences through two main routes:
+the topics of the web pages where the ads appear, and general information about the people viewing the content.
+
+- Another thing networks do is handle the money involved. Buying and selling ads happens every second of every day, and the networks collect money from businesses and pay the websites that show the ads.
+- Finally, and perhaps most importantly, advertising networks collect and share data with businesses.
+
++ They can tell you how many times your ads are shown, how many times they’re clicked on, how much they cost you,
+where they’ve been showing up, and how all of this varies between the websites and audiences you’re targeting.
+Many networks even let you add tracking to your web pages so you can see if your ads are resulting in conversions
+on your website.
+
+3. How retargeting works
+
++ Retargeting allows you to advertise to groups of visitors to your website based on
+the things they did when they visited. Here we'll cover the basics:
+- tracking what people do on your site
+- using that information to identify people you want to target
+- creating ads specifically for those people.
+
++ One really powerful type of display advertising is called retargeting, and lets you use
+what people do on your website in order to target them with a specific advertising message, even after they’ve left.
+
++ There are lots of retargeting solutions out there to choose from,
+and many display networks offer this feature as well. But no matter which you use,
+you’ll first need to define who will be in your audience.
+
+- So, you could define your target audience as people who started to fill out a subscription form,
+but didn’t complete it.
+
+- Your retargeting service might need you to add a little code to your web pages,
+or integrate it in your web analytics tool, so it can start collecting a list of people from your website
+who match this criteria.
+
++ Again, this won’t be a list of individual people with any personal information,
+such as names or email addresses. Instead, it’s an anonymous list (often called a retargeting list)
+of users that match your criteria who can be retargeted with ads. So, now that you’ve defined an audience,
+any visitor who started to subscribe but didn’t finish will be added to the list.
+Now it’s time to create ads specifically for them.
+
+- These ads can be pretty focused, because you know everyone seeing them has already started to
+subscribe on your website. So you might include things like special offers for extra content,
+a free gift for signing up,
+or some other incentive that’s aimed at getting them to come back and finish subscribing.
+
+- So later on they might see one of your ads, click on it, and finish signing up.
+Once they’ve subscribed, there’s no need to show them ads with subscription incentives anymore.
+
++ You can target them with a different ad campaign, perhaps convincing them to come back and
+explore all the other podcasts on offer! So that’s how retargeting works.
+It tracks what people do on your website and then creates an audience based on their actions,
+letting advertisers design specific ads for people who have - or haven’t - done specific things.
+
+MODULE 20/26: Make the most of video
+
+1. The rise of online video
+
++ As technology has improved, the popularity of online video has skyrocketed.
+Now, it’s a powerful tool in marketing. In this lesson you’ll learn:
+- how technology has improved online video
+- why online video is here to stay
+- ways to promote your business with video.
+
++ As technology continues to improve, more and more people are watching videos online.
+The popularity of online video—and the increasing quality—means huge opportunities for your business.
+
++ There are several ways to reach customers through online video. You can create a video and share it on
+websites like YouTube or Vimeo. Or you can embed your video directly on your own website.
+Another option is to buy ad space in other people’s videos.
+You could display a text ad at the bottom of the video, or run a short commercial at the start.
+
+- Advances in Internet technology have made online video marketing a viable option for loads of businesses,
+large and small. And experts only expect its influence in marketing to grow.
+
+2. How video fits into your online strategy
+
++ Businesses of every size can use videos to promote their products and services.
+In this lesson, you'll learn about:
+- how video can further your business goals
+- expanding your online presence with video
+- ways to advertise using video.
+
++ Using video is a great way to get people excited about what you have to share, and gain exposure to new fans or
+customers.
+
++ But what if some components of your food blog don’t lend themselves to being featured in videos?
+Or what if you don’t want to get involved in producing videos just yet?
+You can still take advantage of this opportunity by advertising your blog on other people’s videos.
+
++ Even if you don’t make your own video, your audience is still likely to watch someone else’s cooking and
+baking videos. Since your audience enjoys cooking, why not advertise on other cooking videos?
+
++ With video advertising, you can select certain types of videos, or even specific videos,
+where you’d like to advertise. You could pick someone else’s channel on cooking,
+or a specific video about vegetarian cooking and advertise there.
+
+3. Creating video content within your budget
+
++ Having an online video presence for your brand is more important than ever.
+Find out how you can cash in on this medium without a Hollywood budget. In this lesson you'll learn:
+- how to be creative with your resources
+- simple planning tips for videos on a budget
+- video editing resources for beginners.
+
++ The first step to creating video on a budget is to plan your content.
+
+- Remember—videos can be entertaining, educational, informative and everything in between,
+as long as they reflect what your company stands for and further your business objectives.
+
+- By planning ahead, you can shoot several videos at a time—with less effort and fewer resources.
+To outline the content for each video, use storyboards.
+
+Storyboards are visual plans of your story—showing what will happen scene-by-scene, including action and dialogue.
+Once you’ve got the content of your video planned out, it’s time to think about production.
+Producing video on a budget means being creative with your resources.
+
++ There are other factors to consider.
+You can save time and money on finding props, actors, and locations by asking yourself a few questions:
+
+- Can you find props at home, among friends, or in thrift stores?
+- Do you or someone else you know secretly long to be in front of a camera?
+- Can you use your home, office, or recreational areas as a video location?
+Once you’ve planned your videos, arranged your sets, and booked your crew, now it’s time to film.
+
+A steady camera, plus good lighting and sound can make all the difference.
+Here are some key points:
+- Any high-def camera will do—whether on your mobile or an inexpensive digital camera—as long as
+you keep it steady with a tripod or other stabilizer.
+
++ A variety of video editing tools—such as iMovie, Windows Movie Maker, or YouTube Video Editor—
+can help you edit and combine videos, build smooth transitions, and even add music.
+
+4. Sharing and promoting your videos
+
++ Whether you upload videos to your website, video sharing sites or social media,
+there are many ways to share and promote your video content online. In this lesson you'll learn how to:
+- organise videos on your website
+- share videos via social media and email marketing.
+
++ Be sure to use accurate titles, relevant keywords, and detailed descriptions of each video’s content.
+Not only will this help viewers know what to expect, but it can help your videos appear in search results.
+
+- Include calls to action to encourage your audience to take the next step. For example,
+ask viewers to share the video, visit your website, subscribe to your email newsletter or write a comment.
+
+- Keep your content fresh by uploading new videos frequently. Archive or remove outdated videos—such as a
+promotion for a local food festival that has already taken place. After people watch your videos,
+encourage them to spend more time on your site by showing previews to other videos,
+and making it easy to find them.
+
+- Group videos based on their purpose, such as cooking tips or recipes for brunch.
+
++ Keep in mind that some popular email programs don’t support video playback,
+so you may direct people to your site rather than embed video directly into an email.
+You can insert a still shot of your video that links to a page on your site page where the video can be viewed. 
+
+- Another way to share videos? Use hashtags.
+
+5. Advertising on video sharing sites
+
++ Advertising on video sharing sites is one of the many effective ways to grow your online audience.
+In this lesson you'll learn:
+- top video sharing sites
+- ways to advertise on video sharing sites.
+
++ The first step is to define your target audience and identify the types of content
+they will be most likely to view.
+- Start by looking for video channels featuring content that matches the interests of your readers -
+YouTube can be a great place to start. These channels have the audience you want to reach,
+and advertisements on these videos can introduce new people to your website.
+
++ Think about some ways you can pique the interest of cooking video enthusiasts.
+Do you have similar types of recipes and tips? Do you have your own interviews with celebrity chefs?
+Once you have some ideas of your audience’s interests, you can use the Google Ads program to advertise on YouTube.
+Other video sites often allow advertising as well. You don’t need videos of your own to advertise on these sites -
+you can use images and text instead. There are even free tools, like Google’s Ad Gallery, that will help you create
+professional-looking banners, for example.
+
+- Be sure your ad gives viewers a reason to visit your website and that they find something compelling when they visit.
+You already know that this audience likes visual content, so guide them to pages with stunning photos or your own videos,
+if you have them. Remember, you want them to keep coming back for more.
+
+- Let’s say you’ve decided to advertise on YouTube. Once you have your ad ready to go,
+use an Google Ads account to run your campaign. Within Google Ads, choose the category of
+people you want to reach on YouTube, such as cooking enthusiasts.
+
+- When your target audience is watching videos on YouTube, your ad will then appear next to the video,
+or even within the video itself, depending on the type of ad you choose.
+
+- As with any online advertising, you’ll have to define a budget for your YouTube campaign.
+Monitor your campaign and optimize based on what you learn. Let’s review.
+
+6. Measuring video performance
+
++ Analytics can give you insights into the people who watch your videos and how they engage with your content.
+With this information at hand, you can improve your videos and grow your audience. In this lesson you’ll learn:
+- how to determine who watches your videos
+- ways to find out what they like and don’t like
+- opportunities to improve and engage new audiences.
+
++ Video analytics reveal a lot about the people who watch your videos, like their age, gender and location.
+When you know your audience, you can create video content they’re interested in watching.
+
+- Knowing where people watch your videos is key to promoting your content.
+If most of your audience watches your videos on YouTube, focus on uploading more fresh content to that site.
+
+- You can also see what day and time people are most likely to watch your videos. If most people watch on weekends,
+then consider uploading fresh content on Friday nights. When measuring the performance of your videos,
+you can find out if people watch your videos start to finish. The length of your video may depend on the content.
+
++ In most cases, short videos work best. You can increase the likelihood that people will play your videos
+and watch them to the end by keeping them brief.
+
++ If people only watch the first few seconds of a video, it might not be meeting their expectations.
+Consider updating your preview images,video titles or descriptions so that people have a better idea of
+what they’re about to watch. Also look at the average length of video viewed.
+If most people spend only a minute watching your demos, try creating videos that are 60 seconds or less.
+
++ Other common indicators of your videos’ performance are: likes, dislikes, comments and shares.
+This information from viewers provides insightful feedback. Another tip: keep an eye on the reactions
+your videos receive through comments and social media.
+- If people share your video, it’s a strong measure of engagement.
+
+MODULE 21/26: Get started with analytics
+
+1. What is web analytics?
+
++ Web analytics can answer questions about what people are doing – and not doing – on your website.
+In this video, you'll learn about:
+- the kind of data web analytics can provide
+- how to understand that data
+- how simple it is to get started.
+
++ So, what is web analytics, exactly? Well, it’s all about using the data you can collect
+from your website to give you insights about your business.
+
++ A “metric” is basically anything you can count. “Unique Visitors” is a good example.
+“Time Spent On Site” is another. If you sell things on your website, you can track how much money you’re making or
+how many of a certain product you’re selling. If your goal is to get people to read your website,
+you can track the number of times someone looked at a blog post or the amount of time they spent on it.
+All of these things are “metrics.”
+
++ you’ll generally analyze your metrics by using what are called “dimensions.”
+- Generally, a dimension is any kind of data you can use to describe something you’re tracking with words.
+- Dimensions include things like the device type, what browsers visitors use, their geographic locations, and much, much more.
+
++ By taking your metrics and “slicing” them with dimensions,
+you can find answers to very specific, detailed business questions,
+like “which devices are people finding it easiest to convert on the goals of my website?”
+
++ As you dive into your own web analytics reports, you’ll be able to see all the metrics and dimensions being tracked,
+and you can combine them and slice and dice them to answer the questions you care most about.
+
+- If you haven’t started with an analytics tool yet, you’ll want to select and install one. Most have a pretty similar set up.
+
+- First, you’ll need to copy and paste some special code onto your web pages.
+Next, while these tools will track a lot of things on their own, you might want to configure them to track
+the specific things that are unique to your business and your goals.
+
++ Metrics are measurable, numerical data like time spent on site or pages viewed.
+Conversions are data on how many users have completed a desired action on your site,
+for example buying a product or signing up for a newsletter.
+Dimensions are groups of user data that can be used to generate a report, such as their device type or location.
+
+2. Making web analytics work for you
+
++ One of the biggest benefits of going online is that digital marketing is extremely measurable.
+Throughout the entire customer journey, web analytics provides insight on where your website visitors
+are coming from, what they’re doing and how you can get more of them to “convert” on your site.
+In this video, we’ll cover:
+- why web analytics underpins everything you do in digital
+- the kinds of insights you can gain using analytics
+- how to use data to support your business goals.
+
++ analytics measures your website visitors across the entire digital customer journey -
+from the first time a person visits your website, to the time they become a valuable repeat customer.
+
++ The power of analytics is that it can help a business measure what’s going on
+at every stage of that customer journey. Want to know how people are initially becoming
+aware of your business? It can tell you which search engines people are finding you on and
+which kinds of pages they’re being sent to.
+It can then tell you if people are actually engaging with your business when they get to your website.
+
++ Analytics can also measure whether people are converting on the goals you want to track.
+Analytics can tell us whether people are coming back and becoming repeat customers.
+And when properly set up, analytics can even tell us if those loyal customers are becoming our advocates
+
+3. Tracking specific goals with web analytics
+
++ Used properly, web analytics tools can give you valuable information to help you
+meet your objectives. You can do this by setting up your web analytics tool to track
+the specific goals that you care about. Here we’ll explore:
+- examples of goals and conversions
+- why it’s important to create and configure goals
+- how to determine what your own goals and conversions should be.
+
++ “Conversion” is the word commonly used to describe what happens when a website visitor completes a goal.
+And by now, you know that web analytics tools have the ability to break down loads of data about your visitors
+and what’s happening on your site to give you information that can help you get more of those conversions.
+
++ Just looking at stats like these really limits our ability to make any decisions.
+What we need is data that can very clearly show the value of these visits to the business.
+With that data you can start to really use your web analytics tool to show you things you can
+do to constantly improve.
+And that brings us back to the very basics of what it is we want to achieve online.
+
++ There are all kinds of goals you can find that can be tracked as conversions
+inside web analytics and show you the real value of what’s happening on your website.
+Once you’ve figured out your goals, you’ll need to configure them in your web analytics tool.
+
++ Instead of simply looking at how many visitors you’ve gotten or how long they spend on your site,
+you can start seeing reports showing the things you actually care about.
+Like maybe only 2% of your visitors coming from social media sites are signing up for your email newsletter.
+
+- So what can you do? How about putting out some social media posts offering a 10% off coupon when
+people sign up for the email newsletter? Or maybe you find out that your reservation rate jumps from
+3% up to 6% on weekends. Your next step? You adjust your advertising campaigns to advertise more heavily
+over the weekend, when people are more likely to take action. If you’re thinking this is all starting to
+come together, then you’re getting the hang of what web analytics tools can do for you.
+
+MODULE 22/26: Find success with analytics
+
+1. Web analytics and organic search
+
++ Web analytics is great for measuring all kinds of traffic to your site,
+including traffic from organic search results.
+But you can do much more than just count up your website visitors. In this video, you'll learn:
+- what kinds of data web analytics can give you about search traffic
+- how to evaluate trends in your search traffic
+- how to discover opportunities to make your website more relevant to searchers
+
++ Search engines are an important source of traffic for most websites.
+In fact, they’re very often the single biggest source of traffic to a business’s website.
+But are you getting more or less of that traffic from search engines over time?
+What do all of those searchers actually do after they get to your website?
+And most importantly, how can you improve your website to make sure the search engines are
+sending you people who are interested in your products and services?
+
+- If you’re thinking that web analytics has the answers to these questions, you’re spot on.
+
+- No matter which web analytics tool you’re using, you’ll be able to monitor how many visitors are
+coming to your website from organic search results from the different search engines.
+
++ If you’re using Google Analytics as your web analytics tool, you can dig deeper by learning
+which keywords people are typing into Google before they reached your website.
+That data doesn’t necessarily come from the analytics tool itself, but because Google Analytics
+can integrate data from Google Search Console, you get to see that kind of information.
+
++ You might see that people are searching for things you wouldn’t have expected,
+ to find your website. This can help you get a sense of what your visitors are really looking for,
+ and you can respond to that by building the right content and pages to fit their needs.
+
+- You’d also be able to see whether you’re getting more or fewer visitors from any given keyword theme,
+as well as whether or not visits to those pages end up with actual bookings.
+
++ you’re not re-working your content to suit a search engine.
+You’re working on it to make it match your existing business better.
+And to make it as relevant and useful as possible to people who are searching for luxury guest houses.
+
++ we’ve been focusing on analyzing the amount of traffic, or visitors,
+that are reaching your website after searching. That’s really important.
+But keep in mind that even more important than the amount of traffic you’re getting is the quality of
+the traffic that you’re getting.
+
+- analytics doesn’t just tell you where people are coming from, it also tracks what they do on the website.
+
++ Web analytics can be a great tool for your SEO efforts,
+helping you measure how much traffic you’re getting from search engines,
+where you might be able to make improvements, and the impact of changes you’re making to your website.
+
+2. Tools to measure SEM
+
++ When it comes to SEM, you’re paying real money for every click that brings visitors to your website.
+Here’s how you can use web analytics to make sure you’re getting the most out of your investment. We’ll look at:
+- which keywords are paying for themselves
+- how to understand which ads are working
+- how to use analytics to help you bid smarter.
+
++ With an analytics tool, you can check the keywords you’re using for each of your campaigns,
+and immediately see which are the most effective.
+
++ Let’s say you’re looking at your “Modern Romance” campaign. You notice that when your keywords,
+‘romantic guesthouse’ and ‘guesthouse for a romantic weekend’ were used,
+the visitor took a video tour of that room about 5% of the time.
+This is known as a 5% “conversion rate” for the goal of taking the video tour.
+
+- But, when people search for keywords like ‘luxury romantic guest house’ or ‘luxurious romantic guest house’
+the conversion rate drops to only 1%.
+
+- You’ve just found something you can improve, and there are lots of ways you might choose to do it.
+
+- First, you might look at the relevant pages on your website and see if there are changes you could make.
+
+- Take a look at all your luxury adverts and test some different messages that might really highlight either
+the video tour itself, or the luxury aspects of the guest house.
+
+- Whatever you decide to do, the key is that you’ll still be tracking what happens after you make your changes,
+and that means you’ll be able to see if your fixes raise that conversion rate from 1% to something better!
+That covers a few different ways you can measure the keywords you’re bidding on, but that’s just one part of it.
+Analytics can also help you understand the impact of the actual ads you’re running.
+
++ You know that you want to write ads that are clear and compelling to the user, but ultimately,
+those users will decide what clear and compelling means to them. And that’s where analytics can help.
+
+- Analytics tools can show you how these compare, side by side. You can see which one is more likely to
+get a click and send someone to your site, and which one is more likely to get the visitor to take that video tour.
+
++ By using Google Analytics, which integrates deeply with Google Ads, you can see the keywords and
+ads driving people to your website and what they do when they get there, but you can also see quite a bit more.
+For example, how much you had to pay for each of those clicks, and how high up on the results page your
+bids put your ads. This gives you a lot of clarity into both what you’re getting for your investment as
+well as if it makes sense for you to bid higher or lower, to reach different positions that work for your business.
+
+- Of course, the ideal position and bid for you will depend on lots of things, and you might find that it’s
+better to be higher or better to be lower, but the key is that by using analytics,
+you’ll know exactly where you perform the best, and that means you’ll be getting more out of your investment
+than your competition.
+
++ Whether you’re analyzing your keywords, your ads, or how you’re bidding in your campaigns,
+analytics tools are essential to get the most out of your SEM investments.
+So before you make another update to your campaigns, make sure you drive those decisions with data.
+
+3. Breaking down your data for insights
+
++ Analytics tools provide loads of data, but they don’t always give easy answers.
+To understand why things are happening differently for different groups,
+you can use a simple technique called segmentation. Here you’ll learn:
+- what segmentation is
+- why it’s valuable
+- how to do it.
+
++ Segmentation helps you break down and understand the data you get from web analytics
+in smaller chunks to help you get more insights and improve your website’s performance.
+
++ First, let’s break it down by geographic segments, starting with country.
+- Let’s back up and segment by something different. How about the ways people are getting to our website.
+
+- When you break down your visitors by where they came from, you can see the differences between
+your organic search traffic, paid search traffic, social media traffic, and more.
+
+And this can help you decide where you want to invest your time and resources as you build up
+your digital marketing campaigns across lots of different channels.
+
+- Chop up our visitors by the kind of device they’re using, and we’ll be able to see any differences
+between things like desktop computers, tablets, and smartphones.
+
+Here we get more valuable information. People on computers and tablets are booking to the tune of 4%.
+But people on smartphones almost never make a reservation.
+
+To improve things, you could work on making your website more mobile-friendly or see
+if there are issues with how your online booking process is working on smartphones that you can fix.
+
++ You can slice and dice by just about anything that piques your curiosity, but the general idea is this:
+break things down into smaller groups and find insights that can help you figure out how to improve.
+
+MODULE 23/26: Turn data into insights
+
+1. Using data to understand audiences
+
++ Collecting and analysing data can offer many benefits to online businesses.
+To take advantage of these benefits, it's important to first understand the types of data available
+to you as well as the best way to gather it. In this lesson, we'll explore:
+- the differences between quantitative and qualitative data
+- how online data can be used to complement your offline business approach
+- common ways to collect data
+
++ The better you understand your customers and business, the more targeted and efficient your marketing
+efforts can be.
+
+- Quantitative data is anything that can be numerically measured, like the number of people visiting
+a website or the amount of sales a site makes in a month.
+
+- Qualitative data is essentially any descriptive information that you can't put a number to.
+This could be people’s opinions about a new product, or the sentiment and language people use on
+social media when talking about a brand.
+
++ The right approach will vary depending on what information is most relevant to your business scenario.
+- If you want to know how people feel about your products or service, take a qualitative approach and
+ask them directly.
+- If you want to know something quantitative, such as the amount of time someone
+spends on one of your blog posts, use an analytics tool to review that specific metric.
+Often, combining quantitative and qualitative data will provide you with a richer overall picture.
+
++ Quantitative data can often be pulled from tools such as Google Analytics or from the
+analytics features offered by most social media platforms. This can be great for finding out information
+about demographics, search habits, and the journey a customer has taken across your digital assets.
+
+- Alternatively, qualitative data is often gathered through connecting directly with people,
+such as having a review section on your website or asking customers to fill out an online survey.
+
+- Combining different forms of data is a great way to identify what is working and what isn’t,
+and can give you valuable insights about who interacts with your business.
+
++ Online data can also be used to complement your offline business approach. For example,
+offline data like in-store customer surveys, can be combined with social media poll results to
+give you a more detailed picture of customer needs and opinions.
+
+2. Understanding the Data Cycle
+
++ One of the benefits of working in the digital world is the amount of data and information available.
+This data can help you continuously improve what you do, allowing you to meet your goals.
+In this lesson, we'll explore:
+- how the data cycle can help improve your efforts online
+- which tools can be used to capture your data
+- best practices to help you get the best results from the data collected.
+
++ The data cycle is a popular way to help you make the most of the information collected from
+various online marketing activities. Use it to help you prepare, action, and inform your business
+decisions online. The four main stages of a data cycle are: Plan, Do, Check and Act.
+
+- In the “Plan” stage, the team would identify their goal for this campaign and outline how
+they plan to promote it
+
+- Next up is the “Do” stage of the cycle. This is when the team designs the ads and launches the campaign.
+
+- A few weeks after the campaign has ended, the team measures how many people clicked on the ads 
+and assess whether the campaign had an impact on the number of people cycling to work.
+This is the “Check” stage of the data cycle.
+
+- Finally, the “Act” stage reveals where a business can use their findings to improve future campaigns.
+
++ Don’t get overwhelmed trying to collect as much data as possible.
+Focus your efforts on the data sets that are most relevant to your goals and work to capture the right
+information at the right time. Review the information you gather at periodic intervals.
+This will help you stay aware of any data anomalies that may appear during the year, such as spikes
+or drops in sales due to seasonal dates like national holidays.
+
++ Utilise online tools to help you gather the data you need and draw out the relevant insights.
+Tools such as Google Analytics, Adobe Analytics and Webtrends can provide data on website visits,
+including pages visited, time spent on site, and whether users have completed a target action,
+like completing a contact form.
+
+- Finally, if you have access to historical data or data of past trends, use it and learn from past experiences.
+
+3. Creating actionable insights from your data
+
++ Actionable insights give you tangible actions to take away, and can be used to improve your website or
+online campaigns. In this lesson, we'll explore:
+- what an actionable insight is, and how it differs from a regular insight
+- how to take action based on the data you've analysed.
+
++ To uncover your own actionable insights, try following these six steps: 
+- define your goal: Clearly outline what your campaign aims to achieve 
+- collect the data. Gather and organise any statistics or information relevant to your goal 
+- interpret the data: Analyse trends and any deviations from those trends to see how this has
+affected meeting your goals
+- develop recommendations: Provide justified suggestions on how to improve business practices based on
+what you have learned from your data analysis
+- take action: Put your recommendations into practice and create an action plan to test your assumptions,
+and finally 
+- review your outcomes: Evaluate whether your actions have had the desired impact
+
++ Susie is part of a team responsible for planning a charity fun run,
+and this year her goal is to get 250 people to register.
+
+- As her goal is to increase attendance, the data she collects from her analytics software could include
+how many people completed the sign up form, which online channel they used to register,
+and how many people shared posts on social media.
+
+- Analytics reveal that social media channels are the main source of sign ups,
+so next Susie wants to determine which social media posts were most effective at driving registrations.
+
+When interpreting the data, the trend emerges that registered runners who shares the
+charity’s social media posts on their personal accounts generated the highest number of new registrations.
+
+- By looking at these insights, Susie can conclude that registered runners become powerful ambassadors
+and are able to spread the word of the race quickly and efficiently, encouraging more sign-ups.
+
+- So, to turn this into an actionable insight, Susie now needs to combine the data gathered with an action
+that can put her research to good use. For example, she could design a series of social media posts
+that provide easy instructions on how registered runners can promote the Fun Run across their own social network.
+
+4. Managing numbers using spreadsheets
+
++ Sometimes having so much data at your disposal can seem a little overwhelming.
+Using spreadsheets gives you a way to manage this information and make the most of the data provided.
+In this lesson, we'll explore:
+- what a spreadsheet is, and how you can use it to collate and analyse data
+- basic spreadsheet formulas that can help make life easier.
+
++ A spreadsheet is defined as an interactive software application designed to help organise,
+analyse and store data. Put simply, spreadsheets create a grid of data, using a principle of rows and columns.
+Once numbers are added into the spreadsheet, you can use automated tools and functions to analyse
+the information and find the answers you are looking for.
+
+- Spreadsheet software like Microsoft Excel, Google Sheets and Apple Numbers are incredibly useful when
+dealing with large amounts of data, such as financial budgets, project plans and databases.
+
++ Filter tools allow you to quickly organise your data into a specific order, whether that be
+alphabetically or by date.
+- Not everything in a spreadsheet is just a plain number. Percentages, currency, dates and
+duration are just some of the common formats you can use depending on your data.
+- Functions can be used to instantly recalculate values based on a change
+- The function SUM() , Average, or “AVG()”, The COUNT()
+
+5. Presenting data effectively
+
++ Once you've gathered and analysed your data, the next step is knowing how to present it in
+a way that will resonate with your audience. In this lesson, we'll explore:
+- how to present your data in a clear and understandable way
+- popular visual formats to use when presenting data
+- how to match your data to the right format, based on your audience's needs.
+
++ Ask yourself the following questions to help you identify your target audience:
+- what roles or positions do people in my audience hold?
+- what level of knowledge does my audience have? and,
+- which industry does my audience work in?
+
++ Regardless of whether the data is being presented in a meeting or published in a report,
+overwhelming your audience is the fastest way to lose their attention - so avoid packing in
+too much information and aim present it in an easy-to-digest way.
+
++ Tables can be used to display smaller data sets, allowing for comparisons to be made quickly.
+
+- Pie charts are useful to display percentages or proportional information in an easy-to-digest way.
+
+- Bar charts, are great for comparing related items in a group, where the length of each bar
+is proportionate to the value it represents.
+
+- Line graphs are useful for understanding how data changes over time, for example,
+whether your website traffic has increased over the past month.
+
+- Heat maps are often used to represent performance by area, such as which parts of
+your website people are clicking on most.
+
+MODULE 24/26: Build your online shop
+
+1. Using e-commerce to sell
+
+- what e-commerce is
+- varying levels of e-commerce used in business
+- how to match your needs to the options available.
+
++ So first, what is e-commerce? Well, it’s really just a fancy name for selling things online.
+
++ Your first step might be to simply offer a way for customers to transfer money to
+your business through the web. You can easily add payment services like PayPal to
+your website that make online payment easy.
+
+- If you’re starting to sell online from scratch, you might try an “off-the-shelf” service that
+includes e-commerce, like Squarespace or Wordpress. These services not only accept payments,
+but they usually offer templates so you can easily add product pages to your website.
+
+- If you’re going for the gold, you might decide on a customised e-commerce service like Magento or Shopify.
+There are many options available, with feature like product search, inventory management, checkout,
+customer accounts, order management and more. E-commerce often brings to mind a sort of retail or
+shop-like experience. Any business that sells products in a physical shop can also sell
+their products on a virtual shop online.
+
+- After you’ve sorted out how to sell products on your own website, you want to sell more products,
+in more places. So, your next step might be to look into other online marketplaces.
+
+2. Taking payments and managing orders
+
++ If you decide to sell products and services online, many tools and solutions are available to help.
+This video will walk you through:
+- handling online payments
+- managing orders.
+
++ you want to make things easier for your customers, by accepting payments online.
+
+- You can do this using any number of online payment solutions, or what’s known as third-party payment processing,
+with services such as PayPal and Nochex.
+
+- These types of payment solutions let you add a button to your website, which customers can click to
+make a payment. This takes them to a separate payment website, which takes care of the transaction for you.
+Then after the order is complete, the customer is sent back to your site.
+
+- As transactions occur, you will receive all the information you need to fulfill the actual customer orders.
+So this approach means you can just focus on your business, while someone else takes care of the complex
+electronic transactions.
+
+- At some point, you might want to integrate the transaction experience into your website,
+such as offering online payments and a shopping cart that lets customers buy multiple items in one session.
+Despite the additional costs, this integrated process provides very real benefits. One way to start is to use
+an “off-the-shelf” service, like Squarespace. These services give you more control over the shopping and
+checkout process and let you make changes and improvements.
+
++ When you have loads of products to sell online to a broad audience, it’s probably time to consider
+a full e-commerce solution. There are many on the market— such as Shopify, Volusion or Magento.
+
+- Some are free, others you’ll need to pay for. And they all offer a wide range of features.
+But one common thing many of them offer is the ability to create and manage a fully functional online store.
+A fully functional online store has a big benefit: a backend system with order management.
+
+- Well, first, your customers can create accounts and manage their personal information, billing preferences,
+and shipping addresses. You can offer them coupon codes, integrate multiple payment options, and
+even customise the checkout process.
+
+- And rather than program all of this yourself, you can use these e-commerce services to upload and
+manage product and inventory details, create and organise category, subcategory and product pages, and
+offer advanced product search.
+
+- Many solutions manage orders, track shipping and fulfillment details, and integrate with your financial and
+accounting systems.
+
+MODULE 25/26: Sell more online
+
+Once your online shop is set up, it's time to ensure everything is optimised correctly so that customers have
+the smoothest user experience possible. Each touchpoint is an important communication opportunity between you and your customers:
+from signing in and browsing to checking out and receiving promotions about sales.
+
+1. Creating a smooth e-commerce experience
+
+- for different devices
+- navigation and search
+- product pages
+- checkout by using customer accounts.
+
++ The first step to optimising the e-commerce experience is ensuring that the purchasing process works smoothly
+on all the different devices your customers might use. One great option is to implement a “responsive design” into your website.
+
+- Say you look at your analytics data and learn that plenty of people visit your site from their mobiles,
+but they rarely make a purchase. That’s a clue that shoppers on mobiles or tablets may not be able to properly
+see your product pages, or move smoothly through the payment process.
+
++ You’ll want to make it easy for your visitors to browse and find what they’re looking for.
+This starts with navigation that your customers can easily understand and use.
+
+Typically, you’ll use categories and subcategories to organise your inventory in any number of ways.
+You can conduct formal testing to see how your visitors react to different arrangements, or
+you could simply survey your friends, family and some trusted clients to see what they prefer.
+
+- No matter how you arrange your site navigation, there will always be people who prefer to
+search for something specific rather than browse through various categories and subcategories.
+
+That’s why it’s best to cover both options and include a search function on your website.
+
++ What if you’re seeing that lots of people visit your product pages, but they don’t add any products
+to the shopping basket?
+
+You might add video of a craftsman in action, or a gallery of photos from various angles to help customers
+get a closer look at a particular piece of furniture. Make sure those photos are professional quality, and
+load quickly.
+
+You can also write up great descriptions and provide all kinds of details and measurements—whatever helps
+customers feel confident that they’re ready to buy.
+
++ The last thing we’re going to look at is how you can optimise the e-commerce experience by
+using customer accounts.
+
+- You might notice in your analytics data that customers shop on your site, and put products in the cart,
+but then leave before completing their purchase. Encouraging customers to create an account can
+streamline the process so this happens less frequently in the future.
+future purchases that much easier.
+
+- As a customer completes an online purchase, you can allow them to store their shipping and
+billing information and payment preferences in an account on your site. This will also make
+
+- If you’re ready to get super advanced, you can also use a customer’s past purchases, recent searches,
+or recently viewed products to recommend specific items that might interest them.
+
+2. Product promotion and merchandising
+
+- promoting products and specials
+- predicting products your customers might like
+- showcasing products visitors might not normally see.
+
++ The first step is to set up your online shop. That way it’s easy for your visitors to browse all of your products.
+You’ll want to create the right hierarchy of categories and subcategories, which will help a customer navigate
+your site and the products for sale.
+
+- Like a brick-and-mortar shop, online shops also display very specific, featured products.
+If it’s the end of summer and kids are going off to university, the furniture shop might have desks or
+bookcases on display and on sale. This is an example of product merchandising.
+
+You can do the same thing online, starting by promoting certain products right on your homepage.
+Your promotion might be to help shift old inventory, or feature a best-selling item you want more
+customers to see.
+
+- Using part of your homepage to showcase products, or even running online advertising campaigns with
+dedicated landing pages, can be a great way to merchandise online.
+
++ Visitors browse the pages of your site, you’re collecting data about what interests them. Now, you can use this data to predict what
+they are likely to be interested in next. Think of the last time you were shopping online.
+You might have been shown “recommended products” after viewing certain items, or putting them in your cart.
+
++ Next up in product promotion and merchandising is finding ways to showcase products that your
+visitors may not have otherwise been looking for. This can be a really effective way to cross-sell.
+Promoting related products can help increase sales.
+
+3. Retargeting for e-commerce
+
+- what product retargeting is
+- how product retargeting works
+- tips for successful retargeting campaigns.
+
++ E-commerce website can track shopper behaviour, and respond with dynamic advertising. This is called product retargeting.
+
++ The way a shopper behaves on an e-commerce site can tell that shop owner a lot about which products
+they’re interested in, and even what they were on the verge of buying.
+
+- This is very useful information for your business. Because it allows you to create very specific advertisements
+aimed at people who have showed interest in certain products. That’s what product retargeting, or remarketing,
+is all about.
+
++ It starts with that bit of code we mentioned that tracks shoppers’ interactions.
+This information is then sent to your product retargeting service.
+
+- As an advertiser, you can go to your product retargeting service and set up rules and parameters.
+So when a person browsing your site meets those parameters, the service will then start targeting them with
+advertisements over one or more of the Internet advertising networks.
+
+- Since the service knows exactly which products your shopper was interested in, those advertisements can be
+very specific and dynamic.
+
++ First, you don’t always have to offer a discount right away. If you always offer a discount,
+you could be selling yourself short.
+
+- Next, it’s good to know when to STOP showing these ads. It’s certainly possible that the visitor found
+the same product somewhere else and bought it, or simply changed their mind and isn’t going to buy it at any price.
+Most retargeting solutions allow you to set limits and experiment with just how many times you’ll show
+the same ad to the same person, and for how long.
+
+- As with any advertising campaign, it’s important to measure and optimise the performance of your product
+retargeting campaigns over time. This means tracking conversion rates, testing new types of ads,
+tweaking your parameters, and using analytics to manage these campaigns.
+
+MODULE 26/26: Expand internationally
+
+- validate your new markets
+- know the difference between translation and localisation
+- ensure you have the technical infrastructure to manage it all
+- consider advertising across borders
+
+1. Introduction to international marketing and export
+
+- how to evaluate international markets for your product
+- practical and cultural issues of expanding internationally.
+
++ For instance, with digital advertising, look at search traffic, competition and pricing.
+This will give you a clear view of your potential markets, so you can decide where your products will be
+well-received.
+
+- You can use search trend reports, geographic data in your web analytics, and marketing insight tools to
+help determine which markets would be the best place to start expanding your business.
+
++ Once you know where you want to go, you may need to overcome prospects from different cultures and languages
+
++ Next, think about your infrastructure and the systems you’ll need to properly support your expansion
+into international markets.
+- Don’t forget about packaging considerations for fragile components, VAT, and any legal or regulatory issues.
+- Once that’s resolved, it’s time to review your e-commerce and payment solutions.
+- What’s required to ship and deliver your orders? What about refunds? Customer service and support?
+
+2. Validating your new market
+
+- how to identify potential markets using analytics
+- researching search terms for international customers
+- advertising on social networks.
+
++ Before you start selling your products or services abroad, it’s really important to decide which countries
+make sense for you. Which markets have the most demand for what your businesses offer?
+Do some pose legal or logistical challenges that you need to be aware of?
+
++ Google’s Market Finder is free tool allows you to quickly analyze search
+traffic on keywords that are important to your business.
+
+- Once you’ve found some countries that do a lot of searching for your products,
+use tools like Google’s Keyword Planner or Bing’s Keyword Research Tool to find out how much competition
+there is for search ads. This will help you know whether you’re entering a market with few competitors, or
+whether you’ll be entering an already crowded space.
+
+- Another handy tool is your web analytics. Whether you’re using Google Analytics or any of the other
+common analytics tools, you can check whether people in other markets are already showing interest in
+your business.
+
++ Of course, there are some other considerations you should take into account when deciding which
+markets to focus on. For example, some countries may pose more legal, regulatory, or tax issues than others.
+
+3. Being understood abroad
+
++ To expand globally, you need to communicate in other languages and provide support to
+customers wherever they are.
+- the difference between translation and localisation
+- how to do it right.
+
++ Translation is the process of changing your content from one language to another.
+After all, when potential customers in new markets find your website, you want them to be able
+to understand what it says.
+
+- Localisation is the process that makes locals feel like you “speak their language”.
+
++ Once your site is translated and localised, it’s worth the effort to have a native speaker review the work.
+
+4. Advertise across borders
+
+- search advertising
+- display advertising
+- advertising on social networks.
+
++ Investing in advertising can help get your name out there much faster. Let’s take a look at search advertising,
+display advertising, and advertising on social media, and how they can work together.
+
++ Advertising on search results is a great way to get in front of people who are already looking for products
+like yours. Just translate and adapt your keywords and ads. Then, make sure that your ads point people to
+a landing page that’s written in the local language.
+
+- Google’s Keyword Planner or Bing’s Keyword Research Tool.
+can tell you which keywords are popular, as well as other useful information.
+Like how much they might cost, and how many competitors you’re likely to face.
+
++ Display advertising and social media are two great ways to raise awareness.
+
+- You could start by advertising on the websites your audience is visiting online.
+Google Display Planner can provide detailed info about where your audience is spending time online.
+
+- Identify popular social networks to use social networks to advertise
+
++ You could now gear your advertising to continue engaging with them, and build loyalty. Email marketing or retargeting
+
+5. The support systems you will need
+
+- making your business accessible to new customers ()
+- managing the supply chain
+- possible legal and regulatory implications.
+
++ First, technical infrastructure: your website performs, Internet connection speeds
+establish a way to communicate beyond just your website, like through a telephone line.
+
+- Next, supply chain and make sure you’re able to deliver your products to all the far corners
+where you want to sell them.
+source from a local supplier
+
+- Don’t forget to review all taxes and laws affecting businesses in these markets:
+tax requirements and import or export restrictions
+tax collection, and additional customs or tariffs
+
+6. Helping customers abroad buy your products
+
++ check off your list to make sure that the following things are international-friendly:
+- your site itself
+- the e-commerce system
+- the payment process
+
++ Step One: Language and Localisation.
+You’ll need to translate your site and it’s probably best to have it done by a native speaker
+
+- Step Two: Payments.
+Different countries have different preferred payment methods
+Online payment services like Paypal and Worldpay may be an easy solution
+Some customers may not have access to credit cards so will prefer to use those services, or even their debit cards.
+An e-commerce system that adapts for different currencies and taxes
+
+-  Step Three: Review.
+Take some time to go over your entire site from the point of view of an international visitor.
+Is it a clear path? Are there familiar terms and formats? Currencies? Payment methods?
+
+7. Delivering to customers across the globe
+
++ You might have all your systems in place to accept international orders.
+But can you deliver your products accurately and on time? What about customer service and support?
+Are you prepared to handle refunds and exchanges across borders? In this video, we'll explore:
+- processes involved in deliveries
+- choosing reliable shipping partners and services
+- post-sales customer service and support
+
++ Visit a website
+- select a product
+- give the merchant your payment and
+- shipping information
+- Then wait for your order to arrive
+- Afterwards, if you have any issues, you contact the business for assistance.
+
++ But now you’ve got borders to deal with
+- currencies to exchange
+- possible returns to handle
+- and more customers to support.
+
++ Before offering product delivery to international customers
+- your inventory and supply chain: ensure your products are adequately, shipped in a timely manner
+- cross-border shipping: packaging and labelling for shipping, extra costs, pay import or customs taxes 
+- and customer support: return or exchange their purchase? How will you process refunds? cultivate this one-time customer into a loyal, repeat buyer.

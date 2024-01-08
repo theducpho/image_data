@@ -1,0 +1,19 @@
+Boss : người đưa ra các quyết định
+- Project sắp tới thì làm một trang web về quản lý thông tin lao động trên tàu
+- Yêu cầu 3 tháng thì sẽ có những chức năng cơ bản cho người dừng)
+
+Leader : Người đưa ra solution, quản lý team
+- Trang web sẽ làm bằng laravel
+- Cần một team 6 người (code, test, BA, ...)
+Tùy quy mô công ty, quy mô team mà leader sẽ có hoặc không các sub-key, tức là người quản lý các nhóm nhỏ bên dưới
+- Trang web : key A quản lý sub về web laravel (nhóm này có 3 người, 2 dev, 1 test => 4)
+- App mobile : key B quản lý sub về app trên mobile (nhóm này có 2 người, 1 dev, 1 test => 3)
+- App PC : key C quản lý sub về app trên PC (nhóm này có 2 người, 1 dev, 1 test => 3)
+Tùy vào trình độ của A, B, C mà leader sẽ can thiệp ít hay nhiều vào công việc của sub.
+(Quản lý thời gian làm việc, quản lý ngày nghỉ, quản lý tiến độ công việc, ...)
+Khi có 1 problem nào xảy ra thì Leader phải là người chịu trách nhiệm do đó việc lựa chọn key cũng rất quan trọng
+Lựa chọn đúng thảnh thơi, lựa chọn sai thì mệt mỏi
+
+Career path đúng: dev, test => key => leader => manager
+
+Fujinet: Junior->Senior->sub leader->leader-> manager
