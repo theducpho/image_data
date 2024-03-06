@@ -170,7 +170,7 @@ class SingleModePlayboardController extends PlayboardController<SinglePlayboardS
       ref.read(counterProvider.notifier).state = stopwatch.elapsed;
       stopwatch.reset();
       Future.delayed(
-        const Duration(seconds: 2, milliseconds: 500),
+        const Duration(seconds: 0, milliseconds: 500),
         () => ref.read(backgroundAudioControllerProvider.notifier).playWinSound(),
       );
     }
